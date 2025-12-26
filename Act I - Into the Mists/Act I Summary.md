@@ -1,46 +1,47 @@
-In this act, the players are lured into the haunted Death House, which mystically transports them into the land of Barovia. As the players gain their bearings, they travel to the village of Barovia, where they meet burgomaster Ismark Kolyanovich and his sister, Ireena Kolyana, and learn about the mysterious Strahd von Zarovich, a vampire that has recently awoken to plague the Barovian valley.
+В этом акте игроков заманивают в проклятый Дом Смерти, который мистически переносит их в земли Баровии. Ориентируясь на местности, игроки отправляются в деревню Баровия, где встречают бургомистра Исмарка Коляновича и его сестру Ирину Коляну, и узнают о таинственном Страде фон Заровиче — вампире, что недавно пробудился, дабы терзать баровийскую долину.
 
-The players are asked to escort Ireena to the nearby town of Vallaki for safety; if the players agree, Ireena also asks them to assist in the burial of her late father, Burgomaster Kolyan Indirovich. While at the local church, the players meet Doru, a **vampire spawn** at war with his bloodthirsty nature, and have an opportunity to reconcile him with his father, the priest Donavich.
+Игроков просят сопроводить Ирину в ближайший город Валлаки ради безопасности; если игроки согласятся, Ирина также просит их помочь с погребением останков её покойного отца, бургомистра Коляна Индировича. В местной церкви игроки встречают Дору — **отпрыска вампира**, борющегося со своей кровожадной натурой, — и получают возможность примирить его с отцом, священником Донавичем.
 
-Upon receiving a warning and invitation sent in a dream from the Vistani seer Madam Eva, the players depart the village of Barovia for a Vistani encampment at nearby Tser Pool. Following a brief encounter with Strahd himself, the players receive a mystical Tarokka reading from Madam Eva, who foretells the location of three mystical artifacts—and a companion—who will help them defeat Strahd.
+Получив предупреждение и приглашение в видении от вистанийской провидицы Мадам Евы, игроки покидают деревню Баровия и направляются к вистанийскому лагерю у близлежащего озера Цер. После краткой встречи со Страдом лично игроки получают мистическое гадание на колоде Тарокка от Мадам Евы, которая предрекает местонахождение трёх мистических артефактов — и спутника, — что помогут им одолеть Страда.
 
-As the players travel to Madam Eva's camp and the nearby town of Vallaki, they encounter a number of characters with ties to possible future adventures, as well as some adversarial encounters that will test their tactics, coordination, and combat skill.
+По пути к лагерю Мадам Евы и в ближайший город Валлаки игроки встречают нескольких персонажей, связанных с возможными будущими приключениями, а также сталкиваются с враждебными встречами, что испытают их тактику, координацию и боевые навыки.
 
-Upon their arrival in Vallaki, the players can find shelter at the Blue Water Inn, and—if she is with them—help Ireena seek shelter at St. Andral’s Church. The act ends when the players take their first long rest in Vallaki.
-# Milestones
-The players begin this act at 2nd level and should end it at 4th level, gaining milestone XP when they successfully do any of the following:
+По прибытии в Валлаки игроки могут найти приют в таверне «Голубая Вода», а если Ирина с ними — помочь ей обрести убежище в церкви Святого Андрала. Акт завершается, когда игроки впервые берут продолжительный отдых в Валлаки.
 
-* discover the secret staircase in Death House (200 XP)
-* successfully escape Death House (400 XP)
-* bury the remains of Burgomaster Kolyan Indirovich in the cemetery of the village of Barovia (400 XP)
-* reconcile Doru with his father (100 XP)
-* receive the Tarokka reading from Madam Eva (500 XP)
-* escort Ireena to Vallaki (250 XP)
-* find lodging in Vallaki (1,000 XP)
-# Timeline
-* [[Arc A - Escape From Death House]]: The players enter Death House, defeat the Flesh Mound, and emerge into the Svalich Woods on Octyavr 27, 735 B.C. (Barovian Calendar).
-* [[Act I - Into the Mists/Arc B - Welcome to Barovia]]: The players arrive in the village of Barovia and meet Ismark and Ireena on Octyavr 28.
-* [[Act I - Into the Mists/Arc C - Into the Valley]]: The players receive the Tarokka reading on Neyavr 1, arrive in Vallaki on Neyavr 2, and encounter Baron Vallakovich the morning of Neyavr 3.
+# Вехи
 
-> [!info]+ **The Barovian Calendar** 
-> The current Barovian year is 735 B.C. (Barovian Calendar). The Barovian calendar has twelve 28-day months, which are named as follows: <sup>1</sup>
-> 
-> 
-| Month | Barovian Name | Gregorian Name |
-| :---: | :------------ | :------------- |
-|   1   | Yinvar        | January        |
-|   2   | Fivral        | February       |
-|   3   | Mart          | March          |
-|   4   | Apryl         | April          |
-|   5   | Mai           | May            |
-|   6   | Eyune         | June           |
-|   7   | Eyule         | July           |
-|   8   | Avgust        | August         |
-|   9   | Sintyavr      | September      |
-|  10   | Octyavr       | October        |
-|  11   | Neyavr        | November       |
-|  12   | Dekavr        | December       |
+Игроки начинают этот акт на 2-м уровне и должны завершить его на 4-м уровне, получая опыт вехи при успешном выполнении любого из следующих действий:
 
+- обнаружить потайную лестницу в Доме Смерти (200 опыта)
+- успешно выбраться из Дома Смерти (400 опыта)
+- похоронить останки бургомистра Коляна Индировича на кладбище деревни Баровия (400 опыта)
+- примирить Дору с его отцом (100 опыта)
+- получить гадание на колоде Тарокка от Мадам Евы (500 опыта)
+- сопроводить Ирину в Валлаки (250 опыта)
+- найти ночлег в Валлаки (1 000 опыта)
 
+# Хронология
 
-<sup>1</sup> Barovian Calendar, *The Travelogue Wiki*, https://travelogue.fandom.com/wiki/Barovian_Calendar (last visited Mar. 29, 2024).
+- [[Arc A - Escape From Death House]]: Игроки входят в Дом Смерти, побеждают Плоть-Кучу и выходят в Сваличские Леса 27 октября 735 г. до Б.Ц. (Баровийский календарь).
+- [[Act I - Into the Mists/Arc B - Welcome to Barovia]]: Игроки прибывают в деревню Баровия и встречают Исмарка и Ирину 28 октября.
+- [[Act I - Into the Mists/Arc C - Into the Valley]]: Игроки получают гадание на колоде Тарокка 1 ноября, прибывают в Валлаки 2 ноября и встречают барона Валлаковича утром 3 ноября.
+
+> [!info]+ **Баровийский Календарь**
+> Ныне идёт 735 год до Баровийского Церковного календаря. Баровийский календарь состоит из двенадцати месяцев по двадцать восемь дней каждый, кои носят следующие имена: <sup>1</sup>
+>
+> | Месяц | Баровийское Название | Грегорианское Название |
+> | :---: | :------------------- | :--------------------- |
+> |   1   | Yinvar (Йинвар)      | January (Январь)       |
+> |   2   | Fivral (Фивраль)     | February (Февраль)     |
+> |   3   | Mart (Март)          | March (Март)           |
+> |   4   | Apryl (Априль)       | April (Апрель)         |
+> |   5   | Mai (Май)            | May (Май)              |
+> |   6   | Eyune (Эйюн)         | June (Июнь)            |
+> |   7   | Eyule (Эйюль)        | July (Июль)            |
+> |   8   | Avgust (Август)      | August (Август)        |
+> |   9   | Sintyavr (Синтявр)   | September (Сентябрь)   |
+> |  10   | Octyavr (Октиявр)    | October (Октябрь)      |
+> |  11   | Neyavr (Нейявр)      | November (Ноябрь)      |
+> |  12   | Dekavr (Декавр)      | December (Декабрь)     |
+
+<sup>1</sup> Баровийский Календарь, _Вики Путешествий_, https://travelogue.fandom.com/wiki/Barovian_Calendar (последнее посещение 29 марта 2024).
