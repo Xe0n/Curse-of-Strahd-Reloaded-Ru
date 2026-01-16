@@ -1,71 +1,71 @@
-In this act, which begins the morning after the players’ first full moon in Vallaki, the players receive a pair of invitations.
+Этот акт начинается утром после первого полнолуния, которое персонажи встретили в Валлаки. Герои получают два приглашения.
 
-The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
+Первое — мольба Урвина Мартикова — просит персонажей отправиться на винодельню «Волшебник Вин» к западу, дабы разобраться в загадочной нехватке вина, описанной в [[Arc J - The Stolen Gem]].
 
-The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
+Второе — письмо от самого Страда фон Заровича — приглашает персонажей отужинать в Замке Равенлофт вместе с ним и его свитой в ночь перед новолунием, как описано в [[Arc O - Dinner with the Devil]].
 
-Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
+Если персонажи примут поручение Мартиковых в [[Arc J - The Stolen Gem]], они обретут двух спутников: Мюриэль Виншоу — **вороноборотня**, агента Хранителей Перьев, — и Ирину Коляну, которая просит позволить ей присоединиться к отряду в борьбе против Страда. Персонажи должны освободить винодельню от **друидов** Лесного Народа, захвативших её, а затем вернуть зачарованный камень с Холма Вчерашнего Дня на юге, прежде чем винодельня «Волшебник Вин» будет уничтожена.
 
-Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Arc L - The Den of Wolves]], and uncover the mysteries of Argynvostholt in [[Arc M - The Dragon's Manor]].
+Тем временем, исследуя другие зацепки в западной части Баровии, персонажи могут завербовать вистани-охотницу на чудовищ Эсмеральду Д'Авенир в [[Arc K - The Fallen Abbey]], расследовать дела стаи оборотней в [[Arc L - The Den of Wolves]] и раскрыть тайны Аргинвостхольта в [[Arc M - The Dragon's Manor]].
 
-In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenkind* in [[Arc L - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Arc M - The Dragon's Manor]].
+Попутно они получат множество причин отправиться в Замок Равенлофт: вернуть *Икону Равенлофта*, чтобы очистить Аббата от скверны в [[Arc K - The Fallen Abbey]]; спасти **оборотня** Эмиля Торанеску в обмен на *Святой Символ Равенкинд* в [[Arc L - The Den of Wolves]]; и выкрасть череп дракона Аргинвоста, дабы вновь принести надежду этим землям в [[Arc M - The Dragon's Manor]].
 
-On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Arc O - Dinner with the Devil]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Arc P - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
+В последнюю ночь перед новолунием персонажи могут отужинать со Страдом фон Заровичем и членами его двора в [[Arc O - Dinner with the Devil]]. Там они узнают, что следующей ночью Страда не будет в замке — идеальная возможность проникнуть туда, как описано в [[Arc P - Ravenloft Heist]]. После этого персонажи должны вернуться в западную долину, чтобы очистить душу Аббата, одолеть **оборотня** Кирилла Стояновича и вновь зажечь маяк Аргинвостхольта.
 
-This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
-# Milestones
-The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+Этот акт завершается в сумерках первого дня после того, как персонажи проникли в Замок Равенлофт в [[Arc P - Ravenloft Heist]]. Однако персонажи по-прежнему могут завершить незакрытые сюжетные арки этого акта даже после начала Акта IV — при условии, разумеется, что эти арки всё ещё возможно завершить.
+# Вехи
+Персонажи начинают этот акт на 5-м уровне и должны завершить его на 8-м уровне, получая опыт за вехи при успешном выполнении следующих задач:
 
-* defeat the druids occupying the Wizard of Wines winery (2,000 XP)
-* retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,000 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
-* free Ilya and Zuleika from the den (250 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
-* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (250 XP)
-* obtain the *Spear of the Huntress* from King Dostron's crypt (250 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (250 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (250 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (250 XP)
-* defeat the Abbot (2,000 XP)
-* redeem the Abbot after defeating him (500 XP)
-* defeat Kiril Stoyanovich (2,000 XP)
-* light the beacon of Argynvostholt (3,000 XP)
-# Timeline
-The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
+* одолеть друидов, захвативших винодельню «Волшебник Вин» (2 000 опыта)
+* вернуть украденный камень с Холма Вчерашнего Дня (2 500 опыта)
+* завербовать Эсмеральду Д'Авенир в Аббатстве Святой Марковии (1 000 опыта)
+* заключить сделку с Зулейкой Торанеску в Логове Оборотней (1 500 опыта)
+* освободить Илью и Зулейку из логова (250 опыта)
+* получить поручение Аргинвоста в Аргинвостхольте (2 500 опыта)
+* упокоить призрак Варушки и найти её тайник в Замке Равенлофт (500 опыта)
+* вернуться из Замка Равенлофт после ужина со Страдом (3 500 опыта)
+* выкрасть череп Аргинвоста из **Зала Костей** Равенлофта (4 000 опыта)
+* вернуть *Икону Равенлофта* из катакомб Равенлофта (250 опыта)
+* добыть *Копьё Охотницы* из склепа короля Дострона (250 опыта)
+* спасти Эмиля Торанеску из подземелий Равенлофта (250 опыта)
+* спасти Гертруду из хозяйских покоев Замка Равенлофт (250 опыта)
+* ограбить тайную сокровищницу Страда в Замке Равенлофт (250 опыта)
+* одолеть Аббата (2 000 опыта)
+* искупить Аббата после победы над ним (500 опыта)
+* одолеть Кирилла Стояновича (2 000 опыта)
+* зажечь маяк Аргинвостхольта (3 000 опыта)
+# Хронология
+Задания Акта III становятся доступны и выполняются согласно таблице ниже. (🟢 обозначает день, когда задание доступно; 🔶 обозначает день значимого события; 🟥 обозначает крайний срок задания; ❌ обозначает день, когда задание недоступно.)
 
-| Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
-| :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K: The Fallen Abbey      | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Den of Wolves     | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: Argynvost's Beacon    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
-| O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
-| P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
-| Q: A Shining Beacon      | —   | —   | —   | —   | —   | —   | —   | 🔶  |
+| Арка / День нейавра                    | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| :------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| J: Похищенный самоцвет                 | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K: Падшее аббатство                    | —   | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| L: Логово волков                       | —   | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| M: Поместье дракона                    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| N: Предания Валлаки                    | —   | —   | —   | —   | —   | —   | —   | —   |
+| O: Ужин с дьяволом                     | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| P: Ограбление Равенлофта               | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| Q: Сияющий маяк                        | —   | —   | —   | —   | —   | —   | —   | 🔶  |
 
-The most common path through Act III is as follows:
+Наиболее распространённый путь через Акт III выглядит следующим образом:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶).
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **9 нейавра.** Персонажи получают просьбу Урвина Мартикова выполнить [[Arc J - The Stolen Gem]] (🔶).
+* **10 нейавра.** Персонажи отправляются на винодельню «Волшебник Вин» и одолевают друидов Лесного Народа в [[Arc J - The Stolen Gem]].
+* **11 нейавра.** Персонажи отправляются на Холм Вчерашнего Дня на рассвете и срывают ритуал призыва **древесной погибели** Зимощепа в [[Arc J - The Stolen Gem]]. Затем персонажи встречают Эсмеральду Д'Авенир в деревне Крезк и проводят спиритический сеанс в Аббатстве Святой Марковии в [[Arc K - The Fallen Abbey]], после чего с наступлением ночи устраивают засаду у логова оборотней в [[Arc L - The Den of Wolves]].
+* **12 нейавра.** Персонажи исследуют Аргинвостхольт в [[Arc M - The Dragon's Manor]].
+* **13 нейавра.** Персонажи берут день отдыха.
+* **14 нейавра.** Персонажи ужинают со Страдом в сумерках в [[Arc O - Dinner with the Devil]] (🔶).
+* **15 нейавра (новолуние).** Персонажи проникают в Замок Равенлофт в сумерках, а затем сбегают через телепортационную жаровню в [[Arc P - Ravenloft Heist]] (🔶).
+* **16 нейавра.** Персонажи зажигают маяк Аргинвостхольта и одолевают оборотня Кирилла Стояновича в [[Arc Q - A Shining Beacon]] (🔶).
 
-Alternately, particularly swift players might take the following path through Act III instead:
+В качестве альтернативы особенно расторопные персонажи могут пройти Акт III следующим образом:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players take a day of downtime.
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **9 нейавра.** Персонажи получают просьбу Урвина Мартикова выполнить [[Arc J - The Stolen Gem]] (🔶), а затем исследуют Аргинвостхольт в [[Arc M - The Dragon's Manor]].
+* **10 нейавра.** Персонажи отправляются на винодельню «Волшебник Вин» и одолевают друидов Лесного Народа в [[Arc J - The Stolen Gem]].
+* **11 нейавра.** Персонажи отправляются на Холм Вчерашнего Дня на рассвете и срывают ритуал призыва **древесной погибели** Зимощепа в [[Arc J - The Stolen Gem]]. Затем персонажи встречают Эсмеральду Д'Авенир и проводят спиритический сеанс в [[Arc K - The Fallen Abbey]], а также устраивают засаду у логова оборотней в [[Arc L - The Den of Wolves]].
+* **12 нейавра.** Персонажи берут день отдыха.
+* **13 нейавра.** Персонажи берут день отдыха.
+* **14 нейавра.** Персонажи берут день отдыха, а затем ужинают со Страдом в сумерках в [[Arc O - Dinner with the Devil]] (🔶).
+* **15 нейавра (новолуние).** Персонажи проникают в Замок Равенлофт в сумерках, а затем сбегают через телепортационную жаровню в [[Arc P - Ravenloft Heist]] (🔶).
+* **16 нейавра.** Персонажи зажигают маяк Аргинвостхольта и одолевают оборотня Кирилла Стояновича в [[Arc Q - A Shining Beacon]] (🔶).
