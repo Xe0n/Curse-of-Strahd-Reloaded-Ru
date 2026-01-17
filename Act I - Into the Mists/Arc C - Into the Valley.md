@@ -1,58 +1,58 @@
-_Приключение для пяти персонажей 3-го уровня._
+_An adventure for five 3rd-level characters._
 
-В этой арке игроки покидают городок Баровию, направляясь к озеру Тсер и городу Валлаки. Во время путешествия сквозь леса они могут столкнуться с парой баровянских **разведчиков**, ищущих пропавшую семью, отвлечь или вступить в бой с ордой **зомби** и обнаружить тайник с оружием, оставленный доктором Рудольфом ван Рихтеном.
+In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
 
-По прибытии к перекрестку реки Ивлис игроки впервые встречают Страда фон Заровича, сопровождаемого Эшером, одним из его вампирских спутников. После напряженного разговора игроки могут направиться на север к озеру Тсер.
+Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool.
 
-На пути к озеру Тсер игроки встречают ворону — замаскированного **вервольфа** Мюриэль Виншоу — убегающую от чудовищного **стрижа**, пугала небес, созданного болотной ведьмой Бабой Лысагой. Если игроки защитят Мюриэль от атаки стрижа, она присоединится к ним на оставшуюся часть путешествия в Валлаки, хотя и не раскроет свою истинную сущность.
+On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
 
-Вскоре после этого игроки наконец прибывают в вистанийский лагерь у озера Тсер. Там они получают магическое гадание на картах Тарокка от мадам Евы, которое предсказывает местонахождение трех артефактов, которые помогут в борьбе со Страдом, а также союзника, предназначенного помочь им.
+Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them.
 
-Во время пребывания у озера Тсер игроки слышат вистанийские сказания об истории Страда и _Святом Символе Равенкинда_ и могут также встретить Артури Раданавича, странствующего вистани, который утверждает, что когда-то знал Рудольфа ван Рихтена. При отъезде игроки также получают задание от мадам Евы купить игрушку в Валлаки для доставки ее праправнучке Арабель.
+While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the _Holy Symbol of Ravenkind_, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
 
-Если игроки поручены сопроводить Ирину в церковь Святого Андрала в Валлаки, или если у них есть собственные причины для этого, они затем возвращаются к Старой дороге Свалич через перекресток реки Ивлис, путешествуя на запад сквозь горы. По пути они встречают странного скелетного всадника, пару свежих могил, бдительного ревенанта, **ночную каргу** Моргантру в облике торговки, две стаи дружелюбных **ворон** и **оборотня**, сопровождаемого стаей алчущих **волков**.
+If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**.
 
-По прибытии в Валлаки игроки могут найти жилье в гостинице «Голубая вода». Там они могут встретить множество колоритных персонажей, включая директора цирка Риктавио и сыновей леди Фионы Вахтер. Когда наступит утро, игроки могут также иметь роковую встречу с бароном Варгасом Валлаковичем и его грубым исполнителем, Изеком Стразни...
+Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
 
-> [!warning]+ **Дорога от озера Тсер**
+> [!warning]+ **The Road From Tser Pool**
 >
-> Карта Баровии в модуле изображает пунктирную линию, которая, кажется, соединяет лагерь у озера Тсер с водопадами Тсер. Несмотря на видимость, <span class="citation">Tser Falls (p. 37)</span> ясно показывает, что это не короткий путь. Вместо этого эта пунктирная линия является тропинкой, ведущей к основанию водопадов Тсер, тысячу футов ниже моста наверху. Ни в одной точке она не соединяется обратно с главной дорогой.
+> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
 >
-> Чтобы путешествовать от лагеря у озера Тсер до Валлаки, игрокам вместо этого нужно будет путешествовать на юг, обратно к перекрестку реки Ивлис, затем взять Старую дорогу Свалич на запад.
+> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
 
-> [!info]+ **Без случайных встреч**
-> Это руководство включает материал из оригинального модуля _Curse of Strahd_ только по ссылке. Таким образом, когда игроки путешествуют, вы должны игнорировать раздел <span class="citation">Random Encounters (p. 28)</span>, за исключением случаев, когда конкретная встреча указана и включена напрямую.
+> [!info]+ **No Random Encounters**
+> This guide incorporates the material in the original _Curse of Strahd_ module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
 
-# C1. Сваличский лес
+# C1. The Svalich Woods
 
-Путь от городка Баровии к перекрестку реки Ивлис составляет три мили и занимает один час.
+The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
 
-## C1a. Баровые разведчики
+## C1a. The Barovian Scouts
 
-Когда игроки путешествуют, прочтите:
+As the players travel, read:
 
-<div class="description"><p>Вы отправляетесь из молчаливого городка Баровии, туман ползет вокруг ваших ног, когда вы выходите на Старую дорогу Свалич. Море высоких бледно-зеленых трав простирается перед вами по обе стороны дороги, вплоть до края реки Ивлис. Небо над головой тускло-серое, тучи тяжелы от обещания дождя.</p>
-<p>Вскоре вы можете увидеть старый арочный каменный мост вдалеке, перекинутый через чистую голубую реку впереди. Перейдя его, вы оказываетесь на грязной дороге, извивающейся сквозь деревья. Воздух густ от запаха влажной земли и гниющих листьев, а деревья подступают близко, отбрасывая глубокие тени, вырезающие темные борозды поперек дороги.</p></div>
+<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
+<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
 
-Если у кого-то из игроков пассивная Мудрость (Восприятие) 16 или выше, они слышат шорох и видят силуэт, притаившийся в туманном подлеске. В противном случае игроки просто слышат голос, зовущий приглушенно и рассеянно в тумане: «Кто идет? Назовите себя.»
+If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
 
-Голос принадлежит грубой баровянской **разведчице** по имени Кереза, к которой присоединяется второй, мягко говорящий мужской **разведчик** по имени Корга, которых игроки ранее встречали в [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. После подтверждения, что игроки не перевозят Ирину против ее воли, разведчики предупреждают игроков, что шпионы Страда многочисленны по всему Сваличскому лесу, включая волков, летучих мышей и — порой — сами деревья. (Если спросить о деревьях, разведчики могут описать увиденные одушевленные лозы, саженцы и заросли ежевики, блуждающие по лесу с враждебным намерением.)
+The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
 
-Если [[Non-Player Characters#Ireena Kolyana|Ирина]] с игроками, она может помочь игрокам успокоить разведчиков, которые узнают ее и приветствуют с тихим уважением. Разведчики удивлены видеть Ирину, отправляющуюся из городка, но соглашаются, что Валлаки, вероятно, безопаснее Баровии — предполагая, конечно, что она сможет добраться туда safely. (Ирина упорно настаивает, однако, что ее путешествие дипломатическое и гуманитарное, и что игроки — ее эскорт и телохранители.)
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
 
-Разведчики ищут семью Ланстен: двух родителей и трех маленьких детей — девочку и двух мальчиков — которые пропали во время атаки зомби на городок и не были замечены с тех пор. После вопроса, видели ли игроки их добычу во время путешествия, разведчики предупреждают их не сворачивать с дороги, отмечая, что мертвые и темные вещи таятся под кронами деревьев. Кереза и Корга затем уважительно уходят.
+The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
 
-Вскоре после того, как игроки возобновляют свой поход по Старой дороге Свалич, начинает моросить мелкий дождь, поднимая тонкий туман, плывущий сквозь подлесок.
+Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
 
-## C1b. Тайник ван Рихтена
+## C1b. Van Richten’s Cache
 
-Когда игроки продолжают путь по дороге, прочтите:
+As the players continue down the road, read:
 
-<div class="description"><p>Вы путешествуете глубже в лес, грязная дорога ведет вас все дальше от цивилизации. Когда дорога изгибается, река вновь касается вас. Здесь река шире, ее воды темны и спокойны. Вы можете видеть отражение деревьев и тумана на ее поверхности. Звук тихой, журчащей воды встречается только с шорохом листьев и моросью мягкого дождя. Никакая птичья песня не нарушает тишину, висящую над лесом.</p></div>
+<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
 
-Во время пересечения этой секции Старой дороги Свалич игроки выслеживаются одним из шпионов Страда: **волком.** (См. <span class="citation">Strahd's Spies, pg. 29</span> для дополнительной информации.)
+While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
 
-Если игроки получили местоположение скрытого оружейного тайника ван Рихтена от Дору в баровянской церкви, они могут войти в лес к югу, чтобы найти его. Если они это делают, прочтите:
+If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
 
 <div class="description">
 <p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
@@ -70,72 +70,72 @@ The players can attempt to lure the zombies away from the clearing; given the zo
 
 If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two _healer’s kits_, two vials of _holy water_, and one _potion of healing._
 
-# C2. Перекресток реки Ивлис
+# C2. River Ivlis Crossroads
 
-<span class="citation"><em>Эта сцена происходит в Главе 2: Область Ж.</em></span>
+<span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
 
-Когда игроки приближаются к этой области, морось прекращается. Прочтите:
+As the players approach this area, the drizzling rain stops. Read:
 
-<div class="description"><p>Вскоре река вновь изгибается из виду, и темные леса вновь окружают дорогу. Наконец, однако, деревья отступают, открывая высокий утес у основания туманного горного склона. Воздух здесь холодный и влажный, и мягкие пряди тумана кружатся у основания утеса.</p></div>
+<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
 
-Игроки прибыли к перекрестку реки Ивлис, который в основном описан в <span class="citation">River Ivlis Crossroads (p. 35)</span>. Не проверяйте случайную встречу, когда игроки прибывают.
+The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
 
-Эта сцена начинается подобно <span class="citation">River Ivlis Crossroads (p. 35)</span>. Однако, когда игроки впервые собираются отправиться к озеру Тсер, вместо того чтобы увидеть **Повышенного**, они могут услышать звук приближающегося сквозь туман конного экипажа или повозки. Почти сразу, как появляется звук, черный экипаж Страда, описанный в <span class="citation">Black Carriage (p. 37)</span> и <span class="citation">Carriage House (p. 54)</span>, появляется в поле зрения.
+This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
 
-## C2a. Прибытие Страда
+## C2a. Strahd’s Arrival
 
-Игроки могут видеть кучера, сидящего в коробке экипажа: **порождение вампира** Эшер, описанный в <span class="citation">K49. Lounge (p. 70)</span>. Если присутствует, Ирина ахает при виде его, шепча, что думала, что он мертв.
+The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
 
-> [!abstract]+ **А что если игроки бегут?**
+> [!abstract]+ **What If The Players Flee?**
 >
-> У игроков должно быть мало времени попытаться спрятаться перед тем, как экипаж Страда появится в поле зрения. Однако, если игроки пытаются бежать от экипажа в лес, **гигантские волки** Страда — по одному на каждого игрока плюс Ирина — появляются из тумана позади них и рычат, преграждая игрокам путь к бегству.
+> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
 
-Затем экипаж останавливается. Прочтите следующее, изменяя текст по необходимости, если Ирина не присутствует, и делая краткие паузы после каждого параграфа, чтобы позволить игрокам короткую возможность действовать или реагировать:
+The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
 
-<div class="description"><p>Кучер отпускает поводья, спускается с коробки экипажа и движется открыть боковую дверь экипажа, низко кланяясь. Момент проходит — и затем мужчина выходит из экипажа.</p>
-<p>Он высок, худощав и одет в роскошь, подобающую человеку аристократического, даже королевского статуса. Черный плащ аккуратно наброшен на его плечи, завязан у шеи кроваво-красной брошью. Длинный меч покоится в ножнах на его бедре, его полированная рукоять блестит под тусклым светом. Его алый камзол украшен замысловатыми узорами, а волосы зачесаны назад в острый и безупречный вдовый пик. </p><p>Его глаза темны, и когда он движется поправить рубин на шее, вы видите, что его ногти образуют длинные, элегантные когти. Только тогда вы осознаете, что его кожа бледна — неестественно бледна — и что его глаза мерцают глубоким, умным голодом.</p></div>
+<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
+<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
 
-Если [[Non-Player Characters#Ireena Kolyana|Ирина]] с партией, добавьте:
+If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
 
-<div class="description"><p>Ирина отшатывается назад, как от удара. Она отводит глаза от взгляда мужчины, все ее тело напрягается. «Не смотрите ему в глаза,» давится она.</p>
-<p>Взгляд мужчины на мгновение задерживается на Ирине, и он улыбается — хотя никакой теплоты не достигает его глаз. «Леди Коляна,» говорит он. «Какое приятное удивление.» Затем он поворачивает взгляд к вам. </p></div>
+<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
+<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
 
-Независимо от того, с партией Ирина или нет, добавьте:
+Whether Ireena is with the party or not, add:
 
-<div class="description"><p>«Добрый день,» говорит он. «Я граф Страд фон Зарович — и это удовольствие наконец встретить новоприбывших в мои владения. Мои друзья рассказали мне так много о вас.» Его глаза задерживаются на каждом из вас по очереди, разглядывая вас как кусок мяса, взвешиваемый на рынке, интригующую, но неодушевленную безделушку — добычу, замеченную хищником в кустах.</p></div>
+<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
 
-> [!lore]+ **Предсказание Страда**
+> [!lore]+ **Strahd’s Foretelling**
 >
-> В то время, когда он встречает игроков, Страд возвращается от визита к шатру мадам Евы в лагере у озера Тсер. Обнаружив силу Лесного Фана трудной для контроля из-за вмешательства бабы Зеленны во время его сна, он искал совета мадам Евы в подготовке к Великому Соединению. Он получил следующее предсказание:
-
-> - «Темный владыка — повелитель теней, зверь в лабиринте, разрывающий свои цепи.»
-> - «Шестерка Звезд, Вызыватель — сила, которую ты жаждешь, сила, неукрощенная смертными руками, сырая и дикая с пылающей яростью.»
-> - «Артефакт — знак, который ты ищешь, ключ к силе. Сердце божества ждет, но где?»
-> - «Невинная. Я вижу деву с вороновыми волосами и сумеречными глазами. Она — один путь к знаку.»
-> - «Но есть другой — Разбитый. Путь жертвы открывает другую дверь. Стена, что шепчет, ждет твоей дани.»
-> - «Нити судьбы еще сплетаются. Семерка Мечей, Капюшонный, следующий. Чужеземцы ходят по земле — их присутствие загадка, их намерения лабиринт. Они обитают в сумерках, их роль еще неясна.»
-> - «Но Единица Звезд, Преобразователь, последняя. Перемена приходит на крыльях новоприбывших, сумерки эпохи на нас. Когда одна эпоха кончается, другая рождается.»
-
-> Большую часть предсказания Страда подслушала Мюриэль Виншоу, подслушивающий **вервольф**, пока Страд не обнаружил ее присутствие и не прогнал. Ни Мюриэль, ни Страд не знали, что мадам Ева знала о присутствии Мюриэль все время. Как скрытый аватар Искательницы, Ева имеет особую связь с баровянскими вервольфами и намеренно продолжила свое предсказание, чтобы позволить Мюриэль услышать его.
-
-> Мюриэль услышала первые пять карт, которые прочла мадам Ева, но не знает последние две. Дополнительная информация о Мюриэль и ее побеге от приспешников Страда может быть найдена в [[#C3. The Strix]] ниже.
-
-> [!profile]+ **Как наслаждаться ролевой игрой Страда**
-> Страд может быть сложным и вызывающим тревогу злодеем для ролевой игры. Чтобы наслаждаться опытом, а не страшиться его, рассмотрите следующие советы:
-
-> - **Наслаждайтесь неуязвимостью.** Страд — единственный НИП во всей кампании, которого (пока они не получат _Солнечный Меч_) игроки не могут ранить значимым образом. Их сильнейшие атаки делают мало больше, чем щекочут его. Их жесточайшие оскорбления лишь забавляют его. Входите в сцены со Страдом без страха перед действиями игроков.
-> - **Обнимите непредсказуемость.** В каждой сцене перед [[Arc R - Trials of the Mountain]] Страд не имеет конкретной цели и не будет разочарован, если события развернутся иначе, чем он ожидал. Освободитесь от любого обязательства, которое вы чувствуете, заставить сцену закончиться определенным образом.
-> - **Исследуйте тьму.** Страд предоставляет рискованную возможность исследовать и смаковать темные эмоции, такие как (оправданная) arrogance, (тихая) cruelty и (тонкий) contempt. Смакуйте эти эмоции и их воздействие на ваших игроков.
-
-> [!abstract]+ **Игроки ведут себя плохо**
+> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
 >
-> Если игрок ведет себя грубо по отношению к Страду, он вздыхает и отвечает: «Непочтительность не подобает, особенно перед лицом Повелителя земли, где вы всего лишь гости. Но вы чужеземцы, необученные и confused. Я дам вам предупреждение, на этот раз. Но боюсь, моя милость не продлится вечно.»
+> - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
+> - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
+> - "The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?"
+> - "The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token."
+> - "But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."
+> - "The threads of fate yet spin. The Seven of Swords, the Hooded One, is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
+> - "But the One of Stars, the Transmuter, is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
 >
-> Первый раз, когда игрок не уважает Страда после получения его предупреждения, он улыбается, поднимает один палец и говорит: «Один.» Гигантские волки Страда, если они еще не появились, выходят из теней и фиксируют взгляды на грубом игроке.
+> Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
 >
-> Второй раз, когда игрок не уважает Страда, он качает головой, поднимает два пальца и говорит: «Два.» Гигантские волки Страда подходят ближе к грубому игроку и начинают слюнявиться.
+> Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
+
+> [!profile]+ **How to Enjoy Roleplaying Strahd**
+> Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
 >
-> Третий раз, когда игрок не уважает Страда, он хмурится. Прочтите следующее:
+> - **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the _Sunsword_) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
+> - **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
+> - **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
+
+> [!abstract]+ **The Players Misbehave**
+>
+> If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
+>
+> The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player.
+>
+> The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
+>
+> The third time that a player disrespects Strahd, he frowns. Read the following:
 >
 >  <hr>
 >  
@@ -243,7 +243,7 @@ As he does, Strahd’s **dire wolves**—including one for each player plus Iree
 
 As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
 
-# C3. Стриж
+# C3. The Strix
 
 Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
 
@@ -362,7 +362,7 @@ If she learns that the players plan to travel to Vallaki, Muriel travels with th
 > - **Clicking (like a key turning).** To applaud a solution to a problem.
 > - **Trumpet.** To celebrate a victory or achievement.
 
-# C4. Озеро Тсер
+# C4. Tser Pool
 
 <span class="citation"><em>This scene takes place in Chapter 2: Area G.</em></span>
 
@@ -463,7 +463,7 @@ Unless the players intervene, the conversation unfolds as follows:
 >
 > Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . .
 >
-> **Source:** Wise, David. *Van Richten's Guide to the Vistani.* Wizards of the Coast, 1995.
+> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
 If the players make their way to the Vistani fire, Eliza—and Arturi, if he is present—introduce themselves. Eliza also asks the players’ names in return. (If asked why he has not shared a Vistani fire until recently, Arturi winces and admits only that the situation is complicated.)
 
@@ -1341,9 +1341,9 @@ If the players linger at Rictavio's table, the Wachter brothers are happy (if pr
 - the Festival of the Blazing Sun,
 - Vallaki's recent history of festivals,
 - the Baron's response to those who speak ill of the festivals, and
-- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
 
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
 
 Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
 
@@ -1354,7 +1354,7 @@ At some point during the conversation, Danika approaches the table to clear away
 - Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
 - As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
 
 ### Eating Dinner
 
