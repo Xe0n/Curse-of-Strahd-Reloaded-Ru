@@ -1,1563 +1,1562 @@
-_An adventure for five 3rd-level characters._
+_Приключение для пяти персонажей 3-го уровня._
 
-In this arc, the players depart the village of Barovia for Tser Pool and the town of Vallaki. As they journey through the woods, they can encounter a pair of Barovian **scouts** searching for a missing family, distract or do battle with a horde of **zombies**, and recover a weapons cache left by Dr. Rudolph van Richten.
+В этой арке игроки покидают деревню Баровия и направляются к Озеру Тсер и городу Валлаки. Путешествуя через леса, они могут встретить пару баровийских **разведчиков**, разыскивающих пропавшую семью, отвлечь или сразиться с ордой **зомби**, а также обнаружить тайник с оружием, оставленный доктором Рудольфом ван Рихтеном.
 
-Upon their arrival at the River Ivlis Crossroads, the players encounter Strahd von Zarovich for the first time, accompanied by Escher, one of his vampiric consorts. After a tense conversation, the players can head north to Tser Pool.
+По прибытии на Перекрёсток реки Ивлис игроки впервые встречают Страда фон Заровича в сопровождении Эшера, одного из его вампирских спутников. После напряжённого разговора игроки могут направиться на север к Озеру Тсер.
 
-On the way to Tser Pool, the players encounter a raven—the disguised **wereraven** Muriel Vinshaw—fleeing a monstrous **strix**, a scarecrow of the skies crafted by the swamp-witch Baba Lysaga. If the players defend Muriel from the strix’s onslaught, she joins them for the remainder of their journey to Vallaki, though without revealing her true identity.
+По пути к Озеру Тсер игроки встречают ворона — замаскированную **вороворона** Мюриэль Виншоу — спасающуюся от чудовищного **стрикса**, пугала небес, созданного болотной ведьмой Бабой Лысагой. Если игроки защитят Мюриэль от натиска стрикса, она присоединится к ним до конца пути в Валлаки, не раскрывая своей истинной сущности.
 
-Soon afterward, the players finally arrive at the Vistani encampment at Tser Pool. There, they receive a magical Tarokka reading from Madam Eva, which foretells the location of three artifacts that will assist them in the fight against Strahd, as well as an ally who is destined to aid them.
+Вскоре после этого игроки наконец прибывают в лагерь Вистани на Озере Тсер. Там они получают магическое гадание на картах Тарокка от Мадам Евы, которое предсказывает местонахождение трёх артефактов, способных помочь в борьбе против Страда, а также союзника, которому суждено им помогать.
 
-While staying at Tser Pool, the players hear Vistani tales of Strahd's history and the _Holy Symbol of Ravenkind_, and can also meet Arturi Radanavich, a wandering Vistana who claims to have once known Rudolph van Richten. As the players depart, they also receive a mission from Madam Eva to purchase a toy in Vallaki for delivery to her great-grand-niece, Arabelle.
+Во время пребывания на Озере Тсер игроки слышат истории Вистани о прошлом Страда и о _Святом Символе Равенкинд_, а также могут встретить Артури Радаванича, странствующего Вистани, который утверждает, что когда-то знал Рудольфа ван Рихтена. Перед отъездом игроки также получают задание от Мадам Евы — купить игрушку в Валлаки для её праправнучки Арабэлль.
 
-If the players are tasked with escorting Ireena to St. Andral's Church in Vallaki, or if they have their own reasons for doing so, they then return to the Old Svalich Road via the River Ivlis Crossroads, traveling west through the mountains. Along the way, they encounter a strange skeletal rider, a pair of fresh graves, a watchful revenant, the **night hag** Morgantha in her peddler's disguise, two flocks of friendly **ravens**, and a **werewolf** accompanied by its pack of ravenous **wolves**.
+Если игрокам поручено сопроводить Ирину в церковь Святого Андрала в Валлаки, или если у них есть собственные причины для этого, они возвращаются на Старую Свалишскую дорогу через Перекрёсток реки Ивлис и направляются на запад через горы. По пути они встречают странного скелета-всадника, пару свежих могил, бдительного ревенанта, **ночную каргу** Морганту в обличье торговки, две стаи дружелюбных **воронов** и **оборотня** в сопровождении стаи голодных **волков**.
 
-Upon arriving in Vallaki, the players can find lodgings at the Blue Water Inn. There, they can meet a host of colorful characters, including the ringmaster Rictavio and the sons of Lady Fiona Wachter. When morning comes, the players can also have a fateful encounter with Baron Vargas Vallakovich and his brutish enforcer, Izek Strazni...
+По прибытии в Валлаки игроки могут найти ночлег в Трактире «Синяя Вода». Там они могут познакомиться со множеством колоритных персонажей, включая циркового директора Риктавио и сыновей леди Фионы Вахтер. С наступлением утра игроков также ждёт судьбоносная встреча с бароном Варгасом Валлаковичем и его жестоким приспешником Айзеком Стражни...
 
-> [!warning]+ **The Road From Tser Pool**
+> [!warning]+ **Дорога от Озера Тсер**
 >
-> The module’s map of Barovia depicts a dotted line that appears to connect the Tser Pool Encampment to Tser Falls. Despite its appearance, <span class="citation">Tser Falls (p. 37)</span> makes clear that this is not a shortcut. Instead, this dotted line is a footpath that leads to the base of Tser Falls, one thousand feet below the bridge overhead. At no point does it actually reconnect to the main road.
+> На карте модуля Баровии изображена пунктирная линия, которая, казалось бы, соединяет Лагерь на Озере Тсер с Водопадом Тсер. Несмотря на её вид, <span class="citation">Водопад Тсер (стр. 37)</span> ясно указывает, что это не короткий путь. Вместо этого пунктирная линия обозначает тропу, ведущую к подножию Водопада Тсер, на тысячу футов ниже моста над ним. Она никогда не соединяется с главной дорогой.
 >
-> To travel from the Tser Pool Encampment to Vallaki, the players will instead need to travel south, back toward the River Ivlis Crossroads, then take the Old Svalich Road westward.
+> Чтобы добраться от Лагеря на Озере Тсер до Валлаки, игрокам придётся двигаться на юг, обратно к Перекрёстку реки Ивлис, а затем по Старой Свалишской дороге на запад.
 
-> [!info]+ **No Random Encounters**
-> This guide incorporates the material in the original _Curse of Strahd_ module only by reference. As such, whenever the players are traveling, you should disregard the <span class="citation">Random Encounters (p. 28)</span> section except where a particular encounter is referenced and incorporated directly.
+> [!info]+ **Никаких случайных столкновений**
+> Это руководство включает материал оригинального модуля _Проклятие Страда_ только в качестве ссылки. Поэтому, когда игроки путешествуют, следует игнорировать раздел <span class="citation">Случайные столкновения (стр. 28)</span>, за исключением случаев, когда конкретное столкновение упоминается и включено напрямую.
 
-# C1. The Svalich Woods
+# C1. Свалишские леса
 
-The journey from the village of Barovia to the River Ivlis Crossroads is three miles long and takes one hour.
+Путешествие от деревни Баровия до Перекрёстка реки Ивлис составляет три мили и занимает один час.
 
-## C1a. The Barovian Scouts
+## C1a. Баровийские разведчики
 
-As the players travel, read:
+Пока игроки путешествуют, зачитайте:
 
-<div class="description"><p>You set off from the silent village of Barovia, the fog creeping around your feet as you pass onto the Old Svalich Road. A sea of tall, pale-green grasses stretches out before you on either side of the road, all the way up to the edge of the Ivlis River. The sky above is a dull grey, the clouds heavy with the promise of rain.</p>
-<p>It's not long before you can see the old arched stone bridge in the distance that spans the clear blue river ahead. Crossing it, you find yourselves on a muddy road that winds its way through the trees. The air is thick with the scent of damp earth and decaying leaves, and the trees press in close, casting deep shadows that carve dark gouges across the road.</p></div>
+<div class="description"><p>Вы отправляетесь из безмолвной деревни Баровия, туман стелется у ваших ног, когда вы выходите на Старую Свалишскую дорогу. Море высоких бледно-зелёных трав простирается перед вами по обе стороны дороги, вплоть до берегов реки Ивлис. Небо над головой тускло-серое, облака тяжелы обещанием дождя.</p>
+<p>Вскоре вдали показывается старый арочный каменный мост, перекинутый через чистую голубую реку впереди. Перейдя его, вы оказываетесь на грязной дороге, петляющей сквозь деревья. Воздух густ от запаха сырой земли и гниющих листьев, а деревья теснятся вокруг, отбрасывая глубокие тени, прорезающие дорогу тёмными бороздами.</p></div>
 
-If any players have a passive Wisdom (Perception) score of 16 or higher, they hear a rustling noise and see a silhouette crouching in the misty underbrush. Otherwise, the players simply hear a voice call out, muffled and diffuse in the fog: “Who goes there? Name yourselves.”
+Если у кого-либо из игроков пассивная Мудрость (Восприятие) 16 или выше, они слышат шорох и видят силуэт, пригнувшийся в туманном подлеске. В противном случае игроки просто слышат голос, приглушённый и рассеянный в тумане: «Кто идёт? Назовитесь».
 
-The voice belongs to a gruff female Barovian **scout** named Kereza, who is joined by a second, soft-spoken male **scout** named Korga, whom the players previously encountered in [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. After confirming that the players are not transporting Ireena against her will, the scouts warn the players that Strahd’s spies are numerous throughout the Svalich Woods, including wolves, bats, and—at times—the very trees themselves. (If asked about the trees, the scouts can describe seeing animate vines, saplings, and bramble-patches that wander through the woods with hostile intent.)
+Голос принадлежит грубоватой баровийской **разведчице** по имени Кереза, которую сопровождает второй, тихоголосый **разведчик** по имени Корга, которого игроки ранее встретили в [[Act I - Into the Mists/Arc B - Welcome to Barovia|Arc B - Welcome to Barovia]]. Убедившись, что игроки не перевозят Ирину против её воли, разведчики предупреждают игроков, что шпионы Страда многочисленны по всему Свалишскому лесу, включая волков, летучих мышей и — порой — сами деревья. (Если спросить о деревьях, разведчики могут описать оживлённые лозы, саженцы и заросли терновника, бродящие по лесу с враждебными намерениями.)
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the players, she can aid the players in reassuring the scouts, who recognize her and greet her with quiet respect. The scouts are surprised to see Ireena venturing forth from the village, but agree that Vallaki is likely a safer place than Barovia—assuming, of course, that she can make it there safely. (Ireena stubbornly insists, however, that her journey is a diplomatic and humanitarian one, and that the players are her escorts and bodyguards.)
+Если [[Non-Player Characters#Ireena Kolyana|Ирина]] с игроками, она может помочь им успокоить разведчиков, которые узнают её и приветствуют с тихим уважением. Разведчики удивлены, увидев Ирину, покинувшую деревню, но соглашаются, что Валлаки, вероятно, безопаснее Баровии — при условии, конечно, что она сможет добраться туда целой. (Ирина, однако, упрямо настаивает, что её путешествие носит дипломатический и гуманитарный характер, а игроки — её сопровождающие и телохранители.)
 
-The scouts are searching for the Lansten family: two parents and three young children—a girl and two boys—who went missing during the zombie attack on the village and haven’t been seen since. After asking whether the players have seen their quarries on their journey, the scouts warn them not to stray from the road, noting that dead and dark things lurk beneath the treetops. Kereza and Korga then respectfully depart.
+Разведчики ищут семью Ланстен: двух родителей и троих маленьких детей — девочку и двух мальчиков — которые пропали во время нападения зомби на деревню и с тех пор не были замечены. Спросив, не видели ли игроки их во время путешествия, разведчики предупреждают не сходить с дороги, отмечая, что мёртвые и тёмные существа скрываются под кронами деревьев. Затем Кереза и Корга почтительно удаляются.
 
-Shortly after the players resume their trek down the Old Svalich Road, a light drizzle begins to fall, stirring a fine mist that drifts through the underbrush.
+Вскоре после того, как игроки возобновляют путь по Старой Свалишской дороге, начинается мелкий дождь, поднимая тонкую дымку, плывущую сквозь подлесок.
 
-## C1b. Van Richten’s Cache
+## C1b. Тайник ван Рихтена
 
-As the players continue down the road, read:
+Пока игроки продолжают путь, зачитайте:
 
-<div class="description"><p>You travel further into the woods, the muddy road guiding you deeper and further away from civilization. As the road bends, the river brushes up against you once more. Here, the river is wider, its waters dark and calm. You can see the reflection of the trees and fog in its surface. The sound of the quiet, trickling water is met only by the rustling of leaves and the drizzle of soft rain. No birdsong breaks the silence that hangs over the woods.</p></div>
+<div class="description"><p>Вы углубляетесь в лес, грязная дорога ведёт вас всё дальше от цивилизации. Там, где дорога изгибается, река вновь приближается к вам. Здесь река шире, её воды темны и спокойны. Вы видите отражение деревьев и тумана на её поверхности. Звук тихо журчащей воды нарушается лишь шелестом листьев и шёпотом мягкого дождя. Ни одна птичья песнь не нарушает тишину, повисшую над лесом.</p></div>
 
-While traversing this section of the Old Svalich Road, the players are stalked by one of Strahd's spies: a **wolf.** (See <span class="citation">Strahd's Spies, pg. 29</span> for more information.)
+Пока игроки пересекают этот участок Старой Свалишской дороги, за ними следит один из шпионов Страда: **волк**. (См. <span class="citation">Шпионы Страда, стр. 29</span> для дополнительной информации.)
 
-If the players received the location of Van Richten’s hidden weapons cache from Doru in Barovia’s church, they can enter the woods to the south to find it. If they do, read:
+Если игроки узнали расположение тайника с оружием ван Рихтена от Дору в баровийской церкви, они могут войти в лес к югу, чтобы найти его. Если они это сделают, зачитайте:
 
 <div class="description">
-<p>You step from the road and into the woods, crossing the treeline as your feet squelch into mud and loamy soil. Wisps of fog curl across the earth around you, gnarled trees reaching their arms overhead as gray light filters through the canopy. You walk for three hundred paces, stepping softly through the mulch and mist until you arrive at a clearing, the woods parting to make room for a tall, ancient oak whose knotted black trunk rises far above its peers.</p>
-<p>You soon realize, however, that you’re not alone. Five figures shamble or stand aimlessly within the clearing, their clothes muddied and torn and their flesh just beginning to turn pallid and gray. </p>
+<p>Вы сходите с дороги и углубляетесь в лес, пересекая границу деревьев, пока ваши ноги хлюпают в грязи и рыхлой почве. Клочья тумана вьются по земле вокруг вас, узловатые деревья простирают свои ветви над головой, пока серый свет пробивается сквозь полог. Вы проходите триста шагов, ступая мягко через перегной и туман, пока не выходите на поляну, где лес расступается, уступая место высокому древнему дубу, чей узловатый чёрный ствол возвышается далеко над соседними деревьями.</p>
+<p>Однако вскоре вы понимаете, что не одни. Пять фигур бесцельно бродят или стоят на поляне, их одежда испачкана грязью и изорвана, а плоть только начинает становиться бледной и серой.</p>
 </div>
 
-The five figures are **zombies**. They also match the descriptions of the Lansten family provided by the scouts—two parents, a young girl, and two young boys.
+Пять фигур — это **зомби**. Они также соответствуют описаниям семьи Ланстен, предоставленным разведчиками — двое родителей, маленькая девочка и двое маленьких мальчиков.
 
-The players can attempt to lure the zombies away from the clearing; given the zombies’ low intelligence, doing so should be reasonably easy. Alternatively, the players can attempt to ambush and attack the zombies to destroy them altogether.
+Игроки могут попытаться отвлечь зомби от поляны; учитывая низкий интеллект зомби, это должно быть достаточно просто. В качестве альтернативы игроки могут попытаться устроить засаду и напасть на зомби, чтобы уничтожить их полностью.
 
-> [!info]+ **Undead Fortitude**
-> Revise each **zombie** **_undead fortitude_** feature to read as follows:
+> [!info]+ **Стойкость нежити**
+> Измените особенность **_стойкость нежити_** каждого **зомби** следующим образом:
 >
-> - **_Undead Fortitude (1/day)._** If damage reduces the zombie to 0 hit points, the zombie drops to 1 hit point instead. The zombie can’t use this ability if the damage is radiant or from a critical hit, if the damage taken is 15 or more, or if it had only 1 hit point remaining.
+> - **_Стойкость нежити (1/день)._** Если урон снижает хиты зомби до 0, зомби вместо этого падает до 1 хита. Зомби не может использовать эту способность, если урон был излучением или критическим попаданием, если полученный урон составлял 15 или более, или если у него оставался только 1 хит.
 
-If the players reach the oak tree, they can find Van Richten’s weapons cache where Doru told them: in a hollow nestled beneath the tree’s roots. The cache itself is a small, unlocked wooden chest containing 20 silvered crossbow bolts, a light crossbow, two _healer’s kits_, two vials of _holy water_, and one _potion of healing._
+Если игроки доберутся до дуба, они найдут тайник с оружием ван Рихтена там, где сказал Дору: в дупле под корнями дерева. Тайник представляет собой маленький незапертый деревянный сундук, содержащий 20 посеребрённых арбалетных болтов, лёгкий арбалет, два _набора целителя_, два флакона _святой воды_ и одно _зелье лечения_.
 
-# C2. River Ivlis Crossroads
+# C2. Перекрёсток реки Ивлис
 
-<span class="citation"><em>This scene takes place in Chapter 2: Area F.</em></span>
+<span class="citation"><em>Эта сцена происходит в Главе 2: Область F.</em></span>
 
-As the players approach this area, the drizzling rain stops. Read:
+Когда игроки приближаются к этой области, морось прекращается. Зачитайте:
 
-<div class="description"><p>Soon, the river bends once more out of sight and the dark woods surround the road once again. Finally, though, the trees pull away, revealing a tall cliff at the base of a foggy mountain slope. The air is cold and damp here, and soft wisps of fog swirl around the base of the cliff.</p></div>
+<div class="description"><p>Вскоре река вновь изгибается и скрывается из виду, а тёмный лес снова окружает дорогу. Наконец, деревья отступают, открывая высокий утёс у подножия туманного горного склона. Воздух здесь холоден и влажен, мягкие клочья тумана кружатся у подножия утёса.</p></div>
 
-The players have arrived at the River Ivlis Crossroads, which is largely as described in <span class="citation">River Ivlis Crossroads (p. 35)</span>. Do not check for a random encounter when the players arrive.
+Игроки прибыли на Перекрёсток реки Ивлис, который в основном описан в <span class="citation">Перекрёсток реки Ивлис (стр. 35)</span>. Не проверяйте случайное столкновение по прибытии игроков.
 
-This scene begins similarly to <span class="citation">River Ivlis Crossroads (p. 35)</span>. However, the first time the players move to depart for Tser Pool, instead of seeing **The Hanged One**, they can hear the sound of a horse-drawn carriage or wagon approaching through the fog. Almost as soon as the sound appears, Strahd’s black carriage, as described in <span class="citation">Black Carriage (p. 37)</span> and <span class="citation">Carriage House (p. 54)</span>, comes into view.
+Эта сцена начинается аналогично <span class="citation">Перекрёсток реки Ивлис (стр. 35)</span>. Однако в первый раз, когда игроки собираются отправиться к Озеру Тсер, вместо **Повешенного** они слышат звук приближающейся конной кареты или повозки сквозь туман. Почти сразу после появления звука в поле зрения появляется чёрная карета Страда, описанная в <span class="citation">Чёрная карета (стр. 37)</span> и <span class="citation">Каретный дом (стр. 54)</span>.
 
-## C2a. Strahd’s Arrival
+## C2a. Прибытие Страда
 
-The players can see a driver sitting in the coach box: the **vampire spawn** Escher, as described in <span class="citation">K49. Lounge (p. 70)</span>. If present, Ireena gasps at the sight of him, whispering that she thought that he was dead.
+Игроки могут видеть кучера, сидящего на козлах: **вампирское отродье** Эшер, описанный в <span class="citation">K49. Гостиная (стр. 70)</span>. Если Ирина присутствует, она вздыхает при виде него, шепча, что думала, что он мёртв.
 
-> [!abstract]+ **What If The Players Flee?**
+> [!abstract]+ **Что, если игроки убегут?**
 >
-> The players should have little time to attempt to conceal themselves before Strahd’s carriage comes into view. However, if the players attempt to flee the carriage into the woods, Strahd’s **dire wolves**—one for each player plus Ireena—emerge from the fog behind them and snarl, obstructing the players' escape.
+> У игроков будет мало времени, чтобы попытаться скрыться, прежде чем карета Страда появится в поле зрения. Однако если игроки попытаются убежать от кареты в лес, **лютоволки** Страда — по одному на каждого игрока плюс Ирина — выходят из тумана позади них и рычат, преграждая им путь к отступлению.
 
-The carriage then comes to a stop. Read the following, modifying the text as necessary if Ireena isn’t present, and pausing briefly after each paragraph to allow the players a short opportunity to act or react:
+Затем карета останавливается. Зачитайте следующее, изменяя текст при необходимости, если Ирина отсутствует, и делая краткие паузы после каждого абзаца, чтобы дать игрокам короткую возможность действовать или реагировать:
 
-<div class="description"><p>The driver releases the reins, steps down from the coach box, and moves to open the side door of the carriage, bowing deeply. A moment passes—and then a man steps out from the carriage.</p>
-<p>He is tall, gaunt, and dressed in finery befitting a man of aristocratic, even royal stature. A black cloak is pulled neatly around his shoulders, tied at the neck by a blood-red brooch. A longsword rests ensheathed at his hip, its polished hilt gleaming beneath the dim light. His scarlet tunic is worked with intricate designs, and his hair is pulled back into a sharp and immaculate widow's peak. </p><p>His eyes are dark, and as he moves to adjust the ruby at his neck, you see that his fingernails form long, elegant claws. It's only then that you realize that his skin is pale—unnaturally so— and that his eyes glint with a deep, intelligent hunger.</p></div>
+<div class="description"><p>Кучер отпускает поводья, спускается с козел и открывает боковую дверь кареты, низко кланяясь. Проходит мгновение — и из кареты выходит мужчина.</p>
+<p>Он высок, худощав и одет в наряд, подобающий человеку аристократического, даже королевского статуса. Чёрный плащ аккуратно накинут на его плечи, застёгнутый на шее кроваво-красной брошью. Длинный меч покоится в ножнах на бедре, его отполированная рукоять блестит в тусклом свете. Его алая туника украшена замысловатыми узорами, а волосы зачёсаны назад в острый, безупречный мыс вдовы.</p><p>Его глаза темны, и когда он поправляет рубин на шее, вы видите, что его ногти образуют длинные, изящные когти. И только тогда вы осознаёте, что его кожа бледна — неестественно бледна — и что в его глазах мерцает глубокий, разумный голод.</p></div>
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, add:
+Если [[Non-Player Characters#Ireena Kolyana|Ирина]] с отрядом, добавьте:
 
-<div class="description"><p>Ireena rocks backward, as if slapped. She averts her eyes from the man's gaze, her entire body tightening. "Don't look into his eyes," she chokes out.</p>
-<p>The man's gaze rests briefly on Ireena, and he smiles—though no warmth reaches his eyes. "Lady Kolyana," he says. "What a pleasant surprise." He then turns his gaze to you. </p></div>
+<div class="description"><p>Ирина отшатывается назад, словно от удара. Она отводит взгляд от взора мужчины, всё её тело напрягается. «Не смотрите ему в глаза», — выдавливает она.</p>
+<p>Взгляд мужчины ненадолго задерживается на Ирине, и он улыбается — хотя ни капли тепла не достигает его глаз. «Леди Коляна», — говорит он. «Какой приятный сюрприз». Затем он переводит взгляд на вас.</p></div>
 
-Whether Ireena is with the party or not, add:
+Независимо от того, с отрядом ли Ирина, добавьте:
 
-<div class="description"><p>"Good day," he says. "I am Count Strahd von Zarovich—and it is a pleasure to finally meet the newcomers to my domain. My friends have told me so much about you." His eyes linger over each one of you in turn, regarding you like a cut of meat weighed at market, an intriguing but inanimate trinket—a prey animal spotted by a predator in the bush.</p></div>
+<div class="description"><p>«Добрый день», — говорит он. «Я граф Страд фон Зарович — и мне приятно наконец встретить новоприбывших в мои владения. Мои друзья столько рассказывали мне о вас». Его взгляд задерживается на каждом из вас по очереди, оценивая вас, как кусок мяса на рынке, интригующую, но неодушевлённую безделушку — добычу, замеченную хищником в кустах.</p></div>
 
-> [!lore]+ **Strahd’s Foretelling**
+> [!lore]+ **Предсказание Страда**
 >
-> At the time that he encounters the players, Strahd is returning from a visit to Madam Eva’s tent at the Tser Pool Encampment. Finding the Forest Fane’s power difficult to control due to Baba Zelenna’s interference during his slumber, he sought Madam Eva’s counsel in his preparations for the Grand Conjunction. He received the following fortune:
+> В момент встречи с игроками Страд возвращается с визита в шатёр Мадам Евы в Лагере на Озере Тсер. Обнаружив, что силой Лесного Фана трудно управлять из-за вмешательства Бабы Зеленны во время его сна, он искал совета Мадам Евы в своих приготовлениях к Великому Соединению. Он получил следующее пророчество:
 >
-> - "The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains."
-> - "The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury."
-> - "The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?"
-> - "The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token."
-> - "But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."
-> - "The threads of fate yet spin. The Seven of Swords, the Hooded One, is next. Strangers walk the land—their presence a riddle, their intentions a maze. They dwell in the dusk, their role yet unclear."
-> - "But the One of Stars, the Transmuter, is last. Change comes on newcomers’ wings, the dusk of an era upon us. As one age ends, another is born."
+> - «Тёмный Владыка — повелитель теней, зверь в лабиринте, рвущий свои цепи».
+> - «Шестёрка Звёзд, Заклинатель — сила, которой ты жаждешь, стихия, неукрощённая руками смертных, дикая и необузданная, пылающая яростью».
+> - «Артефакт — знак, который ты ищешь, ключ к силе. Сердце божественности ждёт, но где?»
+> - «Невинная. Я вижу деву с волосами цвета воронова крыла и сумеречными глазами. Она — один путь к знаку».
+> - «Но есть и другой — Сломленный. Путь жертвоприношения открывает другую дверь. Шепчущая стена ждёт твоей дани».
+> - «Нити судьбы ещё прядутся. Семёрка Мечей, Скрытый, следующий. Чужаки ходят по земле — их присутствие загадка, их намерения — лабиринт. Они обитают в сумерках, их роль ещё неясна».
+> - «Но Единица Звёзд, Трансмутер, последний. Перемены приходят на крыльях новоприбывших, сумерки эпохи над нами. Когда один век кончается, рождается другой».
 >
-> Much of Strahd’s foretelling was overheard by Muriel Vinshaw, an eavesdropping **wereraven**, until Strahd detected her presence and drove her away. Both Muriel and Strahd were unaware that Madam Eva knew of Muriel’s presence all along. As the hidden avatar of the Seeker, Eva bears a special bond with Barovia’s wereravens, and deliberately continued her foretelling to allow Muriel to hear it.
+> Большую часть предсказания Страда подслушала Мюриэль Виншоу, подслушивающий **вороворон**, пока Страд не обнаружил её присутствие и не прогнал. И Мюриэль, и Страд не подозревали, что Мадам Ева всё время знала о присутствии Мюриэль. Как скрытый аватар Искательницы, Ева имеет особую связь с баровийскими вороворонами и намеренно продолжила своё предсказание, чтобы Мюриэль его услышала.
 >
-> Muriel heard the first five cards that Madam Eva read, but doesn’t know the last two. More information about Muriel and her escape from Strahd’s minions can be found in [[#C3. The Strix]] below.
+> Мюриэль слышала первые пять карт, которые прочла Мадам Ева, но не знает последние две. Больше информации о Мюриэль и её побеге от приспешников Страда можно найти в [[#C3. The Strix]] ниже.
 
-> [!profile]+ **How to Enjoy Roleplaying Strahd**
-> Strahd can be a challenging and anxiety-inducing villain to roleplay. To enjoy the experience, rather than dreading it, consider the following tips:
+> [!profile]+ **Как наслаждаться отыгрышем Страда**
+> Страд может быть сложным и вызывающим тревогу злодеем для отыгрыша. Чтобы наслаждаться опытом, а не бояться его, примите во внимание следующие советы:
 >
-> - **Enjoy Invincibility.** Strahd is the one NPC in the entire campaign that (until they obtain the _Sunsword_) your players cannot hurt in any meaningful way. Their strongest attacks do little more than tickle him. Their cruelest insults merely amuse him. Enter Strahd-related scenes without fear of player action.
-> - **Embrace Unpredictability.** In each scene before [[Arc R - Trials of the Mountain]], Strahd has no particular goal, and won't be disappointed if events unfold differently than he expected. Release any obligation you feel to make the scene conclude in a particular way.
-> - **Explore Darkness.** Strahd provides a risk-free opportunity to explore and relish darker emotions, such as (justified) arrogance, (quiet) cruelty, and (subtle) contempt. Savor those emotions and the impact they have on your players.
+> - **Наслаждайтесь неуязвимостью.** Страд — единственный NPC во всей кампании, которому (пока они не получат _Солнечный Меч_) ваши игроки не могут причинить никакого значимого вреда. Их сильнейшие атаки лишь щекочут его. Их самые жестокие оскорбления лишь забавляют его. Входите в сцены со Страдом без страха перед действиями игроков.
+> - **Примите непредсказуемость.** В каждой сцене до [[Arc R - Trials of the Mountain]] у Страда нет конкретной цели, и он не будет разочарован, если события развернутся иначе, чем он ожидал. Отпустите любое чувство обязательства завершить сцену определённым образом.
+> - **Исследуйте тьму.** Страд предоставляет безопасную возможность исследовать и смаковать более тёмные эмоции, такие как (оправданное) высокомерие, (тихая) жестокость и (едва уловимое) презрение. Наслаждайтесь этими эмоциями и их воздействием на ваших игроков.
 
-> [!abstract]+ **The Players Misbehave**
+> [!abstract]+ **Игроки ведут себя дерзко**
 >
-> If a player acts rudely toward Strahd, he sighs and replies, "Disrespect is unbecoming, especially in the face of the Lord of the land you are but a guest in. But you are foreign, and untaught, and confused. I'll give you a warning, this time. But I fear my mercy will not last forever."
+> Если игрок ведёт себя грубо по отношению к Страду, он вздыхает и отвечает: «Непочтительность не к лицу никому, особенно перед лицом Владыки земли, в которой вы лишь гости. Но вы чужестранцы, и необученные, и сбитые с толку. На этот раз я дам вам предупреждение. Но боюсь, моё милосердие не будет длиться вечно».
 >
-> The first time a player disrespects Strahd after receiving his warning, he smiles, holds up a single finger, and says, "One." Strahd's dire wolves, if they have not already emerged, step forth from the shadows and fix their gazes on the rude player.
+> В первый раз, когда игрок проявляет неуважение к Страду после получения его предупреждения, он улыбается, поднимает один палец и говорит: «Один». Лютоволки Страда, если они ещё не появились, выходят из теней и фиксируют взгляды на грубом игроке.
 >
-> The second time that a player disrespects Strahd, he shakes his head, holds up two fingers, and says, "Two." Strahd's dire wolves step closer to the rude player and begin salivating.
+> Во второй раз, когда игрок проявляет неуважение к Страду, он качает головой, поднимает два пальца и говорит: «Два». Лютоволки Страда подходят ближе к грубому игроку и начинают пускать слюну.
 >
-> The third time that a player disrespects Strahd, he frowns. Read the following:
+> В третий раз, когда игрок проявляет неуважение к Страду, он хмурится. Зачитайте следующее:
 >
 >  <hr>
->  
-> "You seem to be under the misunderstanding that you are special," Strahd says. "You are not. You are an outsider to my lands, with nary an ounce of respect or common wit. It amuses me, from time to time, to take the measure of those who enter the valley from beyond the Mists."
 >
-> His eyes narrow. "But you have taken your own measure, and I have found it wanting. You are not brave. You are not cunning. You invite death, and I have never been one to deny my subjects such a wish, no matter how foolish. This final chance, I shall grant you, to save your own life—for I see no value in it above that of the lowliest creature that crawls in the muck."
+> «Похоже, вы пребываете в заблуждении, что вы особенные», — говорит Страд. «Вы не особенные. Вы чужак в моих землях, без капли уважения или здравого смысла. Меня забавляет время от времени оценивать тех, кто входит в долину из-за Туманов».
 >
-> He holds up a third finger. "The next time you speak, my pets will kill you. Any who defend you will share the same fate."
+> Его глаза сужаются. «Но вы сами дали себе оценку, и я нашёл её неудовлетворительной. Вы не храбры. Вы не хитры. Вы призываете смерть, а я никогда не отказывал своим подданным в таком желании, сколь бы глупым оно ни было. Этот последний шанс я даю вам спасти свою жизнь — ибо я не вижу в ней ценности выше ценности самого низкого существа, что ползает в грязи».
 >
-> <hr>
->
-> If the player violates Strahd's ultimatum, pause the game and address the player out-of-character. Note that Strahd has promised clear consequences, and that the player's actions will invoke those consequences. Make clear that the player's character will die; that the player will not have a chance to prevent it; that any characters who attempt to protect that player will also die; that any characters who die will not be resurrected; and that if the entire party dies, the campaign will immediately end.
->
-> If the players confirms their decision, resume the game. Strahd's dire wolves then attack that player. If any or all of the other players do not interfere, Strahd continues his conversation with them, undisturbed.
-
-> [!abstract]+ **Running Away**
-> If, at any point during the encounter, the players move to flee, read:
+> Он поднимает третий палец. «В следующий раз, когда вы заговорите, мои питомцы убьют вас. Любой, кто вас защитит, разделит ту же участь».
 >
 > <hr>
 >
-> From behind Strahd, you hear a chorus of low, feral growls. Multiple pairs of eyes glint from the underbrush—each one the height of a man's shoulder.
+> Если игрок нарушает ультиматум Страда, приостановите игру и обратитесь к игроку вне игры. Отметьте, что Страд пообещал ясные последствия, и что действия игрока повлекут эти последствия. Ясно дайте понять, что персонаж игрока погибнет; что у игрока не будет шанса это предотвратить; что любые персонажи, пытающиеся защитить этого игрока, тоже погибнут; что погибшие персонажи не будут воскрешены; и что если вся партия погибнет, кампания немедленно закончится.
 >
-> Slowly, from the shadows, slinks a pack of massive wolves, each one as tall as a horse and twice as muscled, measuring nine feet in length from head to haunches. Their fur is a thick, mottled grey, and saliva drips from their yellowed, sharpened teeth.
->
-> They take up positions behind and around Strahd, flanking him like a noble's honor guard.
->
-> "You must forgive my pets," Strahd says. "They can be . . . **overenthusiastic** at the sight of new friends."
+> Если игрок подтверждает своё решение, возобновите игру. Лютоволки Страда атакуют этого игрока. Если другие игроки не вмешиваются, Страд продолжает разговор с ними, не потревоженный.
+
+> [!abstract]+ **Побег**
+> Если в любой момент во время встречи игроки пытаются бежать, зачитайте:
 >
 > <hr>
 >
-> The wolves are **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>. (The number of dire wolves in the pack is equal to the number of players in the party plus Ireena.)
+> Позади Страда вы слышите хор низкого, звериного рычания. Множество пар глаз мерцают в подлеске — каждая на высоте человеческого плеча.
 >
-> If the players appear to need further persuading, the dire wolves step forward, growling with their hackles raised. If the players proceed to flee, the wolves attack.
-
-> [!abstract]+ **Challenging Strahd**
-> If, at any point during the encounter, a player challenges Strahd or insists that he must be defeated, Strahd smiles, admits he's "never been one to decline a challenge," and invites the player to defeat him—right here, right now—if they can. He promises to make no effort to stop them for the first thirty seconds of their assault.
+> Медленно из теней выскальзывает стая огромных волков, каждый высотой с лошадь и вдвое мускулистее, длиной в девять футов от головы до крупа. Их мех густой, пятнисто-серый, и слюна капает с их пожелтевших, острых зубов.
 >
-> If the player declines, Strahd dismisses them as a coward, noting with disappointment, "A pity. I had hoped for better." If the player accepts, Strahd allows them to attack him for five full rounds. During this time, each attack the player makes against Strahd automatically hits, and Strahd automatically fails all Strength and Dexterity saving throws.
+> Они занимают позиции позади и вокруг Страда, окружая его, как почётный караул вельможи.
 >
-> When the five rounds have elapsed, Strahd says, "Impressive determination—if ultimately futile." He adds, "Now, let us see how you fare when the true game begins."
+> «Вы должны простить моих питомцев», — говорит Страд. «Они могут быть... **чрезмерно восторженны** при виде новых друзей».
 >
-> Assuming his [[Strahd von Zarovich#The Mage|Mage]] form, Strahd casts **_telekinetic grasp_** each round to suspend the player in the air above him, and casts **_blindness/deafness_** as a reaction whenever the player makes a melee attack against him. The first time the player fails their saving throw against **_telekinetic grasp_**, he says, "Escape if you can." He then adds, in a lower tone: "But should you find yourself lacking, a simple plea for mercy will release you from your plight."
+> <hr>
 >
-> The first time the player succeeds their saving throw against **_telekinetic grasp_**, Strahd applauds their tenacity, then asks whether they shall choose to continue to fight. (If they do, he continues to fight using his full Mage statblock.)
+> Волки — это **лютоволки**, описанные в <span class="citation">Лютоволки (стр. 30)</span>. (Количество лютоволков в стае равно количеству игроков в отряде плюс Ирина.)
 >
-> If the player asks to be freed from Strahd's **_telekinetic grasp_**, he does so without delay. "Wisdom lies in recognizing one's limitations," he notes. "Remember this moment—for the next time, I may not be as generous."
+> Если игрокам требуется дополнительное убеждение, лютоволки делают шаг вперёд, рыча с поднятой шерстью. Если игроки всё же бегут, волки атакуют.
+
+> [!abstract]+ **Вызов Страду**
+> Если в любой момент во время встречи игрок бросает вызов Страду или настаивает, что тот должен быть побеждён, Страд улыбается, признаёт, что он «никогда не отказывался от вызова», и приглашает игрока победить его — прямо здесь, прямо сейчас — если сможет. Он обещает не предпринимать никаких усилий, чтобы остановить их в первые тридцать секунд их атаки.
 >
-> If the player is knocked unconscious by Strahd's **_telekinetic grasp_**, he crouches beside them, whispering: "You fought bravely, but even the greatest warrior cannot outlast the inevitable. Rest now, comforted by the knowledge that you have entertained me." He then turns to the remainder of the party and invites them to care for their wounded companion.
-
-## C2b. The Conversation Begins
-
-If undiverted, [[Strahd von Zarovich#The Gentleman|Strahd]] greets each of the player characters individually—by name, if his spies have had a chance to learn them and report back to him. While doing so, he makes a personal comment regarding each character’s species, class (if apparent from their equipment or dress), and/or personality (if reported by his spies). If possible, he frames each comment in the form of a compliment, sympathetic remark, or (sparingly) exceptionally veiled threat.
-
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is present, Strahd then asks if “Lady Kolyana” has properly introduced them to his domain, and apologizes for any “folktales” his subjects may have shared about him.
-
-(He does not, however, deny his attack on the village of Barovia, noting only that the people of the village defied him in an act of utmost treason. "I am sure that you can agree that my response was a measured one," he says. "After all, no lord could tolerate a settlement that fostered such sedition. The good people of Barovia needed to be taught a lesson. Their discipline was a kindness that few others would entertain.")
-
-As the conversation progresses, Strahd notes that he's heard "such wonderful things" of the players' exploits at "a certain old house at the edge of my domain." Strahd then makes brief reference to the players' actions in Death House, sardonically lauding their "fierce and fiery valor."
-
-If the players ask about the nature of Death House, or its purpose in bringing them to Barovia, Strahd smiles coldly and says only, "The souls of the damned are tragically twisted things. Do not linger upon their madness."
-
-If the players ask about Strahd's driver, Strahd introduces him as Escher, "my coachman and cupbearer." Escher does not respond to the players’ questions or statements and simply stands demurely at Strahd’s side.
-
-> [!abstract]+ **Requesting Freedom**
-> If the players ask whether Strahd has intentionally trapped them in Barovia, he truthfully denies doing so. If asked to release them, however, he declines to do so. "Why should I release you," he says, with a wry smile, "when it amuses me to do otherwise?"
-
-## C2c. Strahd's Questions
-
-During the conversation, at moments when it seems natural to do so, [[Strahd von Zarovich#The Gentleman|Strahd]] poses the players the following questions (in no particular order):
-
-- "Ismark Kolyanovich defied me by obstructing the justice I meted out unto his village. Why should I, as his lord, not punish him for his disloyalty?"
-- "I have claimed Ireena Kolyana, and marked her as my own. Why should I not take her with me to Castle Ravenloft right now?"
-- "You are trespassers in my lands, and the last outsider that entered Barovia fostered sedition and treachery. Why should I not dispatch you now, to prevent you from doing the same?" (Strahd's question is referring to Dr. Rudolph van Richten.)
-
-If the players buried Walter's bones and put the spirits of Death House to rest, Strahd poses an additional question:
-
-- "Immediately prior to your entry to my lands, you caused great damage to a group of my servants—the occupants of a particular house on the borders of my domain. I had relied upon those servants to bring me specimens of interest, but your activities have left them indefinitely indisposed. Why should I not punish you for your crimes against them?"
-
-Strahd frames each of these questions as a hypothetical. In asking them, his tone is inquisitive, curious, and at least somewhat amused. If the players despair at the prospect of answering these questions at all, Strahd notes, "I am not an unreasonable man. If there is some reason or rationale that I might have missed, then by all means do enlighten me."
-
-## C2d. Strahd's Concessions
-
-As the players attempt to answer his questions, [[Strahd von Zarovich#The Gentleman|Strahd]] delights in playing Devil's advocate, pushing back against their responses and probing at the holes in their reasoning. Ultimately, though, if the players' points are at least reasonably well-argued, Strahd is willing to accept them. (It should be fairly clear to the players, however, that he is merely humoring them by accepting their responses.)
-
-The players can push Strahd to make the following concessions:
-
-- He agrees to overlook Ismark's transgressions, so long as Ismark does not defy him or act counter to his will again.
-- He agrees to allow Ireena to depart the River Ivlis Crossroads safely. (Strahd will not grant a longer grace period than that.)
-- He agrees to refrain from judgment against the players unless they take action directly against his person.
-- He agrees to forgive the players their transgressions against the cult of Death House.
-
-The players might successfully exact these concessions using a variety of arguments, including (but not limited to) the following:
-
-- The players have promised Ismark that they will escort Ireena to Vallaki and they must be allowed to fulfill their word.
-- The players have taken no hostile action against Strahd and should be granted a presumption of innocence.
-- The players' actions in Death House were conducted in self-defense, and therefore should be excused.
-
-If the players appear to doubt Strahd's fidelity to his concessions, [he promises](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/), "Fear not, dear children. I am no liar. We both know deception is for the weak."
-
-When the players have answered all of Strahd's questions to his satisfaction, he bids them farewell and steps back into the black carriage.
-
-As he does, Strahd’s **dire wolves**—including one for each player plus Ireena—emerge from the woods, if they haven’t already, and move to flank the carriage. Strahd notes that he and his “friends” shall see the players again—perhaps very soon. The carriage and the wolves then depart for Castle Ravenloft.
-
-## C2e. Departing the Crossroads
-
-As the players move to depart the River Ivlis Crossroads after Strahd has left, they encounter <span class="citation">The Hanged One (p. 35)</span>. The character hanged from the gallows should be the character who was the rudest to Strahd or the least cooperative with his questions.
-
-# C3. The Strix
-
-Halfway down the path from the River Ivlis Crossroads to Tser Pool Encampment, the players hear the sound of a distressed bird cawing from above. A raven with blue-tipped wings—recognizably the same raven that met them in the village of Barovia—then crashes into the road at the players’ feet, visibly wounded. This is, again, the **wereraven** Muriel, in disguise with 1 hit point. Her wings and torso have been penetrated by several dozen silver barbs, leaving her unable to fly, regenerate, or transform until removed.
-
-> [!info]+ **Dying NPCs**
+> Если игрок отказывается, Страд отмахивается от него как от труса, отмечая с разочарованием: «Жаль. Я надеялся на большее». Если игрок соглашается, Страд позволяет ему атаковать себя в течение пяти полных раундов. В это время каждая атака игрока по Страду автоматически попадает, и Страд автоматически проваливает все спасброски Силы и Ловкости.
 >
-> As noted in Monsters and Death (<span class="citation">Player's Handbook, p. 198</span>), allied non-player characters—such as Muriel Vinshaw and any other NPC fighting alongside the players—should fall unconscious upon being reduced to 0 hit points. When they do, they follow the same rules for death saving throws as player characters, described further in Death Saving Throws (<span class="citation">Player's Handbook, p. 197</span>).
+> Когда пять раундов истекут, Страд говорит: «Впечатляющая решимость — хотя в конечном счёте тщетная». Он добавляет: «А теперь посмотрим, как вы справитесь, когда начнётся настоящая игра».
+>
+> Принимая форму [[Strahd von Zarovich#The Mage|Мага]], Страд каждый раунд использует **_телекинетическую хватку_**, чтобы подвесить игрока в воздухе над собой, и использует **_слепоту/глухоту_** как реакцию всякий раз, когда игрок совершает рукопашную атаку против него. В первый раз, когда игрок проваливает спасбросок против **_телекинетической хватки_**, он говорит: «Освободитесь, если сможете». Затем добавляет более тихим тоном: «Но если вы окажетесь неспособны, простая мольба о милосердии освободит вас от вашего затруднительного положения».
+>
+> В первый раз, когда игрок преуспевает в спасброске против **_телекинетической хватки_**, Страд аплодирует его упорству, затем спрашивает, желает ли он продолжить бой. (Если да, он продолжает сражаться, используя полный блок характеристик Мага.)
+>
+> Если игрок просит освободить его от **_телекинетической хватки_** Страда, тот делает это без промедления. «Мудрость заключается в признании собственных ограничений», — отмечает он. «Запомните этот момент — в следующий раз я могу оказаться не столь великодушен».
+>
+> Если игрок теряет сознание от **_телекинетической хватки_** Страда, тот опускается на колени рядом с ним, шепча: «Вы сражались храбро, но даже величайший воин не может противостоять неизбежному. Отдохните теперь, утешившись знанием того, что вы меня развлекли». Затем он поворачивается к остальной части отряда и приглашает их позаботиться о раненом спутнике.
 
-The raven’s arrival is followed soon after by a terrible, grating shriek and the arrival of a **greater strix**: a large artificial “bird” crafted of wood, animal skins, burlap, and hundreds of black raven’s feathers.
+## C2b. Начало разговора
 
-The **greater strix** uses the statistics of a **manticore**, but is a Medium construct and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+Если его не отвлекают, [[Strahd von Zarovich#The Gentleman|Страд]] приветствует каждого персонажа игрока индивидуально — по имени, если его шпионы успели узнать их и доложить ему. При этом он делает личный комментарий относительно расы, класса каждого персонажа (если это очевидно по их снаряжению или одежде) и/или личности (если об этом сообщили шпионы). По возможности он облекает каждый комментарий в форму комплимента, сочувственного замечания или (изредка) крайне завуалированной угрозы.
+
+Если [[Non-Player Characters#Ireena Kolyana|Ирина]] присутствует, Страд затем спрашивает, должным ли образом «леди Коляна» познакомила их с его владениями, и извиняется за любые «народные сказки», которыми его подданные могли с ними поделиться.
+
+(Однако он не отрицает свою атаку на деревню Баровия, отмечая лишь, что жители деревни бросили ему вызов актом величайшей измены. «Уверен, вы согласитесь, что мой ответ был соразмерен», — говорит он. «В конце концов, ни один лорд не мог бы терпеть поселение, потворствующее такой крамоле. Добрые жители Баровии нуждались в уроке. Их наказание было милостью, которую мало кто другой бы допустил».)
+
+По мере продолжения разговора Страд отмечает, что слышал «такие замечательные вещи» о подвигах игроков в «одном старом доме на краю моих владений». Затем Страд кратко упоминает действия игроков в Доме Смерти, саркастически восхваляя их «пылкую и огненную доблесть».
+
+Если игроки спрашивают о природе Дома Смерти или его цели в приведении их в Баровию, Страд холодно улыбается и говорит лишь: «Души проклятых — трагически искажённые существа. Не задерживайтесь на их безумии».
+
+Если игроки спрашивают о кучере Страда, Страд представляет его как Эшера, «моего кучера и виночерпия». Эшер не отвечает на вопросы или заявления игроков и просто скромно стоит рядом со Страдом.
+
+> [!abstract]+ **Просьба о свободе**
+> Если игроки спрашивают, намеренно ли Страд заточил их в Баровии, он правдиво отрицает это. Однако если его просят отпустить их, он отказывается. «Почему я должен отпускать вас», — говорит он с лукавой улыбкой, — «когда мне забавно поступать иначе?»
+
+## C2c. Вопросы Страда
+
+Во время разговора, в моменты, когда это кажется естественным, [[Strahd von Zarovich#The Gentleman|Страд]] задаёт игрокам следующие вопросы (в произвольном порядке):
+
+- «Исмарк Колянович бросил мне вызов, препятствуя правосудию, которое я вершил над его деревней. Почему я, как его сюзерен, не должен наказать его за нелояльность?»
+- «Я заявил права на Ирину Коляну и отметил её как свою. Почему я не должен забрать её с собой в Замок Равенлофт прямо сейчас?»
+- «Вы — нарушители границ в моих землях, а последний чужак, что вошёл в Баровию, сеял крамолу и предательство. Почему я не должен расправиться с вами сейчас, чтобы предотвратить то же самое?» (Вопрос Страда относится к доктору Рудольфу ван Рихтену.)
+
+Если игроки захоронили кости Уолтера и успокоили духов Дома Смерти, Страд задаёт дополнительный вопрос:
+
+- «Непосредственно перед вашим входом в мои земли вы причинили значительный ущерб группе моих слуг — обитателям одного дома на границах моих владений. Я полагался на этих слуг, чтобы они приводили мне интересующие меня образцы, но ваши действия вывели их из строя на неопределённый срок. Почему я не должен наказать вас за преступления против них?»
+
+Страд формулирует каждый из этих вопросов как гипотетический. Задавая их, его тон любопытен, заинтересован и по меньшей мере несколько развлечён. Если игроки отчаиваются при перспективе вообще отвечать на эти вопросы, Страд отмечает: «Я не безрассудный человек. Если есть какая-то причина или обоснование, которые я мог упустить, то непременно просветите меня».
+
+## C2d. Уступки Страда
+
+Когда игроки пытаются отвечать на его вопросы, [[Strahd von Zarovich#The Gentleman|Страд]] с удовольствием играет роль адвоката дьявола, оспаривая их ответы и выискивая слабые места в их аргументации. В конечном счёте, однако, если аргументы игроков хотя бы разумно обоснованы, Страд готов их принять. (Игрокам, однако, должно быть достаточно ясно, что он лишь снисходит к ним, принимая их ответы.)
+
+Игроки могут добиться от Страда следующих уступок:
+
+- Он соглашается не обращать внимания на проступки Исмарка, при условии, что Исмарк не будет больше бросать ему вызов или действовать вопреки его воле.
+- Он соглашается позволить Ирине безопасно покинуть Перекрёсток реки Ивлис. (Страд не предоставит более длительной отсрочки.)
+- Он соглашается воздержаться от суда над игроками, пока они не предпримут действий непосредственно против него лично.
+- Он соглашается простить игрокам их проступки против культа Дома Смерти.
+
+Игроки могут успешно добиться этих уступок, используя различные аргументы, включая (но не ограничиваясь) следующие:
+
+- Игроки пообещали Исмарку, что сопроводят Ирину в Валлаки, и им должно быть позволено сдержать своё слово.
+- Игроки не предпринимали враждебных действий против Страда и должны получить презумпцию невиновности.
+- Действия игроков в Доме Смерти были совершены в порядке самообороны и поэтому должны быть прощены.
+
+Если игроки сомневаются в верности Страда своим уступкам, [он обещает](https://www.reddit.com/r/CurseofStrahd/comments/e99hko/an_anthology_of_strahds_taunts_and_quips/): «Не бойтесь, дорогие дети. Я не лжец. Мы оба знаем, что обман — удел слабых».
+
+Когда игроки ответят на все вопросы Страда к его удовлетворению, он прощается с ними и садится обратно в чёрную карету.
+
+При этом **лютоволки** Страда — по одному на каждого игрока плюс Ирина — выходят из леса, если ещё этого не сделали, и выстраиваются по бокам кареты. Страд отмечает, что он и его «друзья» ещё увидят игроков — возможно, очень скоро. Затем карета и волки отбывают в Замок Равенлофт.
+
+## C2e. Покидая перекрёсток
+
+Когда игроки собираются покинуть Перекрёсток реки Ивлис после отъезда Страда, они сталкиваются с <span class="citation">Повешенным (стр. 35)</span>. Персонажем, повешенным на виселице, должен быть тот, кто был наиболее груб со Страдом или наименее сотрудничал с его вопросами.
+
+# C3. Стрикс
+
+На полпути от Перекрёстка реки Ивлис к Лагерю на Озере Тсер игроки слышат звук встревоженного карканья птицы сверху. Ворон с синими кончиками крыльев — узнаваемо тот же ворон, что встретил их в деревне Баровия — падает на дорогу у ног игроков, явно раненый. Это снова **вороворон** Мюриэль, в маскировке с 1 хитом. Её крылья и туловище пронзены несколькими десятками серебряных шипов, не позволяющих ей летать, регенерировать или трансформироваться, пока их не удалят.
+
+> [!info]+ **Умирающие NPC**
+>
+> Как отмечено в разделе «Монстры и смерть» (<span class="citation">Книга игрока, стр. 198</span>), союзные неигровые персонажи — такие как Мюриэль Виншоу и любой другой NPC, сражающийся на стороне игроков — должны терять сознание при снижении хитов до 0. Когда это происходит, они следуют тем же правилам спасбросков от смерти, что и персонажи игроков, описанным далее в разделе «Спасброски от смерти» (<span class="citation">Книга игрока, стр. 197</span>).
+
+Вскоре после появления ворона раздаётся ужасный, скрежещущий визг, и появляется **большой стрикс**: большая искусственная «птица», созданная из дерева, звериных шкур, мешковины и сотен чёрных вороньих перьев.
+
+**Большой стрикс** использует характеристики **мантикоры**, но является Средним конструктом и имеет уязвимость к урону огнём. Вместо настоящих хвостовых шипов атака **_хвостовые шипы_** большого стрикса выпускает залп десятков крошечных серебряных шипов из его крыльев.
 
 ![[Greater Strix.png]]
 <span class="credit">"Greater Strix" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-The greater strix is joined by two **swarms of lesser strix** (each using the statistics of a **swarm of ravens**, but with vulnerability to fire damage). Each lesser strix is an artificial “crow” slightly larger than a raven, crafted of burlap, straw, twigs, and sharp stone teeth.
+Большого стрикса сопровождают два **роя малых стриксов** (каждый использует характеристики **роя воронов**, но с уязвимостью к урону огнём). Каждый малый стрикс — искусственная «ворона» чуть крупнее ворона, созданная из мешковины, соломы, веток и острых каменных зубов.
 
-> [!combat]- **Combat - The Strix**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 3
-> **Allies:** Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 34%
+> [!combat]- **Бой - Стриксы**
+> **Уровень боя**: Ощутимый
+> **Ожидаемый уровень персонажей**: 3
+> **Союзники:** Ирина Коляна (ПО 1)
+> **Ожидаемый расход хитов:** 34%
 >
-> ### **Enemies:**
+> ### **Враги:**
 >
-> |                       | 3 Players | 4 Players | 5 Players | 6 Players |
-> | --------------------- | --------- | --------- | --------- | --------- |
-> | Greater Strix         | 1         | 1         | 1         | 1         |
-> | Swarm of Lesser Strix | 1         | 1         | 2         | 3         |
+> |                       | 3 игрока | 4 игрока | 5 игроков | 6 игроков |
+> | --------------------- | -------- | -------- | --------- | --------- |
+> | Большой стрикс        | 1        | 1        | 1         | 1         |
+> | Рой малых стриксов    | 1        | 1        | 2         | 3         |
 >
-> ### **Balancing:**
+> ### **Балансировка:**
 >
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> Если у вас меньше или больше 5 игроков, измените столкновение следующим образом:
 >
-> | Number of Players | Modification                                                                                                                                                                                                                                                                                                                                                                                                      |
-> | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | 3                 | Reduce the greater strix’s hit points to 46. Reduce its **_tail spike_** and **_bite_** attacks to 5 (1d6+2) piercing damage and its **_claw_** attack to 4 (1d4+2) slashing damage. Reduce the number of swarms of lesser strix to one and reduce the swarm's hit points to 16 and its **_bite_** attack to 5 (2d4) piercing damage or 2 (1d4) piercing damage if it has half its hit points remaining or fewer. |
-> | 4                 | Reduce the number of swarms of lesser strix to one.                                                                                                                                                                                                                                                                                                                                                               |
-> | 6                 | Increase the number of swarms of lesser strix to three.                                                                                                                                                                                                                                                                                                                                                           |
+> | Количество игроков | Изменение |
+> | ------------------ | --------- |
+> | 3                  | Снизьте хиты большого стрикса до 46. Снизьте урон его атак **_хвостовые шипы_** и **_укус_** до 5 (1к6+2) колющего урона и его атаки **_когти_** до 4 (1к4+2) рубящего урона. Уменьшите количество роёв малых стриксов до одного и снизьте хиты роя до 16 и урон его атаки **_укус_** до 5 (2к4) колющего урона или 2 (1к4) колющего урона, если у него осталась половина хитов или меньше. |
+> | 4                  | Уменьшите количество роёв малых стриксов до одного. |
+> | 6                  | Увеличьте количество роёв малых стриксов до трёх. |
 
-These abominations were built by the witch Baba Lysaga to hunt down wereravens. These particular strix—a gift from Baba Lysaga to Strahd upon his awakening—have been ordered to hunt and kill Muriel, who was spotted eavesdropping on the Tarokka reading that Strahd received from Madam Eva earlier that morning. It continues to pursue Muriel, attacking the players instead if they attempt to harm it or otherwise shelter Muriel from its assault. It fights to the death.
+Эти мерзости были созданы ведьмой Бабой Лысагой для охоты на вороворонов. Эти конкретные стриксы — подарок от Бабы Лысаги Страду после его пробуждения — получили приказ выследить и убить Мюриэль, которую заметили подслушивающей гадание на картах Тарокка, которое Страд получил от Мадам Евы тем утром. Они продолжают преследовать Мюриэль, атакуя игроков вместо неё, если те пытаются навредить им или иным образом укрыть Мюриэль от их нападения. Они сражаются насмерть.
 
-> [!warning]+ **Don't Hurt Ireena**
-> Strahd's minions and those loyal to him, including the strix, don't attack Ireena.
+> [!warning]+ **Не ранить Ирину**
+> Приспешники Страда и те, кто ему верен, включая стриксов, не атакуют Ирину.
 
-If rescued, Muriel remains with the players until she can discern their intent. A player can remove the silver barbs in her body and wings with a DC 15 Wisdom (Medicine) check, reducing her to 0 hit points and causing her to fall unconscious on a failure. Once the barbs are removed, however, Muriel’s regeneration immediately returns, healing her wounds in a matter of seconds.
-
-<div class="statblock"> 
-<h2>Muriel Vinshaw</h2> 
-<em>Medium humanoid (human, shapechanger), chaotic good</em> 
-<hr> 
-<strong>Armor Class</strong> 14 (leather armor) 
-<br> 
-<strong>Hit Points</strong> 63 (14d8) 
-<br> 
-<strong>Speed</strong> 30 ft., fly 50 ft. in raven and hybrid forms 
-<hr> 
-<table class="ability-table"> 
-  <thead> 
-    <tr> 
-<th>STR</th> 
-<th>DEX</th> 
-<th>CON</th> 
-<th>INT</th> 
-<th>WIS</th> 
-<th>CHA</th> 
-</tr> 
-</thead> 
-<tbody> 
-<tr> 
-<td>10 (+0)</td> 
-<td>16 (+3)</td> 
-<td>11 (+0)</td> 
-<td>13 (+1)</td> 
-<td>15 (+2)</td> 
-<td>14 (+2)</td> 
-</tr> 
-</tbody> 
-</table> 
-<hr> 
-<strong>Skills</strong> Insight +4, Perception +6
-<br> 
-<strong>Senses</strong> passive Perception 16
-<br> 
-<strong>Languages</strong> Common (can't speak in raven form)
-<br> 
-<strong>Challenge</strong> 2 (450 XP)
-<br> 
-<strong>Proficiency Bonus</strong> +2
-<br> 
-<hr> 
-<p><strong><em>Regeneration.</em></strong>  Muriel regains 10 hit points at the start of her turn if she hasn't taken necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon since her last turn.</p> 
-<p><strong><em>Mimic.</em></strong> Muriel can mimic simple sounds she has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.</p> 
-<p><strong><em>Plummet.</em></strong> If Muriel flies at least 20 feet straight toward a target while descending at least five feet toward the ground, and then hits that target with a shortsword attack on the same turn, the target takes an extra 7 (2d6) piercing damage. If the target is a creature, it must succeed on a DC 12 Strength saving throw or be knocked prone.</p> 
-<h3>Actions</h3> 
-<p><strong><em>Multiattack.</em></strong> Muriel makes two weapon attacks, one of which can be with her hand crossbow.</p> 
-<p><strong><em>Shortsword.</em></strong> (Humanoid or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 6 (1d6 + 3) piercing damage.</p> 
-<p><strong><em>Hand Crossbow.</em></strong> (Humanoid or Hybrid Form Only) <em>Ranged Weapon Attack</em>: +5 to hit, range 30/120 ft., one target. <em>Hit:</em> 5 (1d6 + 3) piercing damage.</p>
-<p><strong><em>Beak.</em></strong> (Raven or Hybrid Form Only) <em>Melee Weapon Attack</em>: +5 to hit, reach 5 ft., one target. <em>Hit:</em> 1 piercing damage in raven form, or 5 (1d4 + 3) piercing damage in hybrid form. If the target is humanoid, it must succeed on a DC 10 Constitution saving throw or be cursed with wereraven lycanthropy.</p> 
-<h3>Bonus Actions</h3> 
-<p><strong><em>Shapechange.</em></strong> Muriel polymorphs into a raven-humanoid hybrid or into a raven, or back into her human form. Her statistics, other than her size, are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her human form if she dies.</p> 
-<h3>Reactions</h3> 
-<p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
-</div>
-
-If she learns that the players plan to travel to Vallaki, Muriel travels with them while maintaining her raven disguise, hoping to rely upon safety in numbers until she can report her findings to Urwin Martikov at the Blue Water Inn. Under no conditions does Muriel willingly reveal her true nature to the players at this time.
-
-> [!info]+ **Muriel Incognito**
-> While traveling with the players, Muriel tries to keep a low profile while ingratiating herself with the group. While she is in raven form, the players can communicate with her only using the _speak with animals_ spell, though she denies all knowledge of Strahd or the strix's origins and pretends to be an ordinary, simple-minded raven concerned only with food and avoiding predators. If asked for her name, she excitedly introduces herself as "Blue," and grows increasingly stubborn if questioned.
->
-> While accompanying the group, Muriel may use her **_mimicry_** feature to produce any of the following sounds to prompt or react to the players:
->
-> - **Whistle.** To signal secrecy or caution.
-> - **Snoring.** To signal boredom.
-> - **Laughter.** To signal amusement.
-> - **Jingling.** To indicate someone's arrival.
-> - **Clicking (like a key turning).** To applaud a solution to a problem.
-> - **Trumpet.** To celebrate a victory or achievement.
-
-# C4. Tser Pool
-
-<span class="citation"><em>This scene takes place in Chapter 2: Area G.</em></span>
-
-The journey from the River Ivlis Crossroads to the Tser Pool Encampment is one-and-a-half miles long and takes thirty minutes.
-
-> [!warning]+ **New Content Warning**
-> In the v2.0.8 update, added **July 18, 2024**, Madam Eva's invitation in [[Act I - Into the Mists/Arc B - Welcome to Barovia]] was removed. In its place, Ismark Kolyanovich now asks the players to travel to Tser Pool and seek Madam Eva's guidance on how Strahd may be defeated. Dungeon Masters who used the old version of Arc B should instead use the [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|deprecated version of this scene]]. (All other scenes in this arc, beginning with [[#C5. The Skeletal Rider]], remain unchanged.)
-
-## C4a. Arrival at Tser Pool
-
-This area is largely as described in <span class="citation">G. Tser Pool Encampment (p. 36)</span>. However, none of the Vistani at the camp are intoxicated, and only one—a Vistana woman named Eliza—serves as a spy for Strahd.
-
-As the players enter the camp, they are met by Stanimir, an old Vistana who informs them that the leader of their encampment, Madam Eva, has been waiting for them and points them toward Eva’s tent. Stanimir, a jovial, colorful old man with a twinkle in his eye is largely as described in <span class="citation">Mysterious Visitors (p. 19)</span>. However, he has the spell _major image_ prepared rather than _vampiric touch_.
-
-Stanimir is happy to answer any questions that the players may have about the Vistani or about Barovia, as described in <span class="citation">Vistani Lore (p. 27)</span>. The sole exceptions are the information about soulless Barovians, which don't exist, and Old Bonegrinder, which Stanimir doesn't mention. In addition, Stanimir and the other Vistani don't know that a coven of **night hags** has recently taken up residence in the old windmill, which they know only as the Old Durst Mill. The Vistani also don't mention Vistani curses, which are the stuff of mere superstition, and describe Strahd's interest in Tatyana as "true desire," rather than "true love."
-
-However, Stanimir will not discuss Strahd’s business at Tser Pool. Instead, he shares his belief that Strahd will not soon return, and reassures the players that anything discussed at their meeting with Madam Eva will not reach the vampire’s ears.
-
-If the players ask whether Strahd obtained a foretelling from Madam Eva, Stanimir tells them that Madam Eva shares her gifts freely with all—but that each person’s future is different, and often difficult to discern.
-
-## C4b. Madam Eva's Tent
-
-This scene unfolds largely as described in <span class="citation">Madam Eva’s Tent (p. 37)</span>. After greeting the players, [[Non-Player Characters#Madam Eva|Madam Eva]] names each player character personally, giving them one or more symbolic epithets related to their histories, their goals, and/or their capabilities.
-
-> [!profile]+ **Profile: Madam Eva**
->
-> **Roleplaying Information** > **_Resonance._** Madam Eva should inspire discomfort with her intimate knowledge of the players’ pasts, gratitude for her dedication to the players’ journey, and reassurance with her confident predictions.
->
-> **_Emotions._** Madam Eva's most frequent emotions are amusement, solemnity, concern, and contemplation.
->
-> **_Motivations._** Madam Eva wants to see the land of Barovia healed and freed from Strahd's corruption.
->
-> **_Inspirations._** When playing Madam Eva, channel The Ancient One (Doctor Strange) and the Fates (Hercules).
->
-> **Character Information**
->
-> **_Persona._** To the world, Madam Eva appears as a wise, yet maddened crone who speaks in prophecies and riddles. To those she trusts, she appears as a kind, yet frustratingly opaque and stubborn old woman.
->
-> **_Morale._** In a fight, Madam Eva would calmly insist that her opponent cease their attacks, then—if her Vistani aides prove unable to stop her assailant—weaken them with the harm spell before demanding their surrender.
->
-> **_Relationships._** Madam Eva alone knows that she is an avatar of the Seeker.
-
-She thanks the players for making the journey to Tser Pool. If asked about Strahd’s visit, she says only that each person’s future is their own to know, and that, while her duty binds her to seek the whispers of Fate for any who invoke her name, she is bound not to reveal what she sees to anyone else.
-
-If Muriel is with the players in raven form, Madam Eva regards her with an emotion nearly resembling fondness and asks to inspect her. She strokes Muriel’s wings and notes that she once had a beloved pet raven named Turul long ago.
-
-“I have only seen him once these past ten years, however,” Eva adds, somewhat mournfully. “Doubtless, he has gone wild without me.” (Madam Eva is referring to the **Roc of Mount Ghakis**, which served her when she retained the mantle of the Seeker of the Ladies Three.)
-
-If the players ask Eva about [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|Dalvan Olensky's corpse]], she shares only that he was a Barovian named Dalvan Olensky who came to her tent in the aftermath of Strahd’s siege on the village of Barovia, and that he insisted upon hearing— and then defying—his fate, a choice with tragic consequences. (As with Strahd, Eva can’t disclose the nature or content of Dalvan’s foretelling.)
-
-If the players ask Madam Eva to read their fortunes, or request her guidance on how to defeat Strahd, her face darkens, and she says, "You stand upon a precipice of a cliff whose base you cannot yet see. Do you understand what you ask of me?"
-
-Regardless of the players' response, Madam Eva replies, shaking her head: "I will not do this thing for you—not yet. If you wish to pursue this path, however, come to the River Ivlis crossroads at midnight tonight. I shall await you there, by the gallows. Come alone—and do not allow yourselves to be followed." Madam Eva refuses to elaborate, and dismisses the players from her tent if they attempt to protest.
-
-As the players prepare to leave, Madam Eva pauses and closes her eyes, though they flash wide open again soon after. Read:
-
-<div class="description"><p>Madam Eva’s voice is a low hiss as she speaks, her silhouette dancing in the flickering candlelight. "A shadow is approaching my tent: a lone servant of Darkness. They seek knowledge of your future—secrets that I am sworn never to reveal to any but their keepers. </p>
-<p>“Do not look, child, nor rush to greet them; if they learn of your true aspirations, all may be lost. Do not reveal, even, that you know of their true nature, for their master will know that I have told you, and his wrath will descend upon us all. </p></div>
-
-## C4c. Vistani Hospitality
-
-Upon exiting Madam Eva’s tent, the players find two other Vistani waiting outside of the tent: a woman named Eliza and a man named Arturi Radanavich. Stanimir joins the group a few moments later.
-
-Unless the players intervene, the conversation unfolds as follows:
-
-- Eliza greets the players immediately, giving them a warm welcome to the Tser Pool Encampment.
-- As Stanimir approaches, Eliza clicks her tongue and scolds him for his lack of hospitality, noting that the players seem to have traveled a long way.
-- Stanimir amusedly reminds Eliza that fate waits for no one, but nonetheless invites the players to rest their weary feet at the camp’s central fire, offering wine, food, and song should the players join.
-- If the players accept and move to accompany Stanimir, Arturi hesitates, then asks if the players would mind if he accompanied them. He notes that he has heard that they have just arrived from Barovia, and he is curious to hear news from the village. (He adds, somewhat awkwardly, that it has been some time since he had last shared a Vistani fire, and apologizes for imposing upon them and the others.)
-
-> [!profile]+ **Arturi and Eliza**
->
-> **Arturi Radanavich**, a cursed Vistana, arrived at the Tser Pool encampment two weeks after Strahd's reawakening. (See **The Curse of Arturi Radanavich** below for more information about Arturi's presence in Barovia and his connection to Dr. Rudolph van Richten.) Arturi is a quiet, soft-spoken man in his late thirties with a distant, almost absent-minded countenance and a near-painful sincerity.
->
-> Meanwhile, **Eliza**, one of Strahd’s spies, has heard that outsiders have entered the pool from beyond the Mists, and hopes to glean information about their goals, capabilities, and weaknesses. (Eliza had hoped to eavesdrop on the players’ Tarokka reading as well, but was foiled by Madam Eva’s foresight.)
->
-> In sharp contrast to Arturi, Eliza is a cheery, excitable woman in her early thirties, always glad to insert herself into a conversation with a brash or witty comment.
-
-> [!lore]+ **The Curse of Arturi Radanavich**
->
-> **_Dark Beginnings._** Twenty years ago, when Arturi Radanavich was only seventeen, several members of his extended family amongst the Radanavich caravan invited him on a “hunting trip.” Awkward, lonesome, and desperate for connection, Arturi accepted their invitation gratefully.
->
-> It wasn’t long, however, before Arturi learned the true nature of their hunt. His aunt, Madame Irene Radanavich and the leader of the caravan, had recently seen her son, Radu, gravely injured. When the Vistani’s treatments proved fruitless, Madame Radanavich had taken Radu to a healer in a nearby village—a doctor named Rudolph van Richten. Radu, however, had died under Van Richten’s care, and a vengeful and grieving Madame Radanavich sought to visit this pain upon Van Richten in turn.
->
-> Arturi felt bewildered and afraid—but each time he thought to open his mouth, he imagined the insults and jeers of his cousins or Aunt Irene’s smoldering glare. And so, Arturi watched silently as his family kidnapped Van Richten’s fourteen-year-old son, Erasmus, spirited him away to a darkened mire, and sold him to the vampire lord Baron Metus. The Radanaviches then fled through the Mists—to Barovia.
->
-> It wasn’t long after Erasmus was sold that Van Richten tracked the Vistani caravan down, ambushing the d’Avenirs—a Vistani husband and wife who then traveled with the Radanaviches and had aided Madame Radanavich in her vengeance—and demanding to know where his son had been taken. Arturi later learned that Van Richten had spared the d’Avenirs’ lives—a mercy that would not last forever.
->
-> Three years later, Van Richten returned, grim-faced and surrounded by a swarm of ravenous undead. His son Erasmus had died—transformed into a vampire spawn and killed by Van Richten’s own hand. Torn by fury and grief, Van Richten released the undead horde upon the Radanavich caravan, howling, “Undead take you as you have taken my son!”
->
-> Arturi alone survived, hiding himself away in his grandmother’s magical trunk. When he finally emerged, hours later, he found the encampment shattered, his family slaughtered—and Van Richten nowhere to be found.
->
-> **_Arturi's Curse._** Arturi soon learned, however, that Van Richten’s vengeful words had taken on a life of their own, clinging to him like a burial shroud. “Undead take you,” Van Richten had promised—and so they did, pursuing Arturi wherever he went. The Vistani banished him from their camps after dusk, naming him _mortu_, or “outcast,” a word that can also be more directly translated as “living dead.” No village gave Arturi sanctuary; no town’s walls would protect him.
->
-> For eighteen years Arturi evaded his eternal pursuers, even as he desperately searched for a way to escape the clutches of his curse. Finally, shortly after Strahd's reawakening, he returned to Barovia, where he sought the counsel of the Vistana seer Madam Eva. "Find the man who forged your fetters," she told him. "His final breath will set you free."
->
-> Arturi has ranged across Barovia several times since then in search of Van Richten. On one occasion, he even recovered a supply cache, containing a half-written manuscript and a small assortment of weapons. He has been unable, however, to locate the doctor himself.
->
-> Arturi has often returned to Madam Eva's camp to enjoy her hospitality—but stays no longer than dusk each time. For the walking dead never rest, and Arturi dare not lead them to Tser Pool . . .
->
-> **Source:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
-
-If the players make their way to the Vistani fire, Eliza—and Arturi, if he is present—introduce themselves. Eliza also asks the players’ names in return. (If asked why he has not shared a Vistani fire until recently, Arturi winces and admits only that the situation is complicated.)
-
-## C4d. The Dancing Fire
-
-As dusk descends around the campfire, the Vistani serve the players a dinner of a hearty stew of rabbit, potatoes, turnips, lentils, and parsnips alongside hearty chunks of flatbread. As they eat, Eliza asks the players about their next destination. If the players note that they are headed toward Vallaki or otherwise indicate an interest in staying the night, Stanimir invites them to rest at the camp overnight, noting that the roads can be long and dangerous beyond Madam Eva’s wagons.
-
-If he hasn’t already, Arturi asks the players for news from Barovia, inquiring specifically whether they have encountered a man named Rudolph van Richten. If asked about his interest, Arturi notes quietly that Van Richten is an acquaintance of his, and that he had recently heard a rumor that he had been seen traveling to Barovia. (This is a lie. A player who succeeds on a DC 10 Wisdom (Insight) check discerns that Arturi is speaking slightly too quickly. Arturi doesn't reveal the truth if challenged, and instead merely shrugs and says, "Believe what you choose to believe.") Arturi is unsure whether he believes Van Richten to be dead, but suspects that he still lives—if for no other reason than that he has heard the old man is impressively hard to kill.
-
-> [!info]+ **Insight Checks**
-> Do not invite players to make Insight checks unprompted. Instead, allow players to ask for information regarding an NPC's body language or truthfulness before inviting them to make one.
-
-After dinner, Stanimir cheerfully informs the players that, as guests at a Vistani fire, they are now expected to play the Game of Stories, and asks whether the players will accept. To play, each participant must put up a wager, which can be an object of small monetary, intellectual, or sentimental value. Each participant must then share a story to make a man “laugh or weep.” Each time a story is told, the other participants in the game must guess whether the story is truth, falsehood, or both. At the end of the game, the participant with the most correct guesses wins the pot.
-
-If the players accept the challenge, Eliza, Arturi, and [[Non-Player Characters#Ireena Kolyana|Ireena]] also offer to join the game. The participants’ wagers are as follows:
-
-- **Stanimir** wagers a worn deck of Tarokka cards that once belonged to his late wife. (“They’ve sat unused and dusty in my wagon for long enough,” he says with a sad smile. “I think she’d like it if they were out in the world again.”)
-- **Eliza** wagers a collapsible brass spyglass with a small, maneuverable mirror, allowing the user to peer around corners.
-- **Arturi** wagers a short manuscript on werewolves authored by Dr. Rudolph van Richten.
-- **Ireena** wagers a painted wooden hairclip in the shape of a sunflower that she once wore as a child.
-
-Give the players a few minutes away from the table to plan out their stories before the game begins.
-
-> [!info]+ **_Campfire Reactions_**
-> In response to the players' stories, the participants of the Game of Stories vote as follows:
->
-> - Stanimir, believing that a grain of truth lies at the heart of every tale, votes nothing but True.
-> - Eliza, not one for half-truths, alternates between True and False.
-> - Arturi, cynical and distrusting, alternates between Half-True and False.
-> - Ireena, quick to warm to the player, alternates between True and Half-True.
-
-> [!lore]+ **Arturi's Manuscript**
->
-> Arturi's manuscript—authored by Dr. Rudolph van Richten—is handwritten and two pages long. It is titled "A Study of the Werewolf's Curse," and reads as follows:
->
-> <hr>
->
-> Werewolves are among the most fearsome lycanthropes, bearing a curse as ancient as it is terrifying. For them, the affliction of lycanthropy transforms even the most civilized individual into a monstrous beast, warping the lines betwixt man and nature.
->
-> In its humanoid form, a werewolf retains many of the characteristics of its original identity, save for certain nuances such as heightened senses, an explosive temper, and an odd preference for rare meats. Over time, subtle features that hint at their animalistic nature begin to manifest. Nevertheless, it is in their wolf and hybrid forms that the true horror of the curse is revealed. A werewolf's hybrid form is particularly terrifying, with a muscular humanoid body crowned by the head of a ravenous wolf. It is capable of wielding weapons, though its favored means of attack are its devastating claws and powerful bite.
->
-> Werewolves typically abandon civilization soon after their transformation. Those who reject the curse flee in fear of harming their loved ones, whereas those who accept it fear exposure and the repercussions of their violent deeds. Out in the wild, they form packs, living in cohesion with ordinary wolves and dire wolves alike.
->
-> The most tragic aspect of lycanthropy is its transmission. A humanoid can contract this curse through a wound inflicted by a lycanthrope or through inheritance if one or both of its parents are lycanthropes.
->
-> The cursed have two paths: they may resist the beast within or embrace it. Those who resist bear unending strain—until the rising full moon triggers a compulsory and horrific transformation. These individuals often experience bloody, haunting dreams: echoes of the carnage wrought in their madness.
->
-> Some twisted souls, however, choose to accept their beastly nature. With time, they can master their abilities, calling upon the wolf's resilience and strength as they will. To do so, however, they must first perform a particular gruesome and foul act—one which I will decline to describe in these pages.
->
-> One sure way to identify an afflicted individual is the presence of a perpetually raw, bloody wound: the scar of the initial curse transmission. This wound never fully heals until the curse is lifted.
->
-> Beyond this mark, however, these creatures bear an extraordinary resilience. Conventional methods of harm prove ineffective in permanently subduing a werewolf. Only through the bite of silver or the chill of death's power can a werewolf be truly put to rest.
->
-> A spell of removal can also cure an afflicted lycanthrope, though those who accept the beast may fight it bitterly. As for those unfortunate souls born under the curse, they are doomed to bear their affliction for life. As far as my research has shown, there exists no cure, no respite for such individuals. They are caught in an eternal struggle, forever haunted by the wolf within.
-
-### Stanimir’s Tale
-
-Stanimir goes first, delivering the same tale as described in <span class="citation">The Dancing Fire (p. 20)</span>. However, exclude the final paragraph, and instead end with the sentence, “The figure in the dancing fire vanquishes its final foe, then disperses in a cloud of smoke and embers.” Throughout his tale, the players can notice Stanimir using the _major image_ spell to create the shapes in the flames.
-
-When his tale has ended and all participants have made their guesses—Eliza and Arturi going last, with Eliza voting “True” and Arturi voting “Half-True”—Stanimir reveals that his story was indeed a true tale of the Vistani people, and that the wounded prince lived on as a friend to the Vistani, even when his heart was led astray by shadows and mist. (If asked, Stanimir admits that the prince was Strahd von Zarovich in the days before he came to Barovia, and that his promise to the Vistani is why they remain in the valley to this day, “without fear or favor.”)
-
-### Eliza’s Tale
-
-After one of the players has gone, Eliza then shares the following tale:
-
-<div class="description"><p>“It is said that within each raven flutters a lost soul, and that each raven’s song tells a tale of ages past. They whisper, so listen closely.”</p>
-<p>She takes a deep breath; when she speaks again, her voice is quiet, with an eerie, melodic quality to it.</p>
-<p>“Sing, ravens, of Barovia, birthed from the mists and bathed in twilight. Sing of Lugdana, the Morninglord’s stalwart, dawn-touched foe to the deep-lurking dark. The Holy Symbol of Ravenkind, her radiant testament, the warrior’s beacon of faithful resolve.</p>
-<p>“Sing, ravens, of Chernovog’s rise, named Green-God and Demon-Lord upon Yester Hill. Lugdana, gray-haired, weary of battle, her longsword and shield yet polished and ready. Guided through shadows, toward sacred ground, she clashed with the demon, their tempest-like dance.</p>
-<p>“Sing, ravens, of Lugdana’s last fury, of Ravenkind’s token now blazing with light. The battle’s tide turning, a hero’s brave cry, a final onslaught with divinity’s grace. The Demon-Lord banished, the warrior now fell, the wound at her side gouged too deep to bear.</p>
-<p>“Sing, ravens, of light’s final moments, a shadow descending from radiance on high. Sing of the angel, black-feathered and beaked, the Morninglord’s angel reclaiming its gift. The Symbol retaken, in ravens’ claws held.</p>
-<p>“Sing, ravens; you are the keepers, the watchers, the tellers of stories untold. Sing, ravens, of Lugdana’s memory, the shadows that lurk, and heroes to come.”</p></div>
-
-When her tale has ended and all participants have made their guesses—Stanimir and Arturi going last, with Stanimir voting “True” and Arturi voting “False”—Eliza reveals that her story was half-true.
-
-Lugdana was indeed a paladin of the Morninglord who bore the legendary _Holy Symbol of Ravenkind_, which was a platinum amulet shaped like a sunburst, with an enormous ruby embedded at its center. According to legend, the symbol was given to Lugdana by an angel in the guise of a raven. Eliza notes with a chuckle, however, that no one knows what happened to the Symbol after Lugdana fell at Yester Hill, nor where it resides today.
-
-### Arturi’s Tale
-
-After three of the players have gone, Arturi then shares the following tale:
-
-<div class="description">
-<p>There once was a Fox, renowned for his wisdom and skill, who dwelled with his kit in the misted woods. On a cold, moonlit night, a pair of Sparrows brought him their child, the tendrils of Death clutching its shivering body. The Fox took the chick into his den, but for all his knowledge, he could not cure its ailment, and it breathed its last in his paws.</p>
-<p>Driven mad in their grief, the vengeful Sparrows, aided by four of their kin, stole the Fox's kit in the night. They delivered him to the Wolf, who had long hungered for the taste of fox-flesh. The Wolf devoured the kit, and the Sparrows departed to return to their flock.</p>
-<p>When the Fox found what the Sparrows had done, rage clutched his own heart. In his cunning, he knew that the Rats, in their burrows beneath the earth, had always despised the songs of the Sparrows far above. The Fox descended to the kingdom of the Rats, and he promised them a forest free of the songs of the Sparrows. Intrigued, the Rats agreed.</p>
-<p>The Rats could not find the Sparrows' nest alone. But the crafty Fox could, and as the Sparrows slumbered in the hollow of a great oak, the Rats fell upon them to feast with tooth and claw. For the crimes of six, the flock perished, with nary an egg spared.</p>
-<p>The misted wood is darkened, now, and the trees no longer sing with the songs of the Sparrows. But some say that the Rats hunt still—that a lone chick yet escaped their clutches, and that one day, they will find it, and gobble it up like the rest.</p>
-</div>
-
-When his tale has ended and all participants have made their guesses—Stanimir and Eliza going last, with Stanimir voting “True” and Eliza voting “False”—Arturi reveals that his story was true. He politely declines, however, to reveal anything further, noting only with a sad smile that "A story cannot truly be told until it has ended."
-
-### Ireena’s Tale
-
-After all of the players have gone, [[Non-Player Characters#Ireena Kolyana|Ireena]] (if present) then shares the following tale:
-
-<div class="description"><p>"When I was a child, my father took me and my brother to a vast, tranquil lake. I remember the sand beneath my bare feet, and the lapping of the waves against the shore. </p>
-<p>"But then, something broke the silence—a low growl that echoed through the wind. As I turned, I saw a beast emerge from the fog: a wolf, far larger than any I'd ever seen. I still remember its eyes—yellow, cold, and hungry.</p>
-<p>"My father screamed for me to run. I took off for the woods, and the wolf followed, its snarls echoing through the underbrush. I remember branches whipping against my face, thorns cutting at my feet as my legs burned and my breath grew ragged, but my fear drove me forward.</p>
-<p>"It was only much later, when my heart had quieted in my chest and the wolf's footsteps had faded into silence, that I finally allowed myself to stop. By then, though, the woods were strange to me, and my father's shouts had faded. </p>
-<p>"A heavy mist had descended around me, and shadowed shapes lurked in every corner. I stepped forward, one hand reaching fearfully into the fog—and a wolf made of mist leapt forth, its jaws opened wide to devour me. And then—everything went black.</p>
-<p>"The next thing I remembered, I awoke in my own bed, my father's humming echoing from the kitchen. I don't know how I got there, or what became of the wolf, but I can still remember its teeth as clearly as ever."</p></div>
-
-When her tale has ended and all participants have made their guesses—Stanimir voting “True” and Eliza and Arturi voting “False”—Ireena reveals that her story was false. With a quiet laugh, she shares that the story is a dream that she’s had since childhood, noting that there are no lakes near the village of Barovia and that she’d never seen a **dire wolf** until recently.
-
-If challenged on his vote, Stanimir merely says, with a mysterious smile, that many dreams have a kernel of truth. He then thanks Ireena for sharing her tale.
-
-### Arturi Departs
-
-When the game ends, Arturi bids the players farewell and departs from the camp. If asked why, he shares, with a sad smile, that the camp is in danger each moment he lingers there after dark. "I have been selfish tonight," he murmurs, "and pushed my fortunes as far as I dare. But I dare not remain any longer, for fear of the terror that might follow."
-
-A player who succeeds on a DC 12 Charisma (Persuasion) check can convince Arturi to share that the undead pursue him wherever he goes, and that they have haunted him each night for the past eighteen years. "A man once vowed that undead shall take me," he says. "And although they have not yet succeeded, they have never failed to try." He declines to explain further, asserting sadly: "Some tales wound the teller. Please, ask no more."
-
-Arturi refuses any offers to defend him, and slips away into the night, eventually settling amidst the boughs of a tall tree two miles from the encampment. The undead then emerge as follows:
-
-- Thirty minutes after Arturi arrives, twelve **zombies** arrive to mill about the base of the tree.
-- Two hours later, five **ghouls** arrive to claw and howl at the trunk of the tree.
-- Two hours later, three **ghasts** arrive to join the ghouls.
-- Two hours later, four **wights** emerge silently to stand guard around the base of the tree.
-
-The undead vanish into the woods shortly before dawn.
-
-## C4e. Return to the River Ivlis Crossroads
-
-The journey from the Tser Pool Encampment to the River Ivlis Crossroads is one-and-a-half miles long and takes thirty minutes. Players who attempt to conceal their movements from Eliza, Strahd's spy in the camp, must succeed on a DC 11 Dexterity (Stealth) check or take other covert action to do so.
-
-### Traveling to the Crossroads
-
-As the players make the journey to the crossroads, read:
-
-<div class="description">
-<p>A pallid moon hangs low in the sky, casting a weak, silvery glow upon the mist-shrouded landscape below. Ancient trees loom on either side of the muddy road, their gnarled branches reaching out like skeletal fingers.</p>
-<p>As the witching hour approaches, an eerie stillness descends. Even the leaves cease their rustling, leaving the squelch of your boots through mud the only lingering sound.</p>
-</div>
-
-If the players failed to conceal their departure, any players with a passive Wisdom (Perception) score of 11 or greater realize they're being followed. Read:
-
-<div class="description">
-<p>The sound of a snapping twig cuts through the silence like shattering glass. A bush behind you rustles—then abruptly falls still.</p>
-</div>
-
-The rustling bush hides the Vistani **bandit** Eliza. If the players disregard her, she continues to shadow the players as they approach the crossroads. Otherwise, if the players confront her, she reacts as follows:
-
-**If the players call out to Eliza**, she remains hidden and doesn't respond.
-
-**If the players find Eliza's hiding spot**, she steps from the underbrush with her hands raised in a gesture of peace. She reassures the players that she meant them no harm, and insists that she followed them out of curiosity for their night-time travels. "Out and about at midnight—at a time when all but monsters fear to tread?" she breathes, her eyes glinting. "One might think you were _up to_ something—and a storyteller can always use more tales."
-
-Eliza hopes to travel with the players openly to their destination. If refused, she "agrees" to return to Tser Pool, but secretly loops back to follow the players' tracks. If the players attempt to convince her that any such endeavor would be fruitless and succeed on a DC 15 Charisma (Intimidation) check, however, Eliza returns to Tser Pool and remains there for the night.
-
-**If the players threaten Eliza**, she immediately surrenders, throwing herself on their mercy. If they succeed on a DC 15 Charisma (Intimidation) check, she reveals that she "reports to the lord of the castle." If asked why she serves Strahd, her eyes glint with a hint of fanaticism as she breathlessly avows that Strahd is—or should be—the "king" of the Vistani. "He is the one who brought us home," she whispers reverently. "We delivered him from death, and, in gratitude, he delivered us from exile."
-
-> [!lore]+ **Eliza's Fanaticism**
-> Eliza freely admits that few Vistani agree with her beliefs or loyalty to Strahd—a fact that drives her to curse the "ungrateful" and "faithless" among them. Although she doesn't believe Barovia is the ancestral home of the Vistani, Eliza believes it to be a new home that Strahd found for them.
-
-**If the players attack Eliza**, she attempts to flee into the woods. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
-
-- Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-- Use a stampede of spooked **elk** for the stampede of spooked animals
-- Use a **giant spider** for the creature indigenous to the area
-
-While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
-
-**If the players attempt to conceal their tracks from Eliza**, they can do so by traveling off-road and succeeding on a DC 11 Dexterity (Stealth) check, followed by a DC 11 Wisdom (Survival) check. Players who depart from the road in this way encounter a **will-o'-wisp** as described in <span class="citation">Will-o'-Wisp (p. 33)</span>.
-
-### The March of the Dead
-
-When the players arrive at the River Ivlis Crossroads, read:
-
-<div class="description">
-<p>The well-worn path returns to the crossroad, now illuminated beneath the pale, sickly light of the moon. Across the road, the mist-shrouded headstones seem to hunker down in the gloom beside the old wooden gallows, whose frayed rope dangles lifelessly in the still air.</p>
-<p>A squat, cloaked silhouette stands beside the gallows—waiting.</p>
-</div>
-
-The silhouette is Madam Eva. She does not answer if called out to, and waits for the players to approach her. When they do, she whispers to them, her voice rasping like a chill wind: "_What did I say to you before you departed my tent?_" If the players respond accurately, Madam Eva nods, assured of their identities.
-
-> [!abstract]+ **Eliza's Flight**
-> If the players failed to stop Eliza from following them, Eliza is hiding behind a patch of underbrush to the north of the crossroads, watching them silently. If she is, Madam Eva's eyes flare wide, and she exhales sharply. "Fools!" she breathes. "You were followed—dispatch her, or all is lost!" She then gestures toward Eliza's hiding place.
->
-> Once noticed, Eliza immediately attempts to flee into the woods, beginning with a 30-foot head start. If allowed to do so, Eliza immediately moves to return to Castle Ravenloft, and doesn't return to Tser Pool that night. If the players give chase, run the chase as described in <span class="citation">Chases (<em>Dungeon Master's Guide</em>, p. 252)</span>, using the **Wilderness Chase Complications** table as follows:
->
-> - Use a **swarm of biting midges** (using the statistics for a **swarm of wasps**) for the **swarm of insects**
-> - Use a stampede of spooked **elk** for the stampede of spooked animals
-> - Use a **giant spider** for the creature indigenous to the area
->
-> While fleeing through the woods, Eliza has half cover from any player at least 30 feet away, and three-quarters cover from any player at least 60 feet away.
->
-> If Eliza is caught, Madam Eva is insistent that she be killed and thrown into the River Ivlis, "lest she report what she has seen and heard to her master." If challenged, Madam Eva coldly replies that "there can be no equivocation when Fate itself balances upon the precipice."
-
-If further questioned, Madam Eva holds up a hand, then silently turns to face the unmarked graveyard near the gallows. The March of the Dead, as described in <span class="citation">March of the Dead (p. 48)</span>, begins shortly thereafter.
-
-Once the March has begun, Madam Eva informs the players: "Each spirit in this march shares a common trait. Can you suppose what that might be?" If the players answer correctly, she then asks, "Where do you suppose they might be headed?"
-
-Regardless of the players' answer, Madam Eva then shares the information about the March provided in <span class="citation">March of the Dead (p. 48)</span>, either in response to the players' questions or of her own initiative once the March has fully departed the graveyard.
-
-"This is the precipice you walk," she warns them once the March has departed. "There are many paths among the webs of Fate, but I can only see what may be—not what will. I can tell you what you _must_ do, but I cannot ensure that you will succeed. For if you fail, this shall be your resting place—a place without legacy, glory, or love. Do you understand?"
-
-Regardless of the players' answer, Madam Eva fixates them with a steady gaze. "If you wish to put aside this mission, no soul could blame you. There is no shame in flight from a foe that no others have defeated. If you wish me to read your futures, I can read your palms, or gaze into my crystal ball. I can tell you the face of your true love, the path to good health in your elder years, or the success you might find in a trade of profession." She pauses, then adds, her voice nearly a whisper: "Or I can read the cards—and set you upon a path that ends only when your foe is vanquished—or you are. The choice is yours."
-
-If the players insist upon a desire to defeat Strahd, Madam Eva nods. "Very well," she says. "Then let us begin."
-
-## C4f. The Tarokka Reading
-
-Madam Eva begins the Tarokka reading by seating herself upon the cemetery earth, reaching into her cloak, and removing three old candles, which she stakes into the ground and lights with a wave of her hand. She then removes a deck of Tarokka cards, which she sets upon the ground between the candles. Read:
-
-<div class="description">
-<p>Her old hands working deftly, the ancient seer removes fourteen cards from the top of the deck, setting them aside. The remaining cards, she shuffles nimbly twice, three times, four.</p>
-</div>
-
-As she shuffles the deck, the players notice a velvet pouch upon the ground beside her that wasn't present a moment before. Madam Eva meets their eyes, then cackles quietly. "The task you seek of me is no small boon," she murmurs. "In exchange, I would ask a boon of my own."
-
-If the players accept Madam Eva's request or inquire further, she informs them that the pouch contains ten gold pieces. "My great-grand-niece, Arabelle, will celebrate her tenth nameday in two days' time," she says. "For this momentous occasion, I wish to provide her a gift—but in my old age, I am quite unable to make the journey myself."
-
-Madam Eva asks the players to use the funds in the pouch to purchase a toy for Arabelle at Blinsky Toys in Vallaki—Blinsky’s, she notes fondly, are Arabelle’s favorites—and deliver the toy to the Vistani encampment to the southwest of Vallaki by noon on Arabelle’s nameday. She adds that the players are welcome to keep any change as payment for their efforts.
-
-Eva adds, with a cryptic smile, that the players may enjoy speaking with Arabelle, as she is “a most interesting child”—and that the players may find befriending her family a gift in itself. (If the players ask, Eva shares only that Arabelle's father, Luvash, is the leader of the Vallakian Vistani encampment, and his brother Arrigal a "perceptive and intelligent man.")
-
-If the players accept Madam Eva's task, she nods approvingly. She then begins the Tarokka reading. Read:
-
-<div class="description">
-<p>Madam Eva sets both decks upon the earth before her. Closing her eyes, she places her right hand over the surface of the larger deck. The crimson flames dim and swirl in eldritch patterns as her lips move silently, a distant tension spreading through the air. The sound of the rustling trees begins to dim, the external world growing mute and insubstantial as the space within grows more solid—more real.</p>
-<p>Slowly, reverently, the crone draws three cards from the top of the deck, laying them face down separately on the ground, with the second laid between and above its partners. She then moves to the smaller deck, drawing two more cards. The first, she places below the first three, forming a cross. The second, she places in the center.</p>
-<p>The shadows of the headstones around her sway like silhouettes, leaning in toward the cards like anxious watchers—yet the air in the cemetery is perfectly still. No light intrudes besides the light of the three candles; no voice rings out in the silence. Shadows and mist swirl beyond the graves, where the darkness of deepest night dwells—but here, at its center, light yet reigns.</p>
-<p>The crone then moves her wrinkled hand to the left-most card—the first. She closes her eyes and tilts her head, as if listening to an unspoken word. The arcane lights swirl and then shift, their colors changing to a deep, piercing blue.</p>
-<p>"This card tells of history. Knowledge of the ancient will help you better understand your enemy."</p>
-<p>She flips the card.</p>
-<p>The cerulean light dances across its surface, revealing an illustration of a smirking guardsman looking up at a haughty priest, the priest’s pointing fingers mere inches from the guardsman’s nose as the guardsman readies a wickedly curved dagger behind his back. “The Nine of Glyphs—the Traitor.” Her dark pupils shift from side to side, as though reading from an unseen text. "I see the ancient foe of an old and noble house. The lost soul will lead you to him."</p>
-<p>She moves her hand to the second card, this one at the top of the cross. As she closes her eyes and listens once more, the candlelight flares, its color bursting into a fierce, cheery yellow.</p>
-<p>"This card tells of a powerful force for good and protection, a holy symbol of great hope." She flips the card.</p>
-<p>This time, the light reveals a new illustration: an armored warrior clutching a cracked iron sword and a leather-bound wooden shield, his face obscured by a heavy iron helmet. “The Five of Swords—the Myrmidon.” Her eyes stare deep into the darkness that lurks beyond the candlelight. (See <span class="citation">Swords (Spades), p. 12</span>, for this card’s foretelling.)</p>
-<p>She moves her hand to the third card, at the right arm of the cross, her eyelids closing like a trance, her lips pursed in quiet contemplation. The candlelight vanishes, for a heartbeat—and then returns in a nova of fierce, burning white, so pure and strong and clean that it hurts to look at, burns to see—</p>
-<p>Madam Eva's eyes snap open, burning with a fierce determination.</p>
-<p>"This is a card of power and strength. It tells of a weapon of vengeance: a sword of sunlight." She flips the card.</p>
-<p>The light reveals a third illustration: a solemn-faced man clad in holy vestments, one hand clutching the chain of a bronze censer that billows with burning smoke. “The Eight of Glyphs—the Bishop.” The crone's voice is strong with purpose. "What you seek lies in an amber prison, where the devil fears to tread," she intones, her eyes narrowing. "This weapon is long hidden. The house of the fallen dragon can lead you there."</p>
-<p>She moves to the fourth card, at the bottom of the cross, and listens once more, tracing small circles across its back as she hums a contemplative note. The magic flames leap and dance upon their wicks, now casting swirling violet embers into the air as the graves beyond shimmer with a twilit glow.</p>
-<p>"This card sheds light on one who will help you greatly in the battle against darkness."</p>
-<p>She flips the card.</p>
-<p>This time, the illustration revealed is a quiet graveyard choked with fog, its entrance sealed with a sharp iron fence. "The Mists." Madam Eva leans forward. (See <span class="citation">Strahd’s Enemy, p. 15</span>, for this card’s foretelling.)</p>
-<p>Finally, she moves her hand to the fifth card—and nearly recoils, her brow furrowing until the wrinkles split her forehead like a trench. Behind her, shadows encircle the candlelight until the light is very nearly swallowed by the creeping dark. When next she speaks, Madam Eva's rasping voice is scarce above a whisper.</p>
-<p>"Your enemy is a creature of darkness, whose powers are beyond mortality. When the hour of judgment arrives, this card will lead you to him!"</p>
-<p>Her hand trembles above the card for a silent moment—and then deft, ancient fingers reveal its opposite side.</p>
-<p>In the darkness, the fifth and final illustration is only barely visible through the smoke and unnatural murk. Upon the card's surface dwells a depiction of a crowned, grinning emperor clad in royal finery and reaching for a goblet of wine—though his limbs are wooden puppet’s limbs, lashed to corded strings that disappear into the darkness overhead.</p>
-<p>Madam Eva slowly exhales. "The Marionette." (See <span class="citation">Strahd’s Location in the Castle, p. 17</span>, for this card’s foretelling.)</p>
-<p>As the last syllable passes her lips, the old woman freezes—and then rocks backwards, her eyes rolling until their whites gleam like pearls in the darkness—and then she snaps back, the candlelight burning down to its ordinary crimson glow.</p>
-<p>The sound of the natural world returns—the whispering of the wind through the trees, the distant hooting of an owl, and the faraway lapping of the Ivlis River against its banks. Silver moonlight once again pierces the cemetery's edge, and you feel yourselves breathe for the first time since the reading began.</p>
-<p>Madam Eva says nothing. She only regards you silently with dark, heavy eyes.</p></div>
-
-Madam Eva refuses to elaborate on the players’ readings or provide any additional information or assistance. If asked to, she says only, “The threads of Fate cannot be beckoned like a servant or conjured like a magician’s trick. I see only what the cards show me, and no more.”
-
-Madam Eva dismisses the players from her presence once she has completed the Tarokka reading, instructing them to return to Tser Pool and to "tell no servant of Strahd of what they have just heard."
-
-Madam Eva declines to return with the players, preferring instead to linger at the crossroads. If asked why, she shares only that the place holds "special memories" for her, and that she will return to Tser Pool when she is ready. "Fear not," she rasps, a twinkle of amusement in her eyes. "I have little to fear from the creatures that prowl these woods, I assure you." If the players depart the crossroads and later return, they find that Madam Eva has vanished.
-
-> [!lore]+ **Why Madam Eva Remains**
-> Adventurers who sought to kill Strahd are not the only ones buried at this cemetery. Madam Eva's mother, the Vistana with whom King Barov II had an affair, is buried in the woods a short distance away from the gallows. (It is common for Vistani to bury their dead at crossroads, believing that doing so frees the spirit to guide others who follow the paths they once traveled.)
-
-> [!warning]+ **Wandering Players**
->
-> Exploration in this campaign is intentional. Players won’t find much by wandering aimlessly; without clear leads, meaningful discoveries such as the _Holy Symbol of Ravenkind_ or Amber Temple can take days or even weeks. To progress, the players must uncover clues and recognize the signs that point the way.
-
-**_Milestone_**. Receiving the Tarokka reading completes a story milestone. When the party departs the crossroads, award each player 500 XP.
-
-## C4g. Departing Tser Pool
-
-When the players awaken at Tser Pool the following morning, Stanimir invites them to break their fast with him around the cold fire. Breakfast, which Arturi attends if able, includes cornmeal polenta, stuffed cabbage rolls, and fried bread. (If her treachery was not revealed the previous night, Eliza cheerfully joins the players for breakfast as well.)
-
-If the players attempt to speak with Madam Eva again before departing, Stanimir warns them that "the old woman" is asleep, and does not wish to be disturbed. If the players attempt to enter her tent, they find her asleep on a pallet beside her table.
-
-# C5. The Skeletal Rider
-
-When the players return to the River Ivlis Crossroads after receiving the Tarokka reading, they encounter a skeletal rider, as described in <span class="citation">Skeletal Rider (p. 31)</span>, which approaches from the western road and continues toward the village of Barovia. If the players saw Dalvan Olensky’s corpse upon entering Barovia, they notice that the rider’s clothing is recognizably similar to his.
-
-> [!abstract]+ **Following the Rider**
-> If followed, the rider continues to ignore the players. After traveling a short distance down the road, it turns south down an old hunting path into the woods, which it follows east toward Barovia's eastern border. (The rider is roaming randomly, and has no particular destination.)
-
-# C6. The Watchtower
-
-As the players travel west from the River Ivlis Crossroads, read:
-
-<div class="description"><p>You leave the crossroads behind and resume your westward journey. You follow the road as it bends around, then ascends the cliff, trudging up its steep, rocky incline. </p>
-<p>The fog is thick here, obscuring the top of the cliff overhead. The road itself grows narrow and treacherous, with loose stones and deep ruts that make it difficult to maintain your footing. </p>
-<p>Soon enough, though, the road levels out, continuing past a ruined three-story watchtower perched atop the edge of the cliff. </p>
-<p>The tower's old stone walls are covered in moss and ivy, its rotten wooden door hanging off its hinges. Nearby, two fresh graves sit against the road. An animal's corpse seems to lie in the tall grass not far away.</p></div>
-
-Pause to allow the players to act or react. If the players remain silent, continue to [[#C7. The High Road]] below. Otherwise, allow the players to explore the area.
-
-## The Watchtower
-
-The ruined watchtower was built as a lookout post by the Order of the Silver Dragon long ago. It has the same structure as the <span class="citation">Guard Tower (p. 157)</span> at Tsolenka Pass, with the following changes:
-
-- The tower door has been half-pulled from its hinges and can be opened easily.
-- The temperature and wind in the tower are far less severe.
-- There is no dire wolf's head mounted above the hearth.
-- There are neither statues nor skeletons atop the battlements.
-
-If the players explore the watchtower, they find a broken silver pendant carved to resemble a dragon lying on the ground of the first floor, close to the entrance. The pendant is always cold to the touch.
-
-From atop the battlements of the watchtower, the players can see Tser Falls to the northwest and Tser Pool to the northeast. To the south, above and beyond the slopes of Mount Ghakis, they can see only an impenetrable wall of thick, gray fog.
-
-## The Graves
-
-The two graves hold the remains of two Barovian refugees who were slain by wolves during the journey to Vallaki some time ago. A DC 12 Wisdom (Survival) check reveals that the graves are no more than a few weeks old.
-
-Small pebbles have been arranged in the soil atop each grave to form the shape of a rising sunburst.
-
-## The Corpse
-
-The corpse belongs to a wolf killed by spears and crossbow bolts, and has mostly rotted away. The Barovian refugees left it here after slaying it and driving off the other members of its pack.
-
-# C7. The High Road
-
-The journey from the River Ivlis Crossroads to Tser Falls is seven-and-a-half miles long, or two-and-a-half hours.
-
-## C7a. The Ravine
-
-As the players continue down the road, read:
-
-<div class="description"><p>You continue down the winding mountain road, the jagged peaks looming ominously through the fog far above. </p>
-<p>The air grows colder as the road passes through a dark evergreen forest, the thick canopy once more blocking out much of the sky's dim light. Here, the road grows narrow, its edges passing above steep, craggy slopes as it winds around a mountain spur. The only sounds that follow you are the crunching of fallen leaves and an occasional rustling in the underbrush.</p></div>
-
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
-
-<div class="description"><p>As your footsteps squelch into the old, muddy road, you glimpse a flicker of movement in the underwood: a flash of gray fur, amber eyes, and sharp, white teeth. Then, as soon as it appeared, it vanishes, skulking back into the shadows.</p></div>
-
-The movement belongs to a **wolf**, which swiftly retreats into the woods. Its five **wolf** packmates are not far behind, keeping a distance of two hundred feet as they stalk the players through the woods.
-
-If the players continue, read:
-
-<div class="description"><p>As the road curves around the edge of the mountain, the right-hand cliffs fall away, leaving a sheer drop to a wooded ravine below. The road, now barely ten feet wide, bends up ahead, doubling back around this ravine before plunging dramatically and winding around a smaller mountain peak. </p>
-</div>
-
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
-
-<div class="description">
-<p>You see three gray-furred shadows dart through the underbrush ahead. Three more flicker at the edge of your vision, just behind you.</p>
-</div>
-
-If one of the players has a passive Wisdom (Perception) score of 18 or higher, or if one of the players makes a successful DC 18 Wisdom (Perception) check, add:
-
-<div class="description">
-<p>Two more lurk in the ravine nearly fifty feet below, keeping pace with your movements as they cling to the shadows of the crags.</p>
-</div>
-
-If the players pause, proceed, or attack, the six wolves in the woods strike. Read:
-
-<div class="description">
-<p>Six snarling shadows launch from the underbrush, fangs bared and claws outstretched!</p>
-</div>
-
-![[wolf_ravine.jpg]]
-
-> [!combat]- **Combat - The Wolves**  
-> **Combat Level**: Bloody
-> **Expected Character Level**: 3
-> **Allies:** Muriel Vinshaw (CR 0), Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 58%
->
-> ### **Enemies:**
->
-> |            | 3 Players | 4 Players | 5 Players | 6 Players |
-> | ---------- | --------- | --------- | --------- | --------- |
-> | Wolves     | 3         | 4         | 8         | 1         |
-> | Werewolves | 0         | 0         | 0         | 2         |
->
-> ### **Balancing:**
->
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
->
-> | Number of Players | Modification                                                                 |
-> | ----------------- | ---------------------------------------------------------------------------- |
-> | 3                 | Reduce the number of wolves to 3.                                            |
-> | 4                 | Reduce the number of wolves to 4.                                            |
-> | 6                 | Reduce the number of wolves to 1 and increase the number of werewolves to 2. |
-
-Replace the wolves' **_bite_** attack with the following action options:
-
-- **_Maul._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 7 (2d4 + 2) piercing damage. Instead of dealing damage, the wolf can grapple the target (escape DC 11).
-- **_Claws._** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) slashing damage. If the target is a creature, it must make a DC 11 Strength saving throw. On a failure, it is knocked prone or pushed 5 feet away (wolf's choice).
-
-The **wolves** start on the mountainside, with the players between them and the ravine. In combat, the **wolves** target a single player at a time with their **_claws_** attacks, using their **_pack tactics_** to gain advantage on attack rolls and hoping to knock that player into the gully.
-
-A player that falls into the ravine tumbles 50 feet down, taking 17 (5d6) bludgeoning damage and falling prone. The two wolves at the bottom use their **_maul_** to attack any creature that falls into the ravine, then drag them away in the hopes of an easy meal. A creature that clings to the cragged edge at the bottom of the ravine has half cover from creatures atop the ravine.
-
-Once a player falls into the ravine, the rest of the pack flees into the woods, then descends into the ravine by another path to assist the sixth wolf in pulling its prey away. The pack flees if six of the eight wolves are killed.
-
-> [!info]+ **Descending Into the Ravine**
-> A player attempting to ascend or descend the edge of the ravine must make a DC 10 Strength (Athletics) check. If the check succeeds, the character moves at half speed up or down the edge of the ravine, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage per 10 feet fallen, landing prone at the base of the ravine.
-
-As the players depart this area, a player with a passive Wisdom (Perception) score of 13 or greater notices two wolves, slightly larger than the others, watching them from atop an eastern mountain crag that rises above the tree line. A player who succeeds on a DC 20 Wisdom (Insight) check discerns that the wolves appear to be surveying them with a patient intelligence unusual for a wolf. The wolves turn and vanish from sight if noticed or interacted with.
-
-> [!lore]+ **The Watching Wolves**
-> The two wolves are **werewolves** in wolf form. Bloodthirsty brutes loyal to Kiril Stoyanovich and Strahd von Zarovich, they will reappear to stalk the players in [[#C11. The Werewolves' Hunt]].
-
-## C7b. Tser Falls
-
-<span class="citation"><em>This scene takes place in Chapter 2: Area H.</em></span>
-
-This area is largely as described in <span class="citation">Tser Falls (p. 37)</span>. Additionally, when the players arrive, they can see a <span class="citation">revenant (p. 31)</span> standing alone at the midpoint of the bridge with its hands resting on the pommel of its sword, the blade of which is planted firmly on the ground.
-
-![[Bridge Revenant.png]]
-<span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!lore]+ **Vladimir’s Fury**
->
-> This nameless **revenant** was banished, along with a dozen of its peers, from the ruins of Argynvostholt shortly after the failure of Doru’s rebellion three months ago.
->
-> When news of Strahd’s planned counterstroke reached them, the knights of the Order of the Silver Dragon raised their voices, begging Vladimir Horngaard to allow them to lend their swords to the cause.
->
-> Vladimir denied them and, when the knights grew enraged and unruly, banished them from the manor and forbade them from raising their swords against Strahd or any of his creatures. Now, only Sir Godfrey Gwilym, Vladimir Horngaard, and the spirits of the **phantom warriors** that once fought for the Order remain in Argynvostholt.
-
-If the players call out to this nameless **revenant** or step onto the bridge, it hails them in a raspy voice and asks their business. Upon hearing their response, it says, "Old things are stirring and the lord of Castle Ravenloft roams the valley. Tell me: Do you serve him?"
-
-If the players claim to serve Strahd, the revenant visibly stiffens, but stands aside, saying coldly, "Then be gone on your way, and may your foul work bring you ruin and despair."
-
-If the players deny serving Strahd, the revenant is visibly relieved and invites them to approach so that it may "get a closer look at them." It introduces itself as a knight of the Order of the Silver Dragon, but claims to have long forgotten its name in life.
-
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the west, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths.
-
-If the players inquire about the Order of the Silver Dragon, the revenant shares only that the knights of the Order opposed the lord of Ravenloft in life and suggests that the players speak with Sir Godfrey to obtain further information. If the players obtained the silver pendant in the watchtower by the River Ivlis Crossroad, the revenant recognizes it, but refuses to comment further on its significance.
-
-If the players ask the revenant why it is guarding the bridge, it says only, "Because I raised my voice against my commander and was banished. Now, I stand like my brothers- and sisters-in-arms, watching the dark places of this land and awaiting an order that will never come."
-
-If the players ask why it cannot take up arms against Strahd itself, it says only, "Because my commander forbids it, and my spirit is bound from disobeying his will." It is willing to share that its commander's name is Sir Vladimir Horngaard, but is unwilling to share more, advising the players to speak with Sir Godfrey instead.
-
-> [!abstract]+ **Secrets of Amber**
-> If the players ask the revenant about the "amber doors" mentioned in Madam Eva's Tarokka reading, it stiffens, then warns the players that they "meddle with things that ought not be meddled with." If the players reassure the revenant that their interest in the "amber doors" is directed at Strahd's defeat, the revenant hesitates, then informs them it is "bound never to reveal the secrets of that which we once guarded," but shares that Sir Godfrey can provide the information they seek.
-
-> [!info]+ **The Oathbound Revenant**
-> Each revenant of the Order of the Silver Dragon has been bound by the effects of Vladimir Horngaard's **_oathbind_** feature, which binds them to obey Vladimir's express commands. The revenants of the Order, excepting Sir Godfrey Gwilym, have been given the following commands:
->
-> - Do not betray the secrets of the Order of the Silver Dragon.
-> - Raise no weapon against the vampire Strahd von Zarovich, his servants, or his creatures.
-> - Do not return to Argynvostholt.
->
-> A revenant that violates one of these commands suffers the effects of a _geas_ spell and is restrained until the start of its next turn by spiked black wires. (This effect can trigger any number of times each day. Because the revenants are bound by the oaths they swore to Vladimir in life, this effect can't be dispelled.)
-
-If the players ask for directions to Argynvostholt, the revenant advises them to travel "west, beyond the walled town, then south upon the ash-gray path."
-
-If the players mention Strahd's carriage, the revenant notes its disgust for "the beast von Zarovich" and advises the players to be cautious of him and his servants and spies. If the players mention the skeletal rider, the revenant shares that "the Wandering One seeks a road to freedom through the mists. It will never succeed."
-
-Before the players depart, the revenant warns them to beware "those who walk in the skins of wolves," who haunt the forests to the west. "Once, they did not trouble those who traveled the roads," it rasps. "Something has changed, however, and now, their hunger for human flesh cannot be sated." (The revenant doesn't know where to find the werewolves' den, or any further information about the pack.)
-
-The revenant will not leave its post on the bridge under any circumstances.
-
-# C8. Black Carriage
-
-<span class="citation"><em>This scene takes place in Chapter 2: Area I.</em></span>
-
-The journey from Tser Falls to the <span class="citation">Black Carriage (p. 37)</span> is one-and-a-half miles and takes thirty minutes. As the players make this journey, read:
-
-<div class="description"><p>You continue down the winding road, which climbs a short distance north before bending west to avoid a bald-headed peak on the right, its craggy cliffs bearing an array of sharp rocks that jut out over the roadway.</p>
-<p>It's not long before the road bends north once again, a second hill arising from the fog on your left. Twisted trees dot its steep slopes, their branches reaching out like gnarled fingers.</p>
-<p>As you travel deeper between the hills, the road narrows and the cliffs grow taller. Soon, though, the hills fall away once more, the road continuing forth into a small, fog-choked basin.</p></div>
-
-This area is as described in <span class="citation">Black Carriage (p. 37)</span>. (Strahd's carriage is not present, though the players can see deep grooves in the muddy road that pass from the Old Svalich Road onto the old cobblestone-strewn thoroughfare that leads to Castle Ravenloft.)
-
-The journey from the Black Carriage to the western **Gates of Barovia** is a quarter-mile and takes five minutes. This area is as described in <span class="citation">Gates of Barovia (p. 33)</span>, but seen from the opposite side.
-
-> [!abstract]+ **Visiting Castle Ravenloft**
-> If the players decide to visit Castle Ravenloft (e.g., to investigate Gertruda's disappearance), the journey from the crossroads is two-and-one-half miles long and takes fifty minutes. When the players arrive, the exterior of the castle is as described in [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
-
-# C9. Old Bonegrinder
-
-<span class="citation"><em>This scene takes place in Chapter 6: Area O.</em></span>
-
-The journey from the Gates of Barovia to **Old Bonegrinder** is two-and-a-half miles long and takes forty-five minutes. As the players make this journey, read:
-
-<div class="description"><p>The road continues forward, passing between a patch of dark woods. The air here is as quiet as the grave, the trees standing perfectly still in the unnerving silence.</p>
-<p>Not far from the road, nestled in the overgrown underbrush, stands a mossy stone stele standing just under six feet in height. It sits within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p></div>
-
-Briefly pause to allow the players to act or react. If the players choose to investigate the slab, they find that it bears a crude carving of a raven over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Seeker, and the three-pointed star the symbol of the Ladies Three.)
-
-If the players remain silent or continue ahead, read:
-
-<div class="description"><p>The road soon emerges from the woods once more, veering between two hills. Before long, it bends to the north, hugging the base of a mountain.</p></div>
-
-The players emerge at the base of the hill upon which **Old Bonegrinder** rests, as described in <span class="citation">Approaching the Windmill (p. 125)</span>. There are no ravens at or near the windmill.
-
-As the windmill comes into view, the players also notice **Morgantha** approaching from the opposite direction with her cart, as described in <span class="citation">Dream Pastries (p. 48)</span>.
-
-This scene largely unfolds as described in <span class="citation">Dream Pastries (p. 48)</span>, but Morgantha is coming from the town of Vallaki, not the village of Barovia, and she doesn't have a child stuffed into a sack in her peddler's cart.
-
-![[Morgantha_Disguised.png]]
-<span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-
-> [!profile]+ **Profile: Morgantha, Dream Peddler** > **Roleplaying Information** > **_Resonance._** At the time the players meet her, Morgantha should inspire flattery and comfort with her grandmotherly charm, gratitude for her willingness to share compliments and "free samples," endearment for her complaints about the mundane trials of an old woman's life, and slight wariness of her confidence and comfort traveling alone on a dangerous road.
->
-> **_Emotions._** Morgantha most often appears to feel cheerful, amused, or thoughtful.
->
-> **_Motivations._** Morgantha wants to keep her cover, keep her business operating peacefully, make strangers feel endeared to and comfortable with her, and encourage others to try her dream pastries if they appear inclined to do so.
->
-> **_Inspirations._** Granny Weatherwax (_Discworld_), Minerva McGonagall (_Harry Potter_), Dr. Kureha (_One Piece_)
->
-> **Character Information** > **_Persona._** To the world, Morgantha is a cheerful old lady with a love for gossip and complaining. Only Morgantha and her daughters know that she is secretly the black-hearted matron of a night hag coven.
->
-> **_Morale._** In a fight, Morgantha would attempt to parlay for peace, then use her **_etherealness_** ability to escape into the Ethereal Plane if doing so appears fruitless.
->
-> **_Relationships._** Morgantha is the mother of the **night hags** Bella and Offalia, and the dream-pastry dealer for the Barovian refugee [[Arc H - The Lost Soul#H3b. Franz’s Tent|Franz]].
-
-Morgantha greets the players warmly, calling them "weary travelers," and shares her hope that the road has not been too hard on them. She freely shares the following information if asked:
-
-- She is a peddler who sells baked wares to the "good people of Barovia."
-- She is just returning from a day peddling her goods to the townsfolk of Vallaki and the "poor, hungry dears" camped outside the gates. (Her latter comment is referring to a camp of Barovian refugees that has not been allowed to enter the town.)
-- She lives in the old windmill up the hill with her two daughters, Bella and Offalia. (She kindly declines to share what happened to her "husband," saying only, "Now, that's an old woman's business, meant to be shared only if she chooses.")
-
-Morgantha has a few "dream pastries" left from her workday—"filled with the light and love of dreaming"—which she offers to the players for free as a "first sample." She advises the players that the dream pastries taste best after a warm meal, "especially with a nice bit of wine to wash them down." (The dream pastries, if eaten, affect the players as described in **Dream Pastries**, p. 125.)
-
-If asked how she manages to travel the roads safely, Morgantha only smiles and promises the players that "an old woman has her tricks." ("But," she complains, "my back and poor feet do complain from time to time. I can't wait to soak them in a tub of nice, hot water once I'm home.")
-
-If the players ask to enter her home, Morgantha apologizes for her lack of hospitality, but notes that she's tired and not prepared for visitors, besides. (The players are welcome, she says, to visit another day if they'd like.)
-
-When the conversation runs out of steam, Morgantha bids the players a safe journey, and lets them know that they can find her outside of Vallaki's gates in the future, should they like to purchase additional pastries.
-
-Before she departs, Morgantha warns the players that the guards at the Vallaki gates are confiscating silver coins and visible silver items from travelers as a tax. "But," she says, tapping her nose with a cheeky, half-toothed grin, "you didn't hear it from me."
-
-> [!abstract]+ **Morgantha Detected**
-> If a player discerns Morgantha's fiendish nature, such as by using a paladin's **_divine sense_**, and confronts her about it, she pauses, then congratulates them on their perceptiveness. She then smiles sweetly and notes she is breaking no laws, asking: "Is it a crime to be as one was made?" If the player insisted on attacking her, she adds: "And does such a crime demand immediate execution?"
->
-> If the players insist that it does, she immediately kneels, pleading sarcastically for mercy and an opportunity to repent. "Allow me to return to my home and reflect upon my sins," she adds, grinning. If attacked, she vanishes using her **_etherealness_** feature, cackling.
->
-> If the players approach the windmill, she notifies Bella and Offalia, who join her in the Ethereal Plane. If the players attempt to damage or destroy the windmill, the hags then return to the Material Plane and warn them to stop on pain of death. See [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Morgantha Gets Suspicious]] for more information on conflict with the hags. (The windmill currently doesn't contain any children, and won't until [[Arc H - The Lost Soul]] begins.)
-
-# C10. The Deep Woods
-
-The journey from Old Bonegrinder to the **Town of Vallaki** is five-and-three-quarter miles long and takes two hours. As the players make this journey, read:
-
-<div class="description"><p>The winding valley road hugs the mountainside as it meanders north. The dark woods cling to the opposite side of the road, the tall, gnarled trees creeping as close as they dare. You can hear the sound of the wind rustling through the leaves and the occasional creak of branches. From time to time, it almost sounds like the trees are whispering among themselves, or stirring their ancient roots in the old, rotten mulch.</p>
-<p>As the road continues, the forest swallows it up on both sides. The trees towering far above your heads, blocking out all but the barest hints of gray light. The air grows thick and heavy with the scent of moss and rotting leaves; in the distance, you hear a raven's gurgling croak, followed by the sound of fluttering wings.</p>
-<p>Before long, it becomes clear that your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.</p></div>
-
-This encounter unfolds as described in <span class="citation">Swarms of Ravens (p. 32)</span>, with the party joined by two **swarms of ravens**. If she is with the party and able to fly, the disguised Muriel takes wing alongside the flock, but keeps a sharp eye on the players as they travel.
-
-As the players proceed down the road, read:
-
-<div class="description"><p>Ahead, the trees to the north break, revealing a grassy field. The tall grasses sway in the chill air, the field stretching until it reaches the shores of a dark, distant lake. Fog clings to the shoreline. Even from a distance, you can hear the faint sound of water lapping against the rocks.</p></div>
-
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is with the party, she freezes and asks the players if the party can take a quick detour across the field to the lake. If asked, she notes only that the lake seems strangely familiar.
-
-Lake Zarovich is as described in <span class="citation">L. Lake Zarovich (p. 38)</span>, but without the beached rowboats or Bluto's boat visible.
-
-Upon arriving at the shore of the lake, Ireena notes with trepidation that it appears to be the same lake that she has seen in her dreams. (If she hasn't already shared it, Ireena tells the story of her dream, described in [[#C4d. The Dancing Fire]] above.)
-
-Ireena is certain, however, that she has never visited this lake with Ismark and her father, Kolyan. She is uncertain of the implications, but becomes lost in thought if a player reminds her that her father found her wandering the Old Svalich Woods as a child.
-
-# C11. The Werewolves' Hunt
-
-As the players continue down the road, read:
-
-<div class="description"><p>As quickly as it appeared, the field is swallowed up by the forest again, the trees closing in around you once more. The dark undergrowth rustles and stirs in the wind, and the weight of the forest presses in from all sides. You're unable to shake the sense that, somehow, you're being watched.</p></div>
-
-If one of the players has a passive Wisdom (Perception) score of 14 or higher, or if one of the players makes a successful DC 14 Wisdom (Perception) check, add:
-
-<div class="description">
-<p>A humanoid shadow flickers in the distance—then vanishes from sight.</p>
-</div>
-
-The shadow belongs to a **werewolf**. Its companions—three **wolves** and an additional **werewolf**—lurk in the woods nearby.
-
-The werewolves don't attack immediately, preferring to wait for the perfect time to strike. If the players continue down the road, read:
-
-<div class="description"><p>The woodland road takes you through a small, forested clearing, the circular treeline littered with dense thickets, moss-covered boulders, and craggy ridges.</p>
-<p>Then, without warning, five wolves leap from the forest, yellow eyes glinting as their muzzles curl into snarls!</p></div>
-
-Have the players, **wolves**, **werewolves** (in wolf form), and (if they are with the party) Ireena, the two **swarms of ravens**, and Muriel (a **wereraven** in raven form) roll initiative. Any character with a passive Wisdom (Perception) score lower than 14 is surprised.
-
-Modify the wolves' statblocks as described in [[#C7a. The Ravine]]. In addition, use the statblock below for the werewolves, rather than the one in the _Monster Manual_:
+Если её спасти, Мюриэль остаётся с игроками, пока не сможет понять их намерения. Игрок может удалить серебряные шипы из её тела и крыльев успешной проверкой Мудрости (Медицина) Сл 15, при провале снижая её до 0 хитов и заставляя потерять сознание. Однако как только шипы удалены, регенерация Мюриэль немедленно возвращается, исцеляя её раны за считанные секунды.
 
 <div class="statblock">
-<h2>Werewolf</h2>
-<em>Medium Humanoid (Human, Shapechanger), Chaotic Evil</em>
+<h2>Мюриэль Виншоу</h2>
+<em>Среднее гуманоидное существо (человек, перевёртыш), хаотично-доброе</em>
 <hr>
-<strong>Armor Class</strong> 11 in humanoid form, 12 (natural armor) in wolf or hybrid form
+<strong>Класс Доспеха</strong> 14 (кожаный доспех)
 <br>
-<strong>Hit Points</strong> 84 (13d8 + 26)
+<strong>Хиты</strong> 63 (14к8)
 <br>
-<strong>Speed</strong> 30 ft. (40 ft. in wolf form)
+<strong>Скорость</strong> 30 фт., полёт 50 фт. в форме ворона и гибридной форме
 <hr>
 <table class="ability-table">
   <thead>
     <tr>
-      <th>STR</th>
-      <th>DEX</th>
-      <th>CON</th>
-      <th>INT</th>
-      <th>WIS</th>
-      <th>CHA</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="STR">16 (+3)</td>
-      <td data-label="DEX">13 (+1)</td>
-      <td data-label="CON">14 (+2)</td>
-      <td data-label="INT">10 (+0)</td>
-      <td data-label="WIS">11 (+0)</td>
-      <td data-label="CHA">10 (+0)</td>
-    </tr>
-  </tbody>
+<th>СИЛ</th>
+<th>ЛОВ</th>
+<th>ТЕЛ</th>
+<th>ИНТ</th>
+<th>МДР</th>
+<th>ХАР</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10 (+0)</td>
+<td>16 (+3)</td>
+<td>11 (+0)</td>
+<td>13 (+1)</td>
+<td>15 (+2)</td>
+<td>14 (+2)</td>
+</tr>
+</tbody>
 </table>
 <hr>
-<strong>Saving Throws</strong> Str +5<br>
-<strong>Skills</strong> Perception +4, Stealth +3<br>
-<strong>Senses</strong> darkvision 60 ft., passive Perception 14<br>
-<strong>Languages</strong> Common (can't speak in wolf form)<br>
-<strong>Challenge</strong> 3, or 2 without its regeneration<br>
-<strong>Proficiency Bonus.</strong> +2<br>
+<strong>Навыки</strong> Проницательность +4, Восприятие +6
+<br>
+<strong>Чувства</strong> пассивное Восприятие 16
+<br>
+<strong>Языки</strong> Общий (не может говорить в форме ворона)
+<br>
+<strong>Опасность</strong> 2 (450 опыта)
+<br>
+<strong>Бонус мастерства</strong> +2
+<br>
 <hr>
-<p><strong><em>Keen Hearing and Smell.</em></strong> The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
-<p><strong><em>Pack Tactics.</em></strong> The werewolf has advantage on an attack roll against a creature if at least one of the werewolf's allies is within 5 feet of the creature and the ally isn't incapacitated.</p>
-<p><strong><em>Regeneration.</em></strong> The werewolf regains 10 hit points at the start of its turn. If the werewolf takes necrotic damage or bludgeoning, piercing, or slashing damage from a silvered weapon, this trait doesn't function at the start of the werewolf's next turn. The werewolf dies only if it starts its turn with 0 hit points and doesn't regenerate.</p>
-<h3>Actions</h3>
-<p><strong><em>Multiattack.</em></strong> The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (wolf or hybrid form).</p>
-<p><strong><em>Bite (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. Instead of dealing damage, the werewolf can grapple the target (escape DC 11). Additionally, if the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with werewolf lycanthropy.</p>
-<p><strong><em>Claws (Wolf or Hybrid Form Only).</em></strong> Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 8 (2d4 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.</p>
-<p><strong><em>Spear (Humanoid Form Only).</em></strong> Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands to make a melee attack.</p>
-<h3>Bonus Actions</h3>
-<p><strong><em>Shapechange.</em></strong> The werewolf polymorphs into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying melds into the new form. It reverts to its true form if it dies.</p>
+<p><strong><em>Регенерация.</em></strong> Мюриэль восстанавливает 10 хитов в начале своего хода, если она не получала урон некротической энергией или дробящий, колющий или рубящий урон от посеребрённого оружия с момента своего последнего хода.</p>
+<p><strong><em>Подражание.</em></strong> Мюриэль может имитировать простые звуки, которые она слышала, такие как шёпот человека, плач младенца или щебетание животного. Существо, слышащее эти звуки, может определить, что это имитация, успешной проверкой Мудрости (Проницательность) Сл 10.</p>
+<p><strong><em>Пикирование.</em></strong> Если Мюриэль пролетает как минимум 20 футов по прямой к цели, опускаясь при этом минимум на пять футов к земле, а затем попадает по этой цели атакой коротким мечом в тот же ход, цель получает дополнительно 7 (2к6) колющего урона. Если цель — существо, она должна преуспеть в спасброске Силы Сл 12, иначе будет сбита с ног.</p>
+<h3>Действия</h3>
+<p><strong><em>Мультиатака.</em></strong> Мюриэль совершает две атаки оружием, одна из которых может быть ручным арбалетом.</p>
+<p><strong><em>Короткий меч.</em></strong> (Только в гуманоидной или гибридной форме) <em>Рукопашная атака оружием</em>: +5 к попаданию, досягаемость 5 фт., одна цель. <em>Попадание:</em> 6 (1к6 + 3) колющего урона.</p>
+<p><strong><em>Ручной арбалет.</em></strong> (Только в гуманоидной или гибридной форме) <em>Дальнобойная атака оружием</em>: +5 к попаданию, дальность 30/120 фт., одна цель. <em>Попадание:</em> 5 (1к6 + 3) колющего урона.</p>
+<p><strong><em>Клюв.</em></strong> (Только в форме ворона или гибридной форме) <em>Рукопашная атака оружием</em>: +5 к попаданию, досягаемость 5 фт., одна цель. <em>Попадание:</em> 1 колющего урона в форме ворона или 5 (1к4 + 3) колющего урона в гибридной форме. Если цель — гуманоид, она должна преуспеть в спасброске Телосложения Сл 10, иначе будет проклята ликантропией вороворона.</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Смена формы.</em></strong> Мюриэль полиморфируется в гибрид ворона и гуманоида, или в ворона, или возвращается в человеческую форму. Её характеристики, кроме размера, одинаковы во всех формах. Любое снаряжение, которое она носит или несёт, не трансформируется. Она возвращается в человеческую форму, если умирает.</p>
+<h3>Реакции</h3>
+<p><strong><em>Заслонить.</em></strong> Когда существо, которое Мюриэль видит, попадает по другой цели в пределах 5 футов от неё атакой, она может реакцией принять урон на себя.</p>
 </div>
 
-In combat, the **wolves** work together, using their **_Claws_** to knock characters prone, then using their **_Maul_** to grapple prone targets. Once the wolves have dragged a grappled character away from the party, the **werewolves** shift their attention to target them with its **_bite_**. The first character targeted in this way notices that the werewolves are slightly larger than the other three and have intelligent, disturbingly human eyes.
+Если она узнаёт, что игроки планируют отправиться в Валлаки, Мюриэль путешествует с ними, сохраняя маскировку ворона, надеясь положиться на безопасность в числах, пока не сможет доложить о своих находках Урвину Мартикову в Трактире «Синяя Вода». Ни при каких обстоятельствах Мюриэль добровольно не раскрывает свою истинную природу игрокам в это время.
 
-A werewolf flees if it begins its turn with 20 hit points or fewer and doesn’t regenerate, or if it begins its turn with 0 hit points on three turns in a row. Any surviving wolves follow soon after.
-
-If the werewolves die, they reverts to their true forms: a young man with pale, freckled skin and a lean, muscled frame, and a brawny young man with a cruel face and dark, oily hair. Each bears a bloody, raw, and blighted wound on his side—the source of the their lycanthropic affliction.
-
-Any players who failed their saving throw against the curse of lycanthropy soon find that, although they regain hit points normally, the original wound remains cosmetically bloody and raw—just as described in Van Richten's manuscript on the werewolf's curse. The next full moon takes place on the night of the sixth day after the players’ arrival in Vallaki.
-
-> [!combat]- **Combat - The Werewolf Hunt**  
-> **Combat Level**: Oppressive
-> **Expected Character Level**: 3
-> **Allies:** Two swarms of ravens (CR 1/4), Ireena Kolyana (CR 1)
-> **Expected HP Consumption:** 84%
+> [!info]+ **Мюриэль инкогнито**
+> Путешествуя с игроками, Мюриэль старается держаться незаметно, одновременно располагая к себе группу. Пока она в форме ворона, игроки могут общаться с ней только с помощью заклинания _разговор с животными_, хотя она отрицает всякое знание о Страде или происхождении стрикса и притворяется обычным, простодушным вороном, озабоченным только едой и избеганием хищников. Если спросить её имя, она с энтузиазмом представляется как «Синька» и становится всё более упрямой при расспросах.
 >
-> ### **Enemies:**
+> Сопровождая группу, Мюриэль может использовать свою способность **_подражание_** для воспроизведения любого из следующих звуков, чтобы подсказать игрокам или отреагировать на них:
 >
-> |          | 3 Players | 4 Players | 5 Players | 6 Players |
-> | -------- | --------- | --------- | --------- | --------- |
-> | Werewolf | 2         | 2         | 2         | 2         |
-> | Wolf     | 1         | 2         | 3         | 4         |
+> - **Свист.** Чтобы сигнализировать о секретности или осторожности.
+> - **Храп.** Чтобы сигнализировать о скуке.
+> - **Смех.** Чтобы сигнализировать о веселье.
+> - **Звон.** Чтобы указать на чьё-то прибытие.
+> - **Щелчок (как поворот ключа).** Чтобы похвалить решение проблемы.
+> - **Фанфары.** Чтобы отпраздновать победу или достижение.
 
-> [!info]+ **Lycanthropy in Barovia**
+# C4. Озеро Тсер
+
+<span class="citation"><em>Эта сцена происходит в Главе 2: Область G.</em></span>
+
+Путешествие от Перекрёстка реки Ивлис до Лагеря на Озере Тсер составляет полторы мили и занимает тридцать минут.
+
+> [!warning]+ **Предупреждение о новом контенте**
+> В обновлении v2.0.8 от **18 июля 2024 года** приглашение Мадам Евы из [[Act I - Into the Mists/Arc B - Welcome to Barovia]] было удалено. Вместо этого Исмарк Колянович теперь просит игроков отправиться к Озеру Тсер и обратиться к Мадам Еве за советом о том, как победить Страда. Мастера подземелий, использовавшие старую версию Арки B, должны вместо этого использовать [[Deprecated Material/Arc C - Into the Valley#C4. Tser Pool|устаревшую версию этой сцены]]. (Все остальные сцены в этой арке, начиная с [[#C5. The Skeletal Rider]], остаются без изменений.)
+
+## C4a. Прибытие на Озеро Тсер
+
+Эта область в основном описана в <span class="citation">G. Лагерь на Озере Тсер (стр. 36)</span>. Однако никто из Вистани в лагере не опьянён, и только одна — женщина-Вистани по имени Элиза — служит шпионом Страда.
+
+Когда игроки входят в лагерь, их встречает Станимир, старый Вистани, который сообщает им, что предводительница их лагеря, Мадам Ева, ожидала их, и указывает на шатёр Евы. Станимир, жизнерадостный, колоритный старик с искоркой в глазах, в основном описан в <span class="citation">Таинственные посетители (стр. 19)</span>. Однако он подготовил заклинание _образ_ вместо _вампирического прикосновения_.
+
+Станимир с удовольствием ответит на любые вопросы игроков о Вистани или о Баровии, как описано в <span class="citation">Знания Вистани (стр. 27)</span>. Единственные исключения — информация о бездушных баровийцах, которых не существует, и о Старой Мельнице, о которой Станимир не упоминает. Кроме того, Станимир и другие Вистани не знают, что ковен **ночных карг** недавно поселился в старой мельнице, которую они знают только как Старую Мельницу Дёрстов. Вистани также не упоминают проклятия Вистани, которые являются лишь суевериями, и описывают интерес Страда к Татьяне как «истинное желание», а не «истинную любовь».
+
+Однако Станимир не станет обсуждать дела Страда на Озере Тсер. Вместо этого он делится своим убеждением, что Страд не скоро вернётся, и заверяет игроков, что ничто из обсуждаемого на их встрече с Мадам Евой не достигнет ушей вампира.
+
+Если игроки спрашивают, получил ли Страд предсказание от Мадам Евы, Станимир говорит им, что Мадам Ева свободно делится своим даром со всеми — но что будущее каждого человека различно и часто трудно различимо.
+
+## C4b. Шатёр Мадам Евы
+
+Эта сцена в основном разворачивается, как описано в <span class="citation">Шатёр Мадам Евы (стр. 37)</span>. Поприветствовав игроков, [[Non-Player Characters#Madam Eva|Мадам Ева]] называет каждого персонажа игрока по имени, давая им один или несколько символических эпитетов, связанных с их историями, целями и/или способностями.
+
+> [!profile]+ **Профиль: Мадам Ева**
 >
-> In Barovia, the curse of lycanthropy spreads as described in **Player Characters as Lycanthropes** (<span class="citation">Monster Manual, p. 207</span>). However, an infected player or other creature does not automatically receive any changes to their ability scores or Armor Class, nor do they automatically receive the benefits of the lycanthrope's stat block (e.g., immunities or regeneration).
+> **Информация для отыгрыша** > **_Резонанс._** Мадам Ева должна вызывать дискомфорт своим глубоким знанием прошлого игроков, благодарность за её преданность пути игроков и уверенность в её уверенных предсказаниях.
 >
-> Instead, an infected creature only receives the benefits of lycanthropy upon transforming into their hybrid form on the night of the full moon. During this time, the creature becomes an NPC under the DM's control until dawn, at which point the creature loses the benefits of lycanthropy.
+> **_Эмоции._** Наиболее частые эмоции Мадам Евы — веселье, торжественность, беспокойство и созерцательность.
 >
-> An infected creature can embrace the curse of lycanthropy—and so gain its full benefits—by completing a certain task, depending on the nature of their curse:
+> **_Мотивации._** Мадам Ева хочет видеть землю Баровии исцелённой и освобождённой от порчи Страда.
 >
-> - An infected **werewolf** must voluntarily kill an innocent humanoid, without fear or hatred, and devour their flesh.
-> - An infected **wereraven** must be knocked unconscious while voluntarily attempting to protect another humanoid from (what they believe to be) near-certain death.
+> **_Вдохновение._** При отыгрыше Мадам Евы черпайте вдохновение из Древней (Доктор Стрэндж) и Мойр (Геркулес).
 >
-> An infected lycanthrope can be recognized by the scar of the wound that originally transmitted the curse. The wound will never entirely heal, and remains raw and bloody until the curse is lifted.
+> **Информация о персонаже**
 >
-> The child of two lycanthropes possesses the full benefits of lycanthropy from birth, and may learn to control their curse as they age. A child born with lycanthropy in this way cannot be cured except by means of a _wish_ spell.
+> **_Личина._** Для мира Мадам Ева выглядит мудрой, но безумной старухой, говорящей пророчествами и загадками. Для тех, кому она доверяет, она предстаёт доброй, но раздражающе непроницаемой и упрямой старой женщиной.
 >
-> Finally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four. **The first full moon that the players experience takes place on Neyavr 8th—the sixth night after they first arrive in Vallaki.**
-
-> [!abstract]+ **Curing Player Lycanthropy**
-> The players can learn from the Martikovs of the Blue Water Inn, Dr. Rudolph van Richten, or Kasimir Velikov of the Vallakian Vistani encampment that the next full moon will take place on their sixth night after first entering Vallaki. As the night of the full moon approaches, players infected with lycanthropy experience nightmares of increasing severity, as well as an increasing appetite for raw meat.
+> **_Боевой дух._** В бою Мадам Ева спокойно настаивала бы, чтобы её противник прекратил атаки, затем — если её помощники-Вистани окажутся неспособны остановить нападающего — ослабила бы его заклинанием _причинение вреда_, прежде чем потребовать сдачи.
 >
-> Players infected with **werewolf** lycanthropy will be able to search for a cure in [[Arc I - The Walls of Krezk]] after meeting Dr. Rudolph van Richten in [[Arc E - The Missing Vistana]]. Players of an appropriate class can also cure themselves and others of lycanthropy by casting _remove curse_ upon reaching 5th level. (Father Lucian of St. Andral's Church in Vallaki cannot cast the spell and therefore cannot cure lycanthropy.)
+> **_Связи._** Только Мадам Ева знает, что она — аватар Искательницы.
 
-> [!warning]+ **Embracing Werewolf Lycanthropy**
-> As noted in [[Session Zero]], this campaign is designed for heroic player characters, rather than villainous ones. As such, it is incompatible with characters who choose to embrace **werewolf** lycanthropy by killing and devouring an innocent humanoid. If a player expresses any interest in doing so, warn them that embracing the curse will result in their current character being turned into a villainous NPC, requiring them to create a new character instead.
+Она благодарит игроков за то, что совершили путешествие к Озеру Тсер. Если спросить о визите Страда, она говорит лишь, что будущее каждого человека — это его собственное дело, и что, хотя её долг обязывает её искать шёпот Судьбы для всех, кто призывает её имя, она связана обещанием не раскрывать увиденное никому другому.
 
-# C12. The Town of Vallaki
+Если Мюриэль с игроками в форме ворона, Мадам Ева смотрит на неё с чувством, почти напоминающим нежность, и просит осмотреть её. Она поглаживает крылья Мюриэль и отмечает, что когда-то давно у неё был любимый ворон по имени Турул.
 
-## C12a. The Vallakian Gates
+«Однако я видела его лишь однажды за последние десять лет», — добавляет Ева с некоторой печалью. «Несомненно, он одичал без меня». (Мадам Ева имеет в виду **Рух Горы Гакис**, который служил ей, когда она носила мантию Искательницы из Триединых Богинь.)
 
-The road continues forward to the **Town of Vallaki**, largely as described in <span class="citation">Approaching the Town (p. 95)</span>. However, remove the first sentence of the descriptive text and add the following text at the end of the first paragraph:
+Если игроки спрашивают Еву о [[Act I - Into the Mists/Arc B - Welcome to Barovia#B3. Svalich Woods|трупе Далвана Оленски]], она делится лишь тем, что это был баровиец по имени Далван Оленски, пришедший к её шатру после осады Страдом деревни Баровия, и что он настоял на том, чтобы услышать — а затем бросить вызов — своей судьбе, выбор с трагическими последствиями. (Как и в случае со Страдом, Ева не может раскрыть суть или содержание предсказания Далвана.)
 
-<div class="description"><p>More than a dozen ramshackle tents have been set up against the palisade wall. Among them, dozens of ragged, emaciated people mill about or sit by low-burning campfires and bedrolls, their hollow gazes watching silently as you approach.</p></div>
+Если игроки просят Мадам Еву погадать им, или просят её совета о том, как победить Страда, её лицо мрачнеет, и она говорит: «Вы стоите на краю утёса, дна которого ещё не видите. Понимаете ли вы, о чём просите меня?»
 
-If the players departed from Tser Pool that morning, they arrive in Vallaki at dusk.
+Независимо от ответа игроков, Мадам Ева отвечает, качая головой: «Я не сделаю этого для вас — пока нет. Однако если вы желаете идти по этому пути, приходите к Перекрёстку реки Ивлис в полночь сегодня. Я буду ждать вас там, у виселицы. Приходите одни — и не позволяйте себя преследовать». Мадам Ева отказывается уточнять и выпроваживает игроков из шатра, если они пытаются протестовать.
 
-If [[Non-Player Characters#Ireena Kolyana|Ireena]] is visibly traveling with the party, add:
+Когда игроки готовятся уходить, Мадам Ева замирает и закрывает глаза, хотя вскоре они снова широко открываются. Зачитайте:
 
-<div class="description"><p>Some of them regard Ireena with dull recognition, but none lift a hand in greeting or make any gesture of warmth.</p></div>
+<div class="description"><p>Голос Мадам Евы — низкое шипение, когда она говорит, её силуэт пляшет в мерцающем свете свечей. «Тень приближается к моему шатру: одинокий слуга Тьмы. Они ищут знание о вашем будущем — тайны, которые я поклялась никогда не раскрывать никому, кроме их хранителей. </p>
+<p>«Не смотрите, дитя, и не спешите их приветствовать; если они узнают о ваших истинных устремлениях, всё может быть потеряно. Не раскрывайте даже то, что вы знаете об их истинной природе, ибо их хозяин узнает, что я вам рассказала, и его гнев обрушится на нас всех. </p></div>
 
-This area, the Morning Gate, is largely as described in <span class="citation">Town Gates (p. 95)</span>. The tents are a camp of Barovian refugees, housing those who survived the trek from the village of Barovia in the wake of Strahd's siege.
+## C4c. Гостеприимство Вистани
 
-### The Refugee Camp
+Выйдя из шатра Мадам Евы, игроки обнаруживают двух других Вистани, ожидающих снаружи: женщину по имени Элиза и мужчину по имени Артури Радаванич. Станимир присоединяется к группе через несколько мгновений.
 
-If she is with the party, [[Non-Player Characters#Ireena Kolyana|Ireena]] is heartbroken and enraged at the sight of the refugee camp. She suggests that she meet with the refugees while the players find lodging in town, and promises to join the players later. The players can dissuade her with a successful DC 10 Charisma (Persuasion) check. Otherwise, Ireena approaches one of the cookfires, either alone or—if the players have insisted on joining her—with company.
+Если игроки не вмешаются, разговор развивается следующим образом:
 
-The members of the refugee camp, which include Emeric, a melancholy older man, and Magda, a grief-stricken young woman, can share the following information:
+- Элиза немедленно приветствует игроков, оказывая им тёплый приём в Лагере на Озере Тсер.
+- Когда подходит Станимир, Элиза цокает языком и отчитывает его за недостаток гостеприимства, отмечая, что игроки, похоже, проделали долгий путь.
+- Станимир с усмешкой напоминает Элизе, что судьба никого не ждёт, но тем не менее приглашает игроков отдохнуть у центрального костра лагеря, предлагая вино, еду и песни, если игроки присоединятся.
+- Если игроки соглашаются и направляются за Станимиром, Артури колеблется, затем спрашивает, не будут ли игроки против, если он присоединится к ним. Он отмечает, что слышал о том, что они только что прибыли из Баровии, и ему любопытно узнать новости из деревни. (Он добавляет, несколько неловко, что прошло много времени с тех пор, как он последний раз сидел у костра Вистани, и извиняется за то, что навязывается им и остальным.)
 
-- The Barovian refugees arrived at Vallaki's gates a few weeks ago, but were barred from entering. When they attempted to breach the gates by force, the guards summoned a man they called Izek, who bore a twisted devil's arm and conjured fire to drive the refugees back.
-- Since then, the refugees have set up camp outside the town's walls, clustering together for protection and warmth. They've managed to secure some minor necessities, such as the tents, by bribing the guards at the gates, but have been unable to persuade the guards to allow them entry or to even invite the town's Baron to discuss their plight.
-- Swarms of bats and packs of wolves have plagued the camp each night since they've arrived. Thankfully, no one has died yet, but several refugees have been wounded.
-- Due to losses they suffered on the road and the threat of the Devil in Castle Ravenloft, the refugees are unwilling to risk the journey back home, instead hoping to wait until the Baron sees reason and allows them to enter the walls.
-- Roughly one-quarter of the refugees have become addicted to "dream pastries," a foodstuff sold by the peddler Morgantha. These refugees seek an escape from the misery and despair of their situation. Those who eat a dream pastry fall into a trance as described in <span class="citation">Dream Pastries (p. 125)</span>.
+> [!profile]+ **Артури и Элиза**
+>
+> **Артури Радаванич**, проклятый Вистани, прибыл в лагерь на Озере Тсер через две недели после пробуждения Страда. (См. **Проклятие Артури Радаванича** ниже для получения дополнительной информации о присутствии Артури в Баровии и его связи с доктором Рудольфом ван Рихтеном.) Артури — тихий, мягко говорящий мужчина под сорок с отстранённым, почти рассеянным взглядом и почти болезненной искренностью.
+>
+> Тем временем **Элиза**, одна из шпионов Страда, слышала, что чужаки вошли в долину из-за Туманов, и надеется выведать информацию об их целях, способностях и слабостях. (Элиза надеялась также подслушать гадание на картах Тарокка, но была сорвана предвидением Мадам Евы.)
+>
+> В резком контрасте с Артури, Элиза — жизнерадостная, легко возбудимая женщина чуть за тридцать, всегда готовая вставить в разговор дерзкий или остроумный комментарий.
 
-The refugees are lost in despair. Some recall a superstition that red-haired Barovian women bring misfortune, and suggest that Ireena herself has brought a curse upon their people. Few have any wish to deal with her further.
+> [!lore]+ **Проклятие Артури Радаванича**
+>
+> **_Тёмное начало._** Двадцать лет назад, когда Артури Радаваничу было всего семнадцать, несколько членов его расширенной семьи из каравана Радаваничей пригласили его на «охотничью вылазку». Неуклюжий, одинокий и отчаянно жаждущий связи, Артури с благодарностью принял их приглашение.
+>
+> Однако прошло немного времени, прежде чем Артури узнал истинную природу их охоты. Его тётя, мадам Ирен Радаванич, предводительница каравана, недавно видела, как её сын Раду был тяжело ранен. Когда лечение Вистани оказалось бесплодным, мадам Радаванич отвезла Раду к целителю в ближайшую деревню — доктору по имени Рудольф ван Рихтен. Однако Раду умер под опекой ван Рихтена, и мстительная, скорбящая мадам Радаванич решила обрушить эту боль на ван Рихтена в ответ.
+>
+> Артури чувствовал себя растерянным и напуганным — но каждый раз, когда он думал открыть рот, он представлял насмешки и издёвки своих кузенов или тлеющий взгляд тёти Ирен. И так Артури молча наблюдал, как его семья похитила четырнадцатилетнего сына ван Рихтена, Эразмуса, увезла его в тёмную трясину и продала лорду-вампиру барону Метусу. Затем Радаваничи бежали через Туманы — в Баровию.
+>
+> Прошло немного времени после продажи Эразмуса, прежде чем ван Рихтен выследил караван Вистани, устроив засаду на д'Авениров — мужа и жену Вистани, которые тогда путешествовали с Радаваничами и помогали мадам Радаванич в её мести — и потребовал узнать, куда увезли его сына. Позже Артури узнал, что ван Рихтен пощадил жизни д'Авениров — милосердие, которое не будет длиться вечно.
+>
+> Три года спустя ван Рихтен вернулся, мрачный и окружённый роем голодной нежити. Его сын Эразмус умер — превращённый в вампирское отродье и убитый собственной рукой ван Рихтена. Разрываемый яростью и горем, ван Рихтен выпустил орду нежити на караван Радаваничей, воя: «Нежить заберёт вас, как вы забрали моего сына!»
+>
+> Только Артури выжил, спрятавшись в магическом сундуке бабушки. Когда он наконец вышел, часы спустя, он обнаружил лагерь разрушенным, семью убитой — а ван Рихтена нигде не было.
+>
+> **_Проклятие Артури._** Однако вскоре Артури узнал, что мстительные слова ван Рихтена обрели собственную жизнь, прилипнув к нему, как погребальный саван. «Нежить заберёт вас», — пообещал ван Рихтен — и так и случилось, преследуя Артури, куда бы он ни шёл. Вистани изгнали его из своих лагерей после наступления темноты, назвав его _mortu_, или «изгнанник», слово, которое также можно более буквально перевести как «живой мертвец». Ни одна деревня не дала Артури убежища; ни одни городские стены его не защитили.
+>
+> Восемнадцать лет Артури уклонялся от своих вечных преследователей, отчаянно ища способ избавиться от оков проклятия. Наконец, вскоре после пробуждения Страда, он вернулся в Баровию, где искал совета провидицы Вистани Мадам Евы. «Найди того, кто выковал твои оковы», — сказала она ему. «Его последний вздох освободит тебя».
+>
+> С тех пор Артури несколько раз обошёл всю Баровию в поисках ван Рихтена. Однажды он даже нашёл тайник с припасами, содержащий недописанную рукопись и небольшой набор оружия. Однако он так и не смог найти самого доктора.
+>
+> Артури часто возвращался в лагерь Мадам Евы, чтобы насладиться её гостеприимством — но остаётся не дольше сумерек каждый раз. Ибо ходячие мертвецы никогда не отдыхают, и Артури не смеет привести их к Озеру Тсер...
+>
+> **Источник:** Wise, David. _Van Richten's Guide to the Vistani._ Wizards of the Coast, 1995.
 
-Following her interaction with the refugees, Ireena is enraged by the Baron's callousness, and vows to make her best efforts to secure entry for the refugees into Vallaki.
+Если игроки направляются к костру Вистани, Элиза — и Артури, если он присутствует — представляются. Элиза также спрашивает имена игроков в ответ. (Если спросят, почему он не сидел у костра Вистани до недавнего времени, Артури морщится и признаёт лишь, что ситуация сложная.)
 
-### The Guards at the Gates
+## C4d. Танцующий огонь
 
-The guards at the gates largely act as described in <span class="citation">Town Gates (p. 95)</span>. One has a silvered spear, while the other has a quiver containing a dozen crossbow bolts, half of which are silvered.
+С наступлением сумерек у костра Вистани подают игрокам ужин из сытного рагу из кролика, картофеля, репы, чечевицы и пастернака вместе с большими ломтями лепёшки. Пока они едят, Элиза спрашивает игроков о следующем пункте назначения. Если игроки отмечают, что направляются в Валлаки, или иным образом выражают интерес остаться на ночь, Станимир приглашает их переночевать в лагере, отмечая, что дороги могут быть долгими и опасными за пределами фургонов Мадам Евы.
 
-The guards demand that each person first identify themselves. Once identified, each player must show their teeth ("To prove you're not vampires.") and briefly be exposed to a necklace strung with bulbs of garlic ("To prove you're not werewolves"). (The Baron has, incorrectly, informed his guards that werewolves are severely allergic to garlic.)
+Если ещё не сделал этого, Артури спрашивает игроков о новостях из Баровии, конкретно интересуясь, не встретили ли они человека по имени Рудольф ван Рихтен. Если спросят о его интересе, Артури тихо отмечает, что ван Рихтен — его знакомый, и что он недавно слышал слух о том, что его видели направляющимся в Баровию. (Это ложь. Игрок, преуспевший в проверке Мудрости (Проницательность) Сл 10, замечает, что Артури говорит немного слишком быстро. Артури не раскрывает правду, если его поймают, и вместо этого лишь пожимает плечами и говорит: «Верьте, во что хотите».) Артури не уверен, жив ли ван Рихтен, но подозревает, что тот всё ещё жив — хотя бы потому, что слышал, что старика впечатляюще трудно убить.
 
-The guards then demand each player pay 1 gold piece as a toll in order to enter the village. The guards refuse to accept payment on behalf of the refugees, whom the Baron has specifically barred from entering, claiming concerns of "sickness, unruliness, and malicious unhappiness."
+> [!info]+ **Проверки Проницательности**
+> Не приглашайте игроков делать проверки Проницательности без подсказки. Вместо этого позвольте игрокам спросить информацию о языке тела или правдивости NPC, прежде чем приглашать их сделать проверку.
 
-If the players pay the toll, the guards also insist that each entrant opens their purse (or equivalent) and surrender any silver pieces in their possession. (If the players complain, the guards assure them that the silver is needed to produce the silvered weapons necessary to defend the town from werewolves.) In exchange for any silver coins that they give up, the players receive an amount of copper coins of equal value—minus a ten percent tax.
+После ужина Станимир жизнерадостно сообщает игрокам, что, как гости у костра Вистани, они теперь должны сыграть в Игру Историй, и спрашивает, примут ли игроки вызов. Чтобы играть, каждый участник должен поставить ставку, которая может быть предметом небольшой денежной, интеллектуальной или сентиментальной ценности. Затем каждый участник должен рассказать историю, способную заставить человека «смеяться или плакать». Каждый раз, когда рассказывается история, другие участники игры должны угадать, является ли история правдой, ложью или и тем, и другим. В конце игры участник с наибольшим количеством правильных догадок выигрывает банк.
 
-If asked about lodging, the guards can share information about the Blue Water Inn, as described in <span class="citation">Vallaki Lore (p. 96)</span>. The guards are also willing to provide additional directions to other landmarks in the town in exchange for a bribe of 1 gold piece.
+Если игроки принимают вызов, Элиза, Артури и [[Non-Player Characters#Ireena Kolyana|Ирина]] также предлагают присоединиться к игре. Ставки участников следующие:
 
-Each time the players pass through the gates, including the first, the guards nod at them and intone the Baron's favored phrase: "All will be well."
+- **Станимир** ставит потёртую колоду карт Тарокка, которая когда-то принадлежала его покойной жене. («Они слишком долго лежали неиспользованными и пыльными в моём фургоне», — говорит он с грустной улыбкой. «Думаю, ей бы понравилось, если бы они снова были в мире».)
+- **Элиза** ставит складную латунную подзорную трубу с маленьким подвижным зеркалом, позволяющим заглядывать за углы.
+- **Артури** ставит короткую рукопись об оборотнях, написанную доктором Рудольфом ван Рихтеном.
+- **Ирина** ставит расписную деревянную заколку для волос в форме подсолнуха, которую она носила в детстве.
 
-> [!abstract]+ **Gertruda's Fate**
-> If the players inquire about Gertruda's fate and provide a description, the guards truthfully share that they haven't seen anyone resembling her.
+Дайте игрокам несколько минут вдали от стола, чтобы спланировать свои истории, прежде чем игра начнётся.
 
-### Entering the Town
+> [!info]+ **_Реакции у костра_**
+> В ответ на истории игроков участники Игры Историй голосуют следующим образом:
+>
+> - Станимир, веря, что зерно истины лежит в основе каждой сказки, голосует только «Правда».
+> - Элиза, не терпящая полуправды, чередует «Правда» и «Ложь».
+> - Артури, циничный и недоверчивый, чередует «Полуправда» и «Ложь».
+> - Ирина, быстро проникаясь симпатией к игроку, чередует «Правда» и «Полуправда».
 
-As the players pass down Vallaki's main avenue, read:
+> [!lore]+ **Рукопись Артури**
+>
+> Рукопись Артури — написанная доктором Рудольфом ван Рихтеном — рукописная и занимает две страницы. Она озаглавлена «Исследование проклятия оборотня» и гласит следующее:
+>
+> <hr>
+>
+> Оборотни — одни из самых грозных ликантропов, несущие проклятие столь же древнее, сколь и ужасающее. Для них проклятие ликантропии превращает даже самого цивилизованного человека в чудовищного зверя, размывая грань между человеком и природой.
+>
+> В гуманоидной форме оборотень сохраняет многие черты своей изначальной личности, за исключением определённых нюансов, таких как обострённые чувства, взрывной темперамент и странное предпочтение сырого мяса. Со временем начинают проявляться тонкие черты, намекающие на их звериную природу. Тем не менее именно в волчьей и гибридной формах раскрывается истинный ужас проклятия. Гибридная форма оборотня особенно ужасающа — мускулистое гуманоидное тело, увенчанное головой голодного волка. Он способен владеть оружием, хотя его излюбленные средства нападения — разрушительные когти и мощный укус.
+>
+> Оборотни обычно покидают цивилизацию вскоре после своего превращения. Те, кто отвергает проклятие, бегут из страха причинить вред близким, тогда как принявшие его боятся разоблачения и последствий своих жестоких деяний. В дикой природе они формируют стаи, живя в согласии с обычными волками и лютоволками.
+>
+> Наиболее трагический аспект ликантропии — её передача. Гуманоид может заразиться этим проклятием через рану, нанесённую ликантропом, или унаследовать его, если один или оба родителя являются ликантропами.
+>
+> Проклятые имеют два пути: они могут сопротивляться зверю внутри или принять его. Те, кто сопротивляется, несут бесконечное напряжение — пока восходящая полная луна не вызывает принудительную и ужасающую трансформацию. Эти люди часто видят кровавые, преследующие сны: эхо бойни, устроенной в их безумии.
+>
+> Однако некоторые извращённые души выбирают принять свою звериную природу. Со временем они могут овладеть своими способностями, призывая стойкость и силу волка по своей воле. Однако для этого они должны сначала совершить особенно жуткий и мерзкий поступок — который я откажусь описывать на этих страницах.
+>
+> Один верный способ опознать заражённого — наличие постоянно сырой, кровоточащей раны: шрама от первоначальной передачи проклятия. Эта рана никогда полностью не заживает, пока проклятие не будет снято.
+>
+> Помимо этой отметины, однако, эти существа обладают необычайной стойкостью. Обычные методы причинения вреда неэффективны для окончательного усмирения оборотня. Только через укус серебра или холод силы смерти можно по-настоящему упокоить оборотня.
+>
+> Заклинание снятия также может исцелить заражённого ликантропа, хотя те, кто принял зверя, могут яростно сопротивляться. Что касается тех несчастных душ, рождённых под проклятием, они обречены нести своё проклятие всю жизнь. Насколько показали мои исследования, не существует лекарства, нет передышки для таких людей. Они пойманы в вечной борьбе, навсегда преследуемые волком внутри.
 
-<div class="description"><p>You pass from the earthen road onto cobblestone streets, mud staining your boots and the bottoms of your pants. Behind you, the gates close with a slam, and you can see the guards resume their posts behind it. In the distance, you can see two other figures bearing pikes, patrolling the walls as they look down on the twisted forest beyond.</p>
-<p>The eaves of the buildings hang with old banners and tattered fabrics that flap and twist in the chill breeze. The banners are painted with faded words and illustrations, but time has robbed them of both their legibility and any beauty they may have once had.</p>
-<p>Flickering candlelight lingers behind the shuttered townhouse windows, and humanoid shadows move beyond closed curtains. Long shadows lurk in the alleyways, where the grass grows long and twisted beneath the stained and sagging wood of the buildings above. </p>
-<p>The streets are empty, though you can see a single cloaked figure traveling away from you down the central road.  In the distance beyond the walls, a lone wolf howls, and a cold gust of wind cuts through the night like a knife.</p></div>
+### Рассказ Станимира
 
-The cloaked figure is Willemina Rikalova, as described in <span class="citation">St. Andral's Church (p. 97)</span>. She is traveling to the church to pray for the freedom of her son, Udo Lukovich.
+Станимир идёт первым, рассказывая ту же историю, что описана в <span class="citation">Танцующий огонь (стр. 20)</span>. Однако исключите последний абзац и вместо этого закончите предложением: «Фигура в танцующем огне сражает своего последнего врага, затем рассеивается в облаке дыма и искр». На протяжении всего рассказа игроки могут заметить, что Станимир использует заклинание _образ_ для создания фигур в пламени.
 
-As the characters pass through the streets, they are noticed by Ernst Larnak, who intently watches them—though doesn't follow them—as described in <span class="citation">Lady Wachter's Wish (p. 124)</span>. (Ernst does not yet deliver an invitation to dine with Lady Wachter, though he does return to <span class="citation">N4. Wachterhaus (p. 110)</span> to report back to Lady Wachter when the players leave his sight.)
+Когда его история закончена и все участники сделали свои догадки — Элиза и Артури идут последними, причём Элиза голосует «Правда», а Артури голосует «Полуправда» — Станимир открывает, что его история действительно была правдивой сказкой народа Вистани, и что раненый принц продолжал жить как друг Вистани, даже когда его сердце было уведено тенями и туманом. (Если спросят, Станимир признаёт, что принцем был Страд фон Зарович в дни до того, как он пришёл в Баровию, и что его обещание Вистани — причина, по которой они остаются в долине по сей день, «без страха и пристрастия».)
 
-## C12b. The Blue Water Inn
+### Рассказ Элизы
 
-<span class="citation"><em>This scene takes place in Chapter 5: Area N2.</em></span>
+После того как один из игроков выступил, Элиза рассказывает следующую историю:
 
-This area is largely as described in <span class="citation">N2. Blue Water Inn (p. 98)</span>. If Muriel is present, she bids the players farewell with a soft, sentimental trill, then departs to join the other ravens resting atop the roof. (If the players later return to the inn to look for her, she is not present.)
+<div class="description"><p>«Говорят, что в каждом вороне трепещет заблудшая душа, и каждая песнь ворона рассказывает сказку минувших веков. Они шепчут, так слушайте внимательно».</p>
+<p>Она делает глубокий вдох; когда она снова говорит, её голос тих, с жутким, мелодичным качеством.</p>
+<p>«Пойте, вороны, о Баровии, рождённой из туманов и омытой сумерками. Пойте о Лугдане, стойкой служительнице Утреннего Лорда, тронутой рассветом, враге глубоко таящейся тьмы. Святой Символ Равенкинд, её сияющее свидетельство, маяк веры воина и решимости.</p>
+<p>«Пойте, вороны, о восхождении Черновога, названного Зелёным Богом и Владыкой Демонов на Холме Вчерашнего Дня. Лугдана, седовласая, уставшая от битв, её длинный меч и щит всё ещё отполированы и готовы. Ведомая сквозь тени к священной земле, она сразилась с демоном, их танец подобен буре.</p>
+<p>«Пойте, вороны, о последней ярости Лугданы, о знаке Равенкинд, теперь пылающем светом. Ход битвы переломился, храбрый крик героя, последний натиск с божественной благодатью. Владыка Демонов изгнан, воительница пала, рана в её боку слишком глубока.</p>
+<p>«Пойте, вороны, о последних мгновениях света, тень, спускающаяся с сияющих высот. Пойте об ангеле, черноперьевом и клювастом, ангеле Утреннего Лорда, забирающем свой дар. Символ возвращён, в когтях воронов удержан.</p>
+<p>«Пойте, вороны; вы хранители, наблюдатели, сказители нерассказанных историй. Пойте, вороны, о памяти Лугданы, о тенях, что таятся, и героях, что придут».</p></div>
 
-When the players first arrive, the inn contains the following notable NPCs:
+Когда её история закончена и все участники сделали свои догадки — Станимир и Артури идут последними, причём Станимир голосует «Правда», а Артури голосует «Ложь» — Элиза открывает, что её история была полуправдой.
 
-- Danika Dorakova, who is pouring drinks and serving patrons in **N2c. Taproom**;
-- Urwin Martikov, who is cooking bread and beet stew in **N2e. Kitchen**;
-- Brom and Bray Martikov, who are playing with toys in **N20. Boys' Bedroom**; and
-- Rictavio, who is telling stories to the patrons in **N2c. Taproom**, including Nikolai and Karl Wachter.
+Лугдана действительно была паладином Утреннего Лорда, носившей легендарный _Святой Символ Равенкинд_, который представлял собой платиновый амулет в форме сияющего солнца с огромным рубином, вставленным в центр. По легенде, символ был дарован Лугдане ангелом в обличье ворона. Элиза отмечает с усмешкой, однако, что никто не знает, что случилось с Символом после гибели Лугданы на Холме Вчерашнего Дня, и где он находится сейчас.
+
+### Рассказ Артури
+
+После того как трое игроков выступили, Артури рассказывает следующую историю:
+
+<div class="description">
+<p>Жил некогда Лис, славившийся своей мудростью и мастерством, что обитал со своим лисёнком в туманных лесах. В холодную лунную ночь пара Воробьёв принесла ему своего птенца, щупальца Смерти сжимали его дрожащее тельце. Лис принял птенца в свою нору, но при всех его знаниях он не смог исцелить его недуг, и тот испустил последний вздох в его лапах.</p>
+<p>Обезумев от горя, мстительные Воробьи с помощью четырёх своих сородичей похитили лисёнка в ночи. Они отдали его Волку, который давно алкал вкуса лисьей плоти. Волк пожрал лисёнка, а Воробьи удалились, чтобы вернуться к своей стае.</p>
+<p>Когда Лис узнал, что сделали Воробьи, ярость сжала и его сердце. В своей хитрости он знал, что Крысы в своих норах под землёй всегда ненавидели песни Воробьёв высоко над ними. Лис спустился в королевство Крыс и пообещал им лес, свободный от песен Воробьёв. Заинтересованные, Крысы согласились.</p>
+<p>Крысы не могли найти гнездо Воробьёв сами. Но хитрый Лис мог, и пока Воробьи дремали в дупле великого дуба, Крысы набросились на них, чтобы пировать зубами и когтями. За преступления шестерых погибла вся стая, ни одного яйца не пощадили.</p>
+<p>Туманный лес помрачнел теперь, и деревья больше не поют песнями Воробьёв. Но говорят, что Крысы всё ещё охотятся — что один птенец всё же ускользнул от их когтей, и что однажды они найдут его и сожрут, как остальных.</p>
+</div>
+
+Когда его история закончена и все участники сделали свои догадки — Станимир и Элиза идут последними, причём Станимир голосует «Правда», а Элиза голосует «Ложь» — Артури открывает, что его история была правдой. Однако он вежливо отказывается раскрывать что-либо ещё, отмечая лишь с грустной улыбкой: «Историю нельзя по-настоящему рассказать, пока она не закончилась».
+
+### Рассказ Ирины
+
+После того как все игроки выступили, [[Non-Player Characters#Ireena Kolyana|Ирина]] (если присутствует) рассказывает следующую историю:
+
+<div class="description"><p>«Когда я была ребёнком, отец взял меня и моего брата к огромному спокойному озеру. Я помню песок под босыми ногами и плеск волн о берег. </p>
+<p>«Но затем что-то нарушило тишину — низкое рычание, разнёсшееся по ветру. Обернувшись, я увидела зверя, выходящего из тумана: волка, намного крупнее любого виденного мной. Я до сих пор помню его глаза — жёлтые, холодные и голодные.</p>
+<p>«Отец закричал, чтобы я бежала. Я помчалась к лесу, и волк последовал за мной, его рык эхом разносился в подлеске. Помню, как ветви хлестали меня по лицу, шипы резали ноги, пока мышцы горели и дыхание сбивалось, но страх гнал меня вперёд.</p>
+<p>«И только много позже, когда сердце успокоилось в груди и шаги волка растворились в тишине, я наконец позволила себе остановиться. К тому времени, однако, лес стал мне чужим, а крики отца стихли. </p>
+<p>«Густой туман опустился вокруг меня, и в каждом углу таились тёмные силуэты. Я шагнула вперёд, одной рукой боязливо прощупывая туман — и волк из тумана прыгнул на меня, его челюсти раскрылись, чтобы поглотить меня. А потом — всё стало чёрным.</p>
+<p>«Следующее, что я помню — я проснулась в собственной постели, напевание отца доносилось из кухни. Не знаю, как я туда попала и что стало с волком, но я до сих пор отчётливо помню его зубы».</p></div>
+
+Когда её история закончена и все участники сделали свои догадки — Станимир голосует «Правда», а Элиза и Артури голосуют «Ложь» — Ирина открывает, что её история была ложью. С тихим смехом она признаётся, что это сон, который снится ей с детства, отмечая, что вблизи деревни Баровия нет озёр и что она никогда не видела **лютоволка** до недавнего времени.
+
+Если оспорить его голос, Станимир лишь говорит с загадочной улыбкой, что во многих снах есть зерно истины. Затем он благодарит Ирину за её рассказ.
+
+### Артури уходит
+
+Когда игра заканчивается, Артури прощается с игроками и покидает лагерь. Если спросят почему, он делится с грустной улыбкой, что лагерь в опасности каждое мгновение, пока он задерживается там после наступления темноты. «Я был эгоистичен сегодня ночью», — бормочет он, — «и испытывал судьбу, сколько смел. Но я не смею оставаться дольше, боясь ужаса, который может последовать».
+
+Игрок, преуспевший в проверке Харизмы (Убеждение) Сл 12, может убедить Артури поделиться, что нежить преследует его, куда бы он ни шёл, и что они охотятся на него каждую ночь последние восемнадцать лет. «Один человек поклялся, что нежить заберёт меня», — говорит он. «И хотя им это ещё не удалось, они никогда не перестают пытаться». Он отказывается объяснять дальше, грустно утверждая: «Некоторые истории ранят рассказчика. Прошу, не спрашивайте больше».
+
+Артури отклоняет любые предложения защитить его и ускользает в ночь, в конце концов устраиваясь среди ветвей высокого дерева в двух милях от лагеря. Затем появляется нежить:
+
+- Через тридцать минут после прибытия Артури двенадцать **зомби** приходят бродить у подножия дерева.
+- Два часа спустя пять **упырей** приходят царапать и выть у ствола дерева.
+- Ещё два часа спустя три **могильщика** присоединяются к упырям.
+- Ещё два часа спустя четыре **умертвия** молча появляются, чтобы стоять на страже вокруг основания дерева.
+
+Нежить исчезает в лесу незадолго до рассвета.
+
+## C4e. Возвращение к Перекрёстку реки Ивлис
+
+Путешествие от Лагеря на Озере Тсер до Перекрёстка реки Ивлис составляет полторы мили и занимает тридцать минут. Игроки, пытающиеся скрыть свои передвижения от Элизы, шпиона Страда в лагере, должны преуспеть в проверке Ловкости (Скрытность) Сл 11 или предпринять другие тайные действия для этого.
+
+### Путь к перекрёстку
+
+Когда игроки совершают путешествие к перекрёстку, зачитайте:
+
+<div class="description">
+<p>Бледная луна висит низко в небе, отбрасывая слабое серебристое сияние на окутанный туманом пейзаж внизу. Древние деревья нависают по обе стороны грязной дороги, их узловатые ветви тянутся, словно костлявые пальцы.</p>
+<p>С приближением полуночи нисходит жуткая тишина. Даже листья перестают шелестеть, оставляя хлюпанье ваших сапог в грязи единственным звуком.</p>
+</div>
+
+Если игроки не сумели скрыть свой уход, любой игрок с пассивной Мудростью (Восприятие) 11 или выше понимает, что за ними следят. Зачитайте:
+
+<div class="description">
+<p>Звук ломающейся ветки прорезает тишину, как разбитое стекло. Куст позади вас шелестит — затем резко замирает.</p>
+</div>
+
+В шелестящем кусте прячется **бандит** Вистани Элиза. Если игроки игнорируют её, она продолжает следить за ними по пути к перекрёстку. В противном случае, если игроки противостоят ей, она реагирует следующим образом:
+
+**Если игроки окликают Элизу**, она остаётся скрытой и не отвечает.
+
+**Если игроки находят укрытие Элизы**, она выходит из подлеска с поднятыми руками в жесте мира. Она заверяет игроков, что не желала им зла, и настаивает, что последовала за ними из любопытства к их ночным путешествиям. «На прогулке в полночь — в час, когда все, кроме монстров, боятся ступать?» — выдыхает она, её глаза блестят. «Можно подумать, что вы _что-то замышляете_ — а рассказчику всегда нужны новые истории».
+
+Элиза надеется открыто сопровождать игроков к их цели. При отказе она «соглашается» вернуться к Озеру Тсер, но тайно возвращается, чтобы следовать по следам игроков. Однако если игроки пытаются убедить её, что это бесполезно, и преуспевают в проверке Харизмы (Запугивание) Сл 15, Элиза возвращается к Озеру Тсер и остаётся там на ночь.
+
+**Если игроки угрожают Элизе**, она немедленно сдаётся, бросаясь на их милость. Если они преуспевают в проверке Харизмы (Запугивание) Сл 15, она раскрывает, что «докладывает хозяину замка». Если спросят, почему она служит Страду, в её глазах вспыхивает фанатизм, когда она с придыханием заявляет, что Страд — или должен быть — «королём» Вистани. «Он тот, кто привёл нас домой», — шепчет она благоговейно. «Мы спасли его от смерти, и в благодарность он спас нас от изгнания».
+
+> [!lore]+ **Фанатизм Элизы**
+> Элиза свободно признаёт, что немногие Вистани разделяют её убеждения или верность Страду — факт, который заставляет её проклинать «неблагодарных» и «неверных» среди них. Хотя она не верит, что Баровия — исконная родина Вистани, Элиза верит, что это новый дом, который Страд нашёл для них.
+
+**Если игроки атакуют Элизу**, она пытается бежать в лес. Если ей это удастся, Элиза немедленно направляется в Замок Равенлофт и не возвращается в Озеро Тсер той ночью. Если игроки преследуют её, проведите погоню, как описано в <span class="citation">Погони (<em>Руководство Мастера</em>, стр. 252)</span>, используя таблицу **Осложнений погони в дикой местности** следующим образом:
+
+- Используйте **рой кусачих мошек** (со статистикой **роя ос**) для **роя насекомых**
+- Используйте паникующее стадо **лосей** для паникующего стада животных
+- Используйте **гигантского паука** для существа, обитающего в этой местности
+
+Во время бегства через лес Элиза имеет укрытие наполовину от любого игрока на расстоянии не менее 30 футов и укрытие на три четверти от любого игрока на расстоянии не менее 60 футов.
+
+**Если игроки пытаются скрыть свои следы от Элизы**, они могут сделать это, сойдя с дороги и преуспев в проверке Ловкости (Скрытность) Сл 11, а затем в проверке Мудрости (Выживание) Сл 11. Игроки, сходящие с дороги таким образом, встречают **блуждающий огонёк**, как описано в <span class="citation">Блуждающий огонёк (стр. 33)</span>.
+
+### Марш мёртвых
+
+Когда игроки прибывают на Перекрёсток реки Ивлис, зачитайте:
+
+<div class="description">
+<p>Хорошо утоптанная тропа возвращается к перекрёстку, теперь освещённому бледным, болезненным светом луны. По ту сторону дороги окутанные туманом надгробия, кажется, съёживаются во мраке рядом со старой деревянной виселицей, чья истрёпанная верёвка безжизненно болтается в неподвижном воздухе.</p>
+<p>Приземистая фигура в плаще стоит у виселицы — ждёт.</p>
+</div>
+
+Силуэт принадлежит Мадам Еве. Она не отвечает, если к ней обращаются, и ждёт, пока игроки приблизятся к ней. Когда они это делают, она шепчет им, её голос скрипит, как холодный ветер: «_Что я сказала вам, прежде чем вы покинули мой шатёр?_» Если игроки отвечают верно, Мадам Ева кивает, убедившись в их личности.
+
+> [!abstract]+ **Бегство Элизы**
+> Если игроки не помешали Элизе следовать за ними, Элиза прячется за кустами к северу от перекрёстка, молча наблюдая за ними. Если это так, глаза Мадам Евы широко распахиваются, и она резко выдыхает. «Глупцы!» — выдыхает она. «За вами следили — расправьтесь с ней, или всё погибло!» Затем она указывает на укрытие Элизы.
+>
+> Заметив это, Элиза немедленно пытается бежать в лес, начиная с 30-футовой форы. Если ей это удастся, Элиза немедленно направляется в Замок Равенлофт и не возвращается к Озеру Тсер той ночью. Если игроки преследуют её, проведите погоню, как описано в <span class="citation">Погони (<em>Руководство Мастера</em>, стр. 252)</span>, используя таблицу **Осложнений погони в дикой местности** следующим образом:
+>
+> - Используйте **рой кусачих мошек** (со статистикой **роя ос**) для **роя насекомых**
+> - Используйте паникующее стадо **лосей** для паникующего стада животных
+> - Используйте **гигантского паука** для существа, обитающего в этой местности
+>
+> Во время бегства через лес Элиза имеет укрытие наполовину от любого игрока на расстоянии не менее 30 футов и укрытие на три четверти от любого игрока на расстоянии не менее 60 футов.
+>
+> Если Элизу поймают, Мадам Ева настаивает, чтобы её убили и бросили в реку Ивлис, «дабы она не доложила увиденное и услышанное своему хозяину». Если её оспорить, Мадам Ева холодно отвечает: «Не может быть колебаний, когда сама Судьба балансирует на краю пропасти».
+
+Если спросят ещё что-либо, Мадам Ева поднимает руку, затем молча поворачивается лицом к безымянному кладбищу у виселицы. Вскоре после этого начинается Марш мёртвых, как описано в <span class="citation">Марш мёртвых (стр. 48)</span>.
+
+Когда Марш начинается, Мадам Ева сообщает игрокам: «Каждый дух в этом марше имеет общую черту. Можете ли вы предположить, какую?» Если игроки ответят правильно, она затем спрашивает: «Как вы думаете, куда они направляются?»
+
+Независимо от ответа игроков, Мадам Ева затем делится информацией о Марше, предоставленной в <span class="citation">Марш мёртвых (стр. 48)</span>, либо в ответ на вопросы игроков, либо по собственной инициативе после полного ухода Марша с кладбища.
+
+«Вот край, по которому вы идёте», — предупреждает она их, когда Марш уходит. «Много путей среди сетей Судьбы, но я могу видеть лишь то, что _может_ быть — не то, что будет. Я могу сказать вам, что вы _должны_ сделать, но не могу гарантировать успех. Ибо если вы провалитесь, это станет вашим местом упокоения — местом без наследия, славы или любви. Вы понимаете?»
+
+Независимо от ответа игроков, Мадам Ева пристально смотрит на них. «Если вы желаете отложить эту миссию, никто не осудит вас. Нет стыда в бегстве от врага, которого никто другой не победил. Если вы хотите, чтобы я прочла ваше будущее, я могу читать по ладоням или вглядеться в хрустальный шар. Я могу рассказать вам лицо вашей истинной любви, путь к крепкому здоровью в преклонные годы или успех, который вы можете обрести в ремесле или профессии». Она замолкает, затем добавляет голосом, почти шёпотом: «Или я могу разложить карты — и направить вас на путь, который кончается лишь когда ваш враг побеждён — или вы. Выбор за вами».
+
+Если игроки настаивают на желании победить Страда, Мадам Ева кивает. «Очень хорошо», — говорит она. «Тогда начнём».
+
+## C4f. Гадание на картах Тарокка
+
+Мадам Ева начинает гадание на картах Тарокка, усаживаясь на кладбищенскую землю, доставая из-под плаща три старые свечи, которые она втыкает в землю и зажигает взмахом руки. Затем она достаёт колоду карт Тарокка, которую кладёт на землю между свечами. Зачитайте:
+
+<div class="description">
+<p>Её старые руки работают ловко, древняя провидица отделяет четырнадцать карт с верха колоды, откладывая их в сторону. Оставшиеся карты она проворно тасует дважды, трижды, четырежды.</p>
+</div>
+
+Пока она тасует колоду, игроки замечают бархатный мешочек на земле рядом с ней, которого не было мгновение назад. Мадам Ева встречает их взгляд, затем тихо хихикает. «Задача, о которой вы просите, — немалое благодеяние», — бормочет она. «Взамен я попросила бы услугу и себе».
+
+Если игроки принимают просьбу Мадам Евы или интересуются подробностями, она сообщает им, что мешочек содержит десять золотых монет. «Моя праправнучка Арабэлль будет праздновать свой десятый день рождения через два дня», — говорит она. «По этому знаменательному случаю я желаю преподнести ей подарок — но в моём преклонном возрасте я совершенно не в состоянии совершить путешествие сама».
+
+Мадам Ева просит игроков использовать средства из мешочка, чтобы купить игрушку для Арабэлль в «Игрушках Блинского» в Валлаки — игрушки Блинского, отмечает она с нежностью, любимые у Арабэлль — и доставить игрушку в лагерь Вистани к юго-западу от Валлаки к полудню в день рождения Арабэлль. Она добавляет, что игроки могут оставить сдачу себе в качестве платы за труды.
+
+Ева добавляет с загадочной улыбкой, что игрокам может понравиться беседа с Арабэлль, поскольку она «весьма интересный ребёнок» — и что игроки могут найти дружбу с её семьёй наградой само по себе. (Если игроки спросят, Ева делится лишь тем, что отец Арабэлль, Луваш, — предводитель валлакийского лагеря Вистани, а его брат Арригал — «проницательный и умный человек».)
+
+Если игроки принимают задание Мадам Евы, она одобрительно кивает. Затем она начинает гадание на картах Тарокка. Зачитайте:
+
+<div class="description">
+<p>Мадам Ева кладёт обе колоды на землю перед собой. Закрыв глаза, она кладёт правую руку на поверхность большей колоды. Багровое пламя тускнеет и кружится в потусторонних узорах, пока её губы беззвучно шевелятся, отдалённое напряжение разливается в воздухе. Шелест деревьев начинает стихать, внешний мир становится приглушённым и призрачным, а пространство внутри — более твёрдым, более реальным.</p>
+<p>Медленно, благоговейно, старуха вытягивает три карты с верха колоды, раскладывая их рубашкой вверх отдельно на земле, вторую — между первой и третьей, чуть выше них. Затем она переходит к меньшей колоде, вытягивая ещё две карты. Первую она кладёт ниже первых трёх, образуя крест. Вторую помещает в центр.</p>
+<p>Тени надгробий вокруг неё качаются, как силуэты, склоняясь к картам, словно тревожные наблюдатели — но воздух на кладбище совершенно неподвижен. Никакой свет не проникает, кроме света трёх свечей; ни один голос не звучит в тишине. Тени и туман клубятся за могилами, где обитает тьма глубочайшей ночи — но здесь, в центре, свет ещё царит.</p>
+<p>Старуха затем подносит морщинистую руку к левой карте — первой. Она закрывает глаза и склоняет голову, словно прислушиваясь к невысказанному слову. Магические огни кружатся и меняются, их цвет переходит в глубокий, пронзительный синий.</p>
+<p>«Эта карта говорит об истории. Знание древности поможет вам лучше понять вашего врага».</p>
+<p>Она переворачивает карту.</p>
+<p>Лазурный свет танцует по её поверхности, открывая изображение ухмыляющегося стражника, смотрящего вверх на надменного жреца, указующий перст жреца в дюймах от носа стражника, пока тот готовит злобно изогнутый кинжал за спиной. «Девятка Символов — Предатель». Её тёмные зрачки движутся из стороны в сторону, словно читая невидимый текст. «Я вижу древнего врага старого и благородного дома. Заблудшая душа приведёт вас к нему».</p>
+<p>Она подносит руку ко второй карте, в верхней части креста. Закрыв глаза и снова прислушиваясь, пламя свечей вспыхивает, его цвет взрывается ярко-жёлтым.</p>
+<p>«Эта карта говорит о могущественной силе добра и защиты, святом символе великой надежды». Она переворачивает карту.</p>
+<p>На этот раз свет открывает новое изображение: закованный в доспехи воин, сжимающий треснувший железный меч и обтянутый кожей деревянный щит, его лицо скрыто тяжёлым железным шлемом. «Пятёрка Мечей — Мирмидон». Её глаза всматриваются в глубь тьмы, что таится за пределами света свечей. (См. <span class="citation">Мечи (Пики), стр. 12</span>, для предсказания этой карты.)</p>
+<p>Она подносит руку к третьей карте, на правой стороне креста, её веки закрываются, словно в трансе, губы поджаты в тихом размышлении. Пламя свечей гаснет на мгновение — а затем возвращается взрывом яростного, пылающего белого, столь чистого, сильного и ясного, что больно смотреть, невыносимо видеть—</p>
+<p>Глаза Мадам Евы распахиваются, пылая яростной решимостью.</p>
+<p>«Это карта силы и мощи. Она говорит об оружии мести: мече солнечного света». Она переворачивает карту.</p>
+<p>Свет открывает третье изображение: торжественный мужчина в священных одеяниях, одной рукой держащий цепь бронзового кадила, из которого клубится горящий дым. «Восьмёрка Символов — Епископ». Голос старухи преисполнен цели. «То, что вы ищете, покоится в янтарной темнице, куда дьявол боится ступить», — произносит она, сужая глаза. «Это оружие давно сокрыто. Дом павшего дракона может привести вас туда».</p>
+<p>Она переходит к четвёртой карте, в нижней части креста, и снова прислушивается, очерчивая маленькие круги на её рубашке, пока напевает созерцательную ноту. Магические языки пламени подпрыгивают и танцуют на фитилях, теперь рассыпая фиолетовые искры в воздух, пока могилы за ними мерцают сумеречным сиянием.</p>
+<p>«Эта карта проливает свет на того, кто очень поможет вам в битве против тьмы».</p>
+<p>Она переворачивает карту.</p>
+<p>На этот раз открывается изображение тихого кладбища, задыхающегося в тумане, вход в которое запечатан острой железной оградой. «Туманы». Мадам Ева наклоняется вперёд. (См. <span class="citation">Враг Страда, стр. 15</span>, для предсказания этой карты.)</p>
+<p>Наконец она подносит руку к пятой карте — и едва не отшатывается, её брови хмурятся, пока морщины прорезают лоб, словно траншея. Позади неё тени окружают свет свечей, пока он почти не поглощается подкрадывающейся тьмой. Когда она говорит снова, хриплый голос Мадам Евы едва громче шёпота.</p>
+<p>«Ваш враг — создание тьмы, чьи силы превосходят смертные. Когда час суда настанет, эта карта приведёт вас к нему!»</p>
+<p>Её рука дрожит над картой безмолвное мгновение — а затем ловкие, древние пальцы открывают её обратную сторону.</p>
+<p>Во тьме пятое и последнее изображение едва различимо сквозь дым и неестественный мрак. На поверхности карты изображён коронованный, ухмыляющийся император в королевском облачении, тянущийся к кубку вина — хотя его конечности — деревянные марионеточные члены, привязанные к верёвкам, исчезающим в темноте над головой.</p>
+<p>Мадам Ева медленно выдыхает. «Марионетка». (См. <span class="citation">Местонахождение Страда в замке, стр. 17</span>, для предсказания этой карты.)</p>
+<p>Когда последний слог срывается с её губ, старуха замирает — а затем откидывается назад, её глаза закатываются, белки блестят, как жемчужины во тьме — и затем она резко возвращается, свет свечей спадает до обычного багрового сияния.</p>
+<p>Звуки естественного мира возвращаются — шёпот ветра в деревьях, далёкое уханье совы и отдалённый плеск реки Ивлис о берега. Серебристый лунный свет снова пронзает край кладбища, и вы чувствуете, что дышите впервые с начала гадания.</p>
+<p>Мадам Ева не говорит ничего. Она лишь молча смотрит на вас тёмными, тяжёлыми глазами.</p></div>
+
+Мадам Ева отказывается уточнять предсказания игроков или предоставлять дополнительную информацию или помощь. Если её попросить, она говорит лишь: «Нити Судьбы нельзя призвать, как слугу, или вызвать, как фокус. Я вижу только то, что показывают мне карты, и не более».
+
+Мадам Ева отпускает игроков после завершения гадания на картах Тарокка, наставляя их вернуться к Озеру Тсер и «не говорить ни одному слуге Страда о том, что они только что слышали».
+
+Мадам Ева отказывается возвращаться с игроками, предпочитая задержаться на перекрёстке. Если спросят почему, она делится лишь тем, что это место хранит «особые воспоминания» для неё, и что она вернётся к Озеру Тсер, когда будет готова. «Не бойтесь», — хрипит она с искоркой веселья в глазах. «Мне мало чего бояться от созданий, что рыщут в этих лесах, уверяю вас». Если игроки покинут перекрёсток и позже вернутся, они обнаружат, что Мадам Ева исчезла.
+
+> [!lore]+ **Почему Мадам Ева остаётся**
+> Искатели приключений, пытавшиеся убить Страда, — не единственные, похороненные на этом кладбище. Мать Мадам Евы, Вистани, с которой у короля Барова II был роман, похоронена в лесу неподалёку от виселицы. (Вистани обычно хоронят мёртвых на перекрёстках, веря, что это освобождает дух, чтобы направлять других, следующих путями, которыми они когда-то шли.)
+
+> [!warning]+ **Блуждающие игроки**
+>
+> Исследование в этой кампании целенаправленно. Игроки не найдут многого, бродя бесцельно; без чётких зацепок значимые открытия, такие как _Святой Символ Равенкинд_ или Янтарный Храм, могут занять дни или даже недели. Чтобы продвигаться, игроки должны раскрывать подсказки и распознавать знаки, указывающие путь.
+
+**_Веха_**. Получение гадания на картах Тарокка завершает сюжетную веху. Когда отряд покидает перекрёсток, наградите каждого игрока 500 опыта.
+
+## C4g. Уход с Озера Тсер
+
+Когда игроки просыпаются на Озере Тсер следующим утром, Станимир приглашает их позавтракать с ним у потухшего костра. Завтрак, на который приходит Артури, если может, включает кукурузную поленту, голубцы и жареный хлеб. (Если её предательство не было раскрыто прошлой ночью, Элиза весело присоединяется к игрокам на завтрак.)
+
+Если игроки пытаются поговорить с Мадам Евой снова перед уходом, Станимир предупреждает их, что «старуха» спит и не желает, чтобы её беспокоили. Если игроки пытаются войти в её шатёр, они находят её спящей на подстилке рядом со столом.
+
+# C5. Скелет-всадник
+
+Когда игроки возвращаются на Перекрёсток реки Ивлис после получения гадания на картах Тарокка, они встречают скелета-всадника, как описано в <span class="citation">Скелет-всадник (стр. 31)</span>, который приближается с западной дороги и продолжает путь к деревне Баровия. Если игроки видели труп Далвана Оленски при входе в Баровию, они замечают, что одежда всадника узнаваемо похожа на его.
+
+> [!abstract]+ **Преследование всадника**
+> При преследовании всадник продолжает игнорировать игроков. Проехав небольшое расстояние по дороге, он поворачивает на юг по старой охотничьей тропе в лес, которой следует на восток к восточной границе Баровии. (Всадник бродит случайно и не имеет определённой цели.)
+
+# C6. Сторожевая башня
+
+Когда игроки путешествуют на запад от Перекрёстка реки Ивлис, зачитайте:
+
+<div class="description"><p>Вы оставляете перекрёсток позади и возобновляете путешествие на запад. Вы следуете за дорогой, когда она огибает, а затем поднимается по утёсу, карабкаясь по его крутому, каменистому склону. </p>
+<p>Туман здесь густой, скрывая вершину утёса над головой. Сама дорога становится узкой и опасной, с рыхлыми камнями и глубокими колеями, затрудняющими устойчивость. </p>
+<p>Однако вскоре дорога выравнивается, проходя мимо разрушенной трёхэтажной сторожевой башни, примостившейся на краю утёса. </p>
+<p>Старые каменные стены башни покрыты мхом и плющом, её прогнившая деревянная дверь висит на петлях. Неподалёку у дороги — две свежие могилы. Труп какого-то животного, кажется, лежит в высокой траве невдалеке.</p></div>
+
+Сделайте паузу, чтобы игроки могли действовать или реагировать. Если игроки молчат, переходите к [[#C7. The High Road]] ниже. В противном случае позвольте игрокам исследовать область.
+
+## Сторожевая башня
+
+Разрушенная сторожевая башня была построена как наблюдательный пост Орденом Серебряного Дракона давным-давно. Она имеет ту же структуру, что и <span class="citation">Сторожевая башня (стр. 157)</span> на перевале Цоленка, со следующими изменениями:
+
+- Дверь башни наполовину сорвана с петель и легко открывается.
+- Температура и ветер в башне гораздо менее суровы.
+- Над очагом нет головы лютоволка.
+- На бойницах нет ни статуй, ни скелетов.
+
+Если игроки исследуют башню, они находят сломанный серебряный кулон, вырезанный в форме дракона, лежащий на полу первого этажа, близко к входу. Кулон всегда холоден на ощупь.
+
+С бойниц башни игроки могут видеть Водопад Тсер на северо-западе и Озеро Тсер на северо-востоке. На юге, над и за склонами Горы Гакис, они видят лишь непроницаемую стену густого серого тумана.
+
+## Могилы
+
+Две могилы хранят останки двух баровийских беженцев, убитых волками во время путешествия в Валлаки некоторое время назад. Проверка Мудрости (Выживание) Сл 12 показывает, что могилам не более нескольких недель.
+
+Маленькие камешки выложены на земле поверх каждой могилы в форме восходящего солнца.
+
+## Труп
+
+Труп принадлежит волку, убитому копьями и арбалетными болтами, и в основном сгнил. Баровийские беженцы оставили его здесь после того, как убили его и отогнали остальных членов его стаи.
+
+# C7. Высокая дорога
+
+Путешествие от Перекрёстка реки Ивлис до Водопада Тсер составляет семь с половиной миль, или два с половиной часа.
+
+## C7a. Ущелье
+
+Когда игроки продолжают путь по дороге, зачитайте:
+
+<div class="description"><p>Вы продолжаете идти по извилистой горной дороге, зазубренные пики зловеще нависают сквозь туман далеко наверху. </p>
+<p>Воздух становится холоднее, когда дорога проходит через тёмный вечнозелёный лес, густой полог снова закрывает большую часть тусклого света неба. Здесь дорога сужается, её края проходят над крутыми, скалистыми склонами, пока она огибает горный отрог. Единственные звуки, сопровождающие вас, — хруст опавших листьев и случайный шорох в подлеске.</p></div>
+
+Если у одного из игроков пассивная Мудрость (Восприятие) 14 или выше, или если один из игроков преуспевает в проверке Мудрости (Восприятие) Сл 14, добавьте:
+
+<div class="description"><p>Когда ваши шаги хлюпают в старой грязной дороге, вы замечаете мелькание движения в подлеске: вспышка серого меха, янтарные глаза и острые белые зубы. Затем, столь же быстро, как появилось, оно исчезает, ускользая обратно в тени.</p></div>
+
+Движение принадлежит **волку**, который быстро отступает в лес. Его пять **волков**-сородичей по стае недалеко, держась на расстоянии двухсот футов, пока выслеживают игроков через лес.
+
+Если игроки продолжают, зачитайте:
+
+<div class="description"><p>Дорога огибает край горы, правый обрыв уходит вниз, оставляя отвесный обрыв к лесистому ущелью внизу. Дорога, теперь едва десять футов шириной, поворачивает впереди, огибая это ущелье, прежде чем резко спуститься и обогнуть меньший горный пик. </p>
+</div>
+
+Если у одного из игроков пассивная Мудрость (Восприятие) 14 или выше, или если один из игроков преуспевает в проверке Мудрости (Восприятие) Сл 14, добавьте:
+
+<div class="description">
+<p>Вы видите три серые тени, мелькнувшие в подлеске впереди. Ещё три мерцают на краю поля зрения, позади вас.</p>
+</div>
+
+Если у одного из игроков пассивная Мудрость (Восприятие) 18 или выше, или если один из игроков преуспевает в проверке Мудрости (Восприятие) Сл 18, добавьте:
+
+<div class="description">
+<p>Ещё двое таятся в ущелье почти в пятидесяти футах внизу, не отставая от вас, пока прячутся в тенях скал.</p>
+</div>
+
+Если игроки останавливаются, продолжают путь или атакуют, шесть волков в лесу нападают. Зачитайте:
+
+<div class="description">
+<p>Шесть рычащих теней выскакивают из подлеска, оскалив клыки и выставив когти!</p>
+</div>
+
+![[wolf_ravine.jpg]]
+
+> [!combat]- **Бой — Волки**
+> **Уровень боя**: Кровопролитный
+> **Ожидаемый уровень персонажей**: 3
+> **Союзники**: Мюриэль Виншоу (ПО 0), Ирина Коляна (ПО 1)
+> **Ожидаемый расход хитов**: 58%
+>
+> ### **Враги:**
+>
+> |            | 3 игрока | 4 игрока | 5 игроков | 6 игроков |
+> | ---------- | -------- | -------- | --------- | --------- |
+> | Волки      | 3        | 4        | 8         | 1         |
+> | Оборотни   | 0        | 0        | 0         | 2         |
+>
+> ### **Балансировка:**
+>
+> Если у вас меньше или больше 5 игроков, измените столкновение следующим образом:
+>
+> | Количество игроков | Изменение                                                                 |
+> | ------------------ | ------------------------------------------------------------------------- |
+> | 3                  | Уменьшите количество волков до 3.                                         |
+> | 4                  | Уменьшите количество волков до 4.                                         |
+> | 6                  | Уменьшите количество волков до 1 и увеличьте количество оборотней до 2.   |
+
+Замените атаку **_укус_** волков следующими вариантами действий:
+
+- **_Терзание._** _Рукопашная атака оружием:_ +4 к попаданию, досягаемость 5 фт., одна цель. _Попадание:_ 7 (2к4 + 2) колющего урона. Вместо нанесения урона волк может схватить цель (Сл высвобождения 11).
+- **_Когти._** _Рукопашная атака оружием:_ +4 к попаданию, досягаемость 5 фт., одна цель. _Попадание:_ 6 (1к8 + 2) рубящего урона. Если цель — существо, она должна совершить спасбросок Силы Сл 11. При провале она сбивается с ног или отталкивается на 5 футов (по выбору волка).
+
+**Волки** начинают на склоне горы, а игроки — между ними и ущельем. В бою **волки** атакуют одного игрока за раз своими **_когтями_**, используя **_стайную тактику_** для получения преимущества на броски атаки, надеясь столкнуть этого игрока в ущелье.
+
+Игрок, падающий в ущелье, скатывается на 50 футов вниз, получая 17 (5к6) дробящего урона и оказываясь лежащим. Два волка внизу используют **_терзание_** для атаки любого существа, упавшего в ущелье, затем уволакивают его в надежде на лёгкую добычу. Существо, цепляющееся за скалистый край на дне ущелья, имеет укрытие наполовину от существ наверху ущелья.
+
+Как только игрок падает в ущелье, остальная стая убегает в лес, затем спускается в ущелье другим путём, чтобы помочь шестому волку утащить добычу. Стая убегает, если шесть из восьми волков убиты.
+
+> [!info]+ **Спуск в ущелье**
+> Игрок, пытающийся подняться или спуститься по краю ущелья, должен совершить проверку Силы (Атлетика) Сл 10. При успехе персонаж движется с половинной скоростью вверх или вниз по краю ущелья. При результате 6-9 персонаж не продвигается и не теряет позицию; при результате 5 или меньше персонаж падает и получает 1к6 дробящего урона за каждые 10 футов падения, приземляясь лёжа на дне ущелья.
+
+Когда игроки покидают эту область, игрок с пассивной Мудростью (Восприятие) 13 или выше замечает двух волков, немного крупнее остальных, наблюдающих за ними с вершины восточного горного утёса, возвышающегося над линией деревьев. Игрок, преуспевший в проверке Мудрости (Проницательность) Сл 20, понимает, что волки, похоже, изучают их с терпеливым разумом, необычным для волка. Волки поворачиваются и исчезают из виду, если их заметят или взаимодействуют с ними.
+
+> [!lore]+ **Наблюдающие волки**
+> Два волка — это **оборотни** в форме волка. Кровожадные головорезы, верные Кириллу Стояновичу и Страду фон Заровичу, они появятся вновь, чтобы выследить игроков в [[#C11. The Werewolves' Hunt]].
+
+## C7b. Водопад Тсер
+
+<span class="citation"><em>Эта сцена происходит в Главе 2: Область H.</em></span>
+
+Эта область в основном описана в <span class="citation">Водопад Тсер (стр. 37)</span>. Кроме того, когда игроки прибывают, они видят <span class="citation">ревенанта (стр. 31)</span>, стоящего в одиночестве посреди моста, положив руки на навершие своего меча, клинок которого воткнут в землю.
+
+![[Bridge Revenant.png]]
+<span class="credit">"Bridge Revenant" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+> [!lore]+ **Ярость Владимира**
+>
+> Этот безымянный **ревенант** был изгнан вместе с дюжиной своих собратьев из руин Аргинвостхольта вскоре после провала восстания Дору три месяца назад.
+>
+> Когда до них дошли вести о планируемом контрударе Страда, рыцари Ордена Серебряного Дракона подняли свои голоса, умоляя Владимира Хорнгаарда позволить им присоединить свои мечи к этому делу.
+>
+> Владимир отказал им и, когда рыцари разгневались и вышли из повиновения, изгнал их из поместья и запретил им поднимать оружие против Страда или любого из его созданий. Теперь только сэр Годфри Гвилим, Владимир Хорнгаард и духи **призрачных воинов**, некогда сражавшихся за Орден, остаются в Аргинвостхольте.
+
+Если игроки окликнут этого безымянного **ревенанта** или ступят на мост, он приветствует их хриплым голосом и спрашивает об их намерениях. Услышав их ответ, он говорит: «Старые вещи пробуждаются, и хозяин Замка Равенлофт бродит по долине. Скажите мне: служите ли вы ему?»
+
+Если игроки заявляют, что служат Страду, ревенант заметно напрягается, но отходит в сторону, холодно говоря: «Тогда ступайте своей дорогой, и пусть ваша гнусная работа принесёт вам гибель и отчаяние».
+
+Если игроки отрицают служение Страду, ревенант заметно успокаивается и приглашает их приблизиться, чтобы «получше разглядеть их». Он представляется рыцарем Ордена Серебряного Дракона, но утверждает, что давно забыл своё имя при жизни.
+
+Если оружие игроков хорошо видно, он спрашивает, противостоят ли игроки хозяину Замка Равенлофт. Если игроки заявляют, что противостоят Страду, ревенант советует им отправиться в Аргинвостхольт на западе, где сэр Годфри Гвилим ожидает тех, кто поднимет свои мечи против тьмы, таящейся в глубинах замка.
+
+Если игроки интересуются Орденом Серебряного Дракона, ревенант делится лишь тем, что рыцари Ордена противостояли хозяину Равенлофта при жизни, и предлагает игрокам поговорить с сэром Годфри для получения дополнительной информации. Если игроки получили серебряный кулон в сторожевой башне у Перекрёстка реки Ивлис, ревенант узнаёт его, но отказывается комментировать его значение.
+
+Если игроки спрашивают ревенанта, почему он охраняет мост, он говорит лишь: «Потому что я поднял голос против своего командира и был изгнан. Теперь я стою, как мои братья и сёстры по оружию, наблюдая за тёмными местами этой земли и ожидая приказа, который никогда не придёт».
+
+Если игроки спрашивают, почему он сам не может поднять оружие против Страда, он говорит лишь: «Потому что мой командир запрещает это, и мой дух связан и не может ослушаться его воли». Он готов поделиться, что имя его командира — сэр Владимир Хорнгаард, но не желает рассказывать больше, советуя игрокам поговорить с сэром Годфри.
+
+> [!abstract]+ **Тайны Янтаря**
+> Если игроки спрашивают ревенанта о «янтарных дверях», упомянутых в гадании Мадам Евы на картах Тарокка, он напрягается, затем предупреждает игроков, что они «вмешиваются в то, во что вмешиваться не следует». Если игроки заверяют ревенанта, что их интерес к «янтарным дверям» направлен на поражение Страда, ревенант колеблется, затем сообщает им, что он «связан клятвой никогда не раскрывать тайны того, что мы когда-то охраняли», но делится тем, что сэр Годфри может предоставить нужную им информацию.
+
+> [!info]+ **Связанный клятвой ревенант**
+> Каждый ревенант Ордена Серебряного Дракона связан эффектами способности Владимира Хорнгаарда **_связывание клятвой_**, которая обязывает их подчиняться прямым приказам Владимира. Ревенанты Ордена, за исключением сэра Годфри Гвилима, получили следующие приказы:
+>
+> - Не предавать тайны Ордена Серебряного Дракона.
+> - Не поднимать оружие против вампира Страда фон Заровича, его слуг или его созданий.
+> - Не возвращаться в Аргинвостхольт.
+>
+> Ревенант, нарушающий один из этих приказов, страдает от эффектов заклинания _подчинение_ и становится обездвиженным до начала своего следующего хода шипастой чёрной проволокой. (Этот эффект может срабатывать любое количество раз в день. Поскольку ревенанты связаны клятвами, которые они дали Владимиру при жизни, этот эффект нельзя рассеять.)
+
+Если игроки спрашивают дорогу в Аргинвостхольт, ревенант советует им ехать «на запад, за город со стенами, затем на юг по пепельно-серой дороге».
+
+Если игроки упоминают карету Страда, ревенант выражает отвращение к «зверю фон Заровичу» и советует игрокам быть осторожными с ним, его слугами и шпионами. Если игроки упоминают скелета-всадника, ревенант делится, что «Скиталец ищет дорогу к свободе через туманы. Он никогда не преуспеет».
+
+Прежде чем игроки уйдут, ревенант предупреждает их остерегаться «тех, кто ходит в шкурах волков», которые обитают в лесах на западе. «Когда-то они не беспокоили тех, кто путешествовал по дорогам», — хрипит он. «Однако что-то изменилось, и теперь их голод по человеческой плоти невозможно утолить». (Ревенант не знает, где найти логово оборотней, или какую-либо дополнительную информацию о стае.)
+
+Ревенант не покинет свой пост на мосту ни при каких обстоятельствах.
+
+# C8. Чёрная карета
+
+<span class="citation"><em>Эта сцена происходит в Главе 2: Область I.</em></span>
+
+Путешествие от Водопада Тсер до <span class="citation">Чёрной кареты (стр. 37)</span> составляет полторы мили и занимает тридцать минут. Когда игроки совершают это путешествие, зачитайте:
+
+<div class="description"><p>Вы продолжаете идти по извилистой дороге, которая поднимается на небольшое расстояние к северу, затем сворачивает на запад, чтобы обогнуть лысую вершину справа, её скалистые утёсы несут ряд острых камней, нависающих над дорогой.</p>
+<p>Вскоре дорога снова сворачивает на север, слева из тумана поднимается второй холм. Кривые деревья усеивают его крутые склоны, их ветви тянутся, как корявые пальцы.</p>
+<p>По мере того как вы углубляетесь между холмами, дорога сужается, а утёсы становятся выше. Однако вскоре холмы отступают, и дорога продолжается в небольшую, задыхающуюся от тумана котловину.</p></div>
+
+Эта область описана в <span class="citation">Чёрная карета (стр. 37)</span>. (Карета Страда отсутствует, хотя игроки могут видеть глубокие борозды на грязной дороге, ведущие от Старой Свалишской дороги к старой мощёной булыжником дороге к Замку Равенлофт.)
+
+Путешествие от Чёрной кареты до западных **Врат Баровии** составляет четверть мили и занимает пять минут. Эта область описана в <span class="citation">Врата Баровии (стр. 33)</span>, но с противоположной стороны.
+
+> [!abstract]+ **Посещение Замка Равенлофт**
+> Если игроки решат посетить Замок Равенлофт (например, чтобы расследовать исчезновение Гертруды), путешествие от перекрёстка составляет две с половиной мили и занимает пятьдесят минут. Когда игроки прибывают, экстерьер замка описан в [[Arc P - Ravenloft Heist#P2b. Approaching the Castle|Arc P - Ravenloft Heist]].
+
+# C9. Старая Мельница
+
+<span class="citation"><em>Эта сцена происходит в Главе 6: Область O.</em></span>
+
+Путешествие от Врат Баровии до **Старой Мельницы** составляет две с половиной мили и занимает сорок пять минут. Когда игроки совершают это путешествие, зачитайте:
+
+<div class="description"><p>Дорога продолжается вперёд, проходя между участком тёмного леса. Воздух здесь тих, как могила, деревья стоят совершенно неподвижно в жуткой тишине.</p>
+<p>Недалеко от дороги, в заросшем подлеске, стоит покрытая мхом каменная стела высотой чуть менее шести футов. Она находится в круге старых, потрескавшихся булыжников и, похоже, несёт какую-то резьбу.</p></div>
+
+Сделайте краткую паузу, чтобы игроки могли действовать или реагировать. Если игроки решат исследовать плиту, они обнаруживают, что на ней вырезан грубый ворон над выгравированной трёхконечной звездой, бороздки которой покрыты лишайником и мхом. (Плита — древний памятник Искательнице, а трёхконечная звезда — символ Триединых Богинь.)
+
+Если игроки молчат или продолжают путь, зачитайте:
+
+<div class="description"><p>Дорога вскоре снова выходит из леса, поворачивая между двумя холмами. Вскоре она сворачивает на север, огибая подножие горы.</p></div>
+
+Игроки выходят у подножия холма, на котором стоит **Старая Мельница**, как описано в <span class="citation">Приближение к мельнице (стр. 125)</span>. На мельнице и рядом с ней нет воронов.
+
+Когда мельница показывается, игроки также замечают **Морганту**, приближающуюся с противоположной стороны со своей тележкой, как описано в <span class="citation">Сонные пирожки (стр. 48)</span>.
+
+Эта сцена в основном разворачивается, как описано в <span class="citation">Сонные пирожки (стр. 48)</span>, но Морганта идёт из города Валлаки, а не из деревни Баровия, и у неё нет ребёнка в мешке в тележке разносчика.
+
+![[Morgantha_Disguised.png]]
+<span class="credit">"Morgantha Disguised" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+
+> [!profile]+ **Профиль: Морганта, Торговка снами** > **Информация для отыгрыша** > **_Резонанс._** В момент встречи с игроками Морганта должна внушать лесть и комфорт своим бабушкиным обаянием, благодарность за её готовность делиться комплиментами и «бесплатными образцами», симпатию к её жалобам на будничные невзгоды жизни старухи и лёгкую настороженность из-за её уверенности и комфорта при путешествии в одиночку по опасной дороге.
+>
+> **_Эмоции._** Морганта чаще всего выглядит жизнерадостной, веселой или задумчивой.
+>
+> **_Мотивации._** Морганта хочет сохранить свою маскировку, поддерживать свой бизнес в мире, расположить к себе незнакомцев и поощрять других попробовать её сонные пирожки, если те кажутся к этому склонными.
+>
+> **_Вдохновение._** Бабушка Ветровоск (_Плоский мир_), Минерва Макгонагалл (_Гарри Поттер_), Доктор Куреха (_Ван Пис_)
+>
+> **Информация о персонаже** > **_Личина._** Для мира Морганта — жизнерадостная старушка, любящая сплетни и жалобы. Только Морганта и её дочери знают, что она тайно является чёрной душой матриарха ковена ночных карг.
+>
+> **_Боевой дух._** В бою Морганта попыталась бы договориться о мире, затем использовала бы свою способность **_бестелесность_**, чтобы сбежать в Эфирный План, если это окажется бесполезным.
+>
+> **_Связи._** Морганта — мать **ночных карг** Беллы и Офалии, и торговец сонными пирожками для баровийского беженца [[Arc H - The Lost Soul#H3b. Franz's Tent|Франца]].
+
+Морганта тепло приветствует игроков, называя их «усталыми путниками», и выражает надежду, что дорога была не слишком тяжела для них. Она свободно делится следующей информацией при расспросах:
+
+- Она разносчица, продающая выпечку «добрым людям Баровии».
+- Она только возвращается после дня торговли среди жителей Валлаки и «бедных, голодных душечек», стоящих лагерем у ворот. (Её последнее замечание относится к лагерю баровийских беженцев, которым не разрешили войти в город.)
+- Она живёт в старой мельнице на холме с двумя дочерьми, Беллой и Офалией. (Она вежливо отказывается рассказывать, что случилось с её «мужем», говоря лишь: «Это дело старухи, которым она делится, только если захочет».)
+
+У Морганты осталось несколько «сонных пирожков» с рабочего дня — «наполненных светом и любовью грёз» — которые она предлагает игрокам бесплатно как «первый образец». Она советует игрокам, что сонные пирожки вкуснее всего после тёплой еды, «особенно с хорошим вином, чтобы их запить». (Сонные пирожки, если их съесть, действуют на игроков, как описано в **Сонные пирожки**, стр. 125.)
+
+Если спросят, как ей удаётся безопасно путешествовать по дорогам, Морганта лишь улыбается и обещает игрокам, что «у старухи есть свои хитрости». («Но», — жалуется она, — «моя спина и бедные ноги иногда жалуются. Не могу дождаться, чтобы подержать их в тазу с хорошей горячей водой, когда приду домой».)
+
+Если игроки просятся войти в её дом, Морганта извиняется за недостаток гостеприимства, но отмечает, что она устала и не готова к гостям. (Игроки могут, говорит она, заглянуть в другой день, если захотят.)
+
+Когда разговор иссякает, Морганта желает игрокам безопасного путешествия и сообщает им, что они могут найти её у ворот Валлаки в будущем, если захотят купить ещё пирожков.
+
+Перед уходом Морганта предупреждает игроков, что стражники у ворот Валлаки конфискуют серебряные монеты и видимые серебряные предметы у путников в качестве налога. «Но», — говорит она, постукивая по носу с озорной, щербатой усмешкой, — «вы этого не слышали от меня».
+
+> [!abstract]+ **Морганта раскрыта**
+> Если игрок распознаёт дьявольскую природу Морганты, например, используя **_божественное чутьё_** паладина, и противостоит ей из-за этого, она замирает, затем поздравляет его с проницательностью. Затем она сладко улыбается и отмечает, что не нарушает никаких законов, спрашивая: «Разве преступление — быть таким, каким тебя создали?» Если игрок настаивает на атаке, она добавляет: «И заслуживает ли такое преступление немедленной казни?»
+>
+> Если игроки настаивают, что да, она немедленно опускается на колени, саркастически умоляя о милосердии и возможности покаяться. «Позвольте мне вернуться домой и поразмыслить о моих грехах», — добавляет она, ухмыляясь. При нападении она исчезает, используя свою способность **_бестелесность_**, хихикая.
+>
+> Если игроки приближаются к мельнице, она уведомляет Беллу и Офалию, которые присоединяются к ней в Эфирном Плане. Если игроки пытаются повредить или разрушить мельницу, карги возвращаются в Материальный План и предупреждают их остановиться под страхом смерти. См. [[Arc H - The Lost Soul#Morgantha Gets Suspicious|Морганта становится подозрительной]] для получения дополнительной информации о конфликте с каргами. (В мельнице сейчас нет детей, и их не будет до начала [[Arc H - The Lost Soul]].)
+
+# C10. Тёмные леса
+
+Путешествие от Старой Мельницы до **Города Валлаки** составляет пять и три четверти мили и занимает два часа. Когда игроки совершают это путешествие, зачитайте:
+
+<div class="description"><p>Извилистая долинная дорога огибает склон горы, продвигаясь на север. Тёмный лес цепляется за противоположную сторону дороги, высокие узловатые деревья подступают так близко, как осмеливаются. Вы слышите шелест ветра в листве и случайный скрип ветвей. Время от времени кажется, что деревья шепчутся между собой или шевелят древними корнями в старой гнилой подстилке.</p>
+<p>По мере того как дорога продолжается, лес поглощает её с обеих сторон. Деревья возвышаются высоко над вашими головами, закрывая всё, кроме малейших намёков серого света. Воздух становится густым и тяжёлым от запаха мха и гниющих листьев; вдали вы слышите булькающее карканье ворона, за которым следует звук хлопающих крыльев.</p>
+<p>Вскоре становится ясно, что ваше присутствие в этой мрачной земле не осталось незамеченным. Ворон следует за вами несколько минут, держась на почтительном расстоянии.</p></div>
+
+Эта встреча разворачивается, как описано в <span class="citation">Рои воронов (стр. 32)</span>, к отряду присоединяются два **роя воронов**. Если замаскированная Мюриэль с отрядом и способна летать, она взлетает вместе со стаей, но пристально следит за игроками во время путешествия.
+
+Когда игроки продолжают путь по дороге, зачитайте:
+
+<div class="description"><p>Впереди деревья на севере расступаются, открывая травянистое поле. Высокие травы покачиваются на холодном ветру, поле простирается до берегов тёмного, далёкого озера. Туман стелется вдоль берега. Даже издалека вы слышите тихий плеск воды о камни.</p></div>
+
+Если [[Non-Player Characters#Ireena Kolyana|Ирина]] с отрядом, она замирает и спрашивает игроков, может ли отряд сделать небольшой крюк через поле к озеру. Если спросят, она отмечает лишь, что озеро кажется ей странно знакомым.
+
+Озеро Зарович описано в <span class="citation">L. Озеро Зарович (стр. 38)</span>, но без лодок на берегу и видимой лодки Блуто.
+
+Прибыв к берегу озера, Ирина с тревогой отмечает, что это, похоже, то самое озеро, которое она видела во снах. (Если она ещё не рассказывала, Ирина рассказывает историю своего сна, описанную в [[#C4d. The Dancing Fire]] выше.)
+
+Однако Ирина уверена, что никогда не посещала это озеро с Исмарком и отцом, Коляном. Она неуверена в значении этого, но погружается в раздумья, если игрок напоминает ей, что отец нашёл её блуждающей по Старым Свалишским лесам ребёнком.
+
+# C11. Охота оборотней
+
+Когда игроки продолжают путь по дороге, зачитайте:
+
+<div class="description"><p>Так же быстро, как появилось, поле вновь поглощается лесом, деревья снова смыкаются вокруг вас. Тёмный подлесок шелестит и шевелится на ветру, и тяжесть леса давит со всех сторон. Вы не можете избавиться от ощущения, что за вами как-то наблюдают.</p></div>
+
+Если у одного из игроков пассивная Мудрость (Восприятие) 14 или выше, или если один из игроков преуспевает в проверке Мудрости (Восприятие) Сл 14, добавьте:
+
+<div class="description">
+<p>Гуманоидная тень мелькает вдали — затем исчезает из виду.</p>
+</div>
+
+Тень принадлежит **оборотню**. Его спутники — три **волка** и ещё один **оборотень** — таятся в лесу неподалёку.
+
+Оборотни не нападают сразу, предпочитая дождаться идеального момента для удара. Если игроки продолжают путь по дороге, зачитайте:
+
+<div class="description"><p>Лесная дорога приводит вас на небольшую лесную поляну, круглая линия деревьев усеяна густыми зарослями, покрытыми мхом валунами и скалистыми выступами.</p>
+<p>Затем, без предупреждения, пять волков выскакивают из леса, жёлтые глаза блестят, морды оскалены!</p></div>
+
+Пусть игроки, **волки**, **оборотни** (в форме волка) и (если они с отрядом) Ирина, два **роя воронов** и Мюриэль (**вороворон** в форме ворона) бросят инициативу. Любой персонаж с пассивной Мудростью (Восприятие) ниже 14 застигнут врасплох.
+
+Измените блоки характеристик волков, как описано в [[#C7a. The Ravine]]. Кроме того, используйте приведённый ниже блок характеристик для оборотней вместо того, что в _Бестиарии_:
+
+<div class="statblock">
+<h2>Оборотень</h2>
+<em>Среднего размера гуманоид (человек, перевёртыш), хаотично-злой</em>
+<hr>
+<strong>Класс Доспеха</strong> 11 в форме гуманоида, 12 (природный доспех) в форме волка или гибрида
+<strong>Хиты</strong> 84 (13d8 + 26)
+<strong>Скорость</strong> 30 футов (40 футов в форме волка)
+<hr>
+<table class="ability-table">
+<thead>
+<tr>
+<th>СИЛ</th>
+<th>ЛОВ</th>
+<th>ТЕЛ</th>
+<th>ИНТ</th>
+<th>МДР</th>
+<th>ХАР</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16 (+3)</td>
+<td>13 (+1)</td>
+<td>14 (+2)</td>
+<td>10 (+0)</td>
+<td>11 (+0)</td>
+<td>10 (+0)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<strong>Навыки</strong> Восприятие +4, Скрытность +3
+<strong>Иммунитеты к урону</strong> дробящий, колющий и рубящий урон от немагических атак, не нанесённых посеребрённым оружием
+<strong>Чувства</strong> пассивное Восприятие 14
+<strong>Языки</strong> Общий (не может говорить в форме волка)
+<strong>Опасность</strong> 3
+<strong>Бонус мастерства</strong> +2
+<hr>
+<p><strong><em>Обострённый слух и обоняние.</em></strong> Оборотень совершает с преимуществом проверки Мудрости (Восприятие), основанные на слухе или обонянии.</p>
+<p><strong><em>Отвращение к серебру.</em></strong> Касаясь серебра или будучи атакованным посеребрённым оружием, оборотень вздрагивает от боли. Если оборотень держит посеребрённый предмет в начале своего хода, он получает 1d4 урона огнём.</p>
+<p><strong><em>Регенерация.</em></strong> Оборотень восстанавливает 10 хитов в начале своего хода. Если оборотень получает урон некротической энергией или от посеребрённого оружия, эта способность не работает в начале следующего хода оборотня. Оборотень умирает, только если начинает свой ход с 0 хитов и не регенерирует.</p>
+<p><strong><em>Стайная тактика.</em></strong> Оборотень совершает с преимуществом броски атаки по существу, если в пределах 5 футов от существа находится дееспособный союзник оборотня.</p>
+<h3>Действия</h3>
+<p><strong><em>Мультиатака.</em></strong> Оборотень совершает две атаки: две копьём (в форме гуманоида) или одну укусом и одну когтями (в форме волка или гибрида).</p>
+<p><strong><em>Укус (только в форме волка или гибрида).</em></strong> Рукопашная атака оружием: +5 к попаданию, досягаемость 5 футов, одна цель. Попадание: 7 (1d8 + 3) колющего урона. Вместо нанесения урона оборотень может схватить цель (Сл высвобождения 11). Кроме того, если цель — гуманоид, она должна преуспеть в спасброске Телосложения Сл 13, иначе становится проклятой ликантропией оборотня.</p>
+<p><strong><em>Когти (только в форме волка или гибрида).</em></strong> Рукопашная атака оружием: +5 к попаданию, досягаемость 5 футов, одно существо. Попадание: 8 (2d4 + 3) рубящего урона. Если цель — существо, она должна преуспеть в спасброске Силы Сл 13, иначе будет сбита с ног.</p>
+<p><strong><em>Копьё (только в форме гуманоида).</em></strong> Рукопашная или дальнобойная атака оружием: +5 к попаданию, досягаемость 5 футов или дистанция 20/60 футов, одно существо. Попадание: 6 (1d6 + 3) колющего урона, или 7 (1d8 + 3) колющего урона при использовании двумя руками для рукопашной атаки.</p>
+<h3>Бонусные действия</h3>
+<p><strong><em>Смена формы.</em></strong> Оборотень превращается в гибрид волка и гуманоида, или в волка, или принимает свою истинную форму — гуманоида. Его характеристики, кроме КД, одинаковы во всех формах. Любое снаряжение, которое он носит или несёт, сливается с новой формой. Он возвращается в истинную форму после смерти.</p>
+</div>
+
+В бою **волки** действуют сообща, используя **_Когти_**, чтобы сбить персонажей с ног, а затем **_Терзание_**, чтобы схватить лежащие цели. Когда волки оттащат схваченного персонажа от группы, **оборотни** переключают внимание на него и атакуют **_укусом_**. Первый персонаж, ставший целью таким образом, замечает, что оборотни немного крупнее остальных трёх волков и имеют разумные, пугающе человеческие глаза.
+
+Оборотень бежит, если начинает свой ход с 20 или менее хитами и не регенерирует, или если начинает свой ход с 0 хитов три раза подряд. Выжившие волки вскоре следуют за ним.
+
+Если оборотни погибают, они возвращаются к своим истинным формам: молодой человек с бледной веснушчатой кожей и поджарым мускулистым телосложением, и крепко сложенный молодой человек с жестоким лицом и тёмными маслянистыми волосами. На боку каждого — кровавая, сырая, заражённая рана — источник их ликантропического проклятия.
+
+Любые игроки, провалившие спасбросок против проклятия ликантропии, вскоре обнаруживают, что хотя хиты восстанавливаются нормально, изначальная рана остаётся косметически кровавой и сырой — как описано в рукописи Ван Рихтена о проклятии оборотня. Следующее полнолуние наступает ночью шестого дня после прибытия игроков в Валлаки.
+
+> [!combat]- **Бой — Охота оборотней**
+> **Уровень сложности**: Подавляющий
+> **Ожидаемый уровень персонажей**: 3
+> **Союзники:** Два роя воронов (ОП 1/4), Ирина Коляна (ОП 1)
+> **Ожидаемый расход хитов:** 84%
+>
+> ### **Враги:**
+>
+> |          | 3 игрока | 4 игрока | 5 игроков | 6 игроков |
+> | -------- | -------- | -------- | --------- | --------- |
+> | Оборотень | 2        | 2        | 2         | 2         |
+> | Волк     | 1        | 2        | 3         | 4         |
+
+> [!info]+ **Ликантропия в Баровии**
+>
+> В Баровии проклятие ликантропии распространяется, как описано в **Персонажи-ликантропы** (<span class="citation">Бестиарий, стр. 207</span>). Однако заражённый игрок или другое существо не получает автоматически никаких изменений характеристик или Класса Доспеха, равно как и преимуществ блока характеристик ликантропа (например, иммунитетов или регенерации).
+>
+> Вместо этого заражённое существо получает преимущества ликантропии только при превращении в гибридную форму в ночь полнолуния. В это время существо становится НИП под контролем Мастера до рассвета, после чего теряет преимущества ликантропии.
+>
+> Заражённое существо может принять проклятие ликантропии — и тем самым получить все его преимущества — выполнив определённую задачу, зависящую от природы проклятия:
+>
+> - Заражённый **оборотень** должен добровольно убить невинного гуманоида, без страха или ненависти, и пожрать его плоть.
+> - Заражённый **вороворон** должен потерять сознание, добровольно пытаясь защитить другого гуманоида от (как он считает) почти неминуемой смерти.
+>
+> Заражённого ликантропа можно узнать по шраму от раны, которая изначально передала проклятие. Рана никогда полностью не заживёт и останется сырой и кровоточащей, пока проклятие не будет снято.
+>
+> Ребёнок двух ликантропов обладает всеми преимуществами ликантропии с рождения и может научиться контролировать своё проклятие с возрастом. Ребёнок, рождённый с ликантропией таким образом, не может быть исцелён ничем, кроме заклинания _исполнение желаний_.
+>
+> Наконец, пока туманы остаются, лунный цикл в Баровии ускорен: полнолуние наступает раз в две недели, а не раз в четыре. **Первое полнолуние, которое игроки переживут, произойдёт 8-го Неявра — на шестую ночь после их первого прибытия в Валлаки.**
+
+> [!abstract]+ **Исцеление ликантропии игроков**
+> Игроки могут узнать от Мартиковых из Таверны «Синяя Вода», доктора Рудольфа ван Рихтена или Казимира Великова из лагеря Вистани у Валлаки, что следующее полнолуние произойдёт на их шестую ночь после первого входа в Валлаки. По мере приближения ночи полнолуния заражённые ликантропией игроки испытывают кошмары возрастающей тяжести, а также растущий аппетит к сырому мясу.
+>
+> Игроки, заражённые ликантропией **оборотня**, смогут искать лечение в [[Arc I - The Walls of Krezk]] после встречи с доктором Рудольфом ван Рихтеном в [[Arc E - The Missing Vistana]]. Игроки соответствующего класса также могут исцелить себя и других от ликантропии, применив _снятие проклятия_ по достижении 5-го уровня. (Отец Лукьян из Церкви Святого Андраля в Валлаки не может читать это заклинание и поэтому не может излечить ликантропию.)
+
+> [!warning]+ **Принятие ликантропии оборотня**
+> Как отмечено в [[Session Zero]], эта кампания рассчитана на героических персонажей игроков, а не на злодейских. Поэтому она несовместима с персонажами, решившими принять ликантропию **оборотня**, убив и пожрав невинного гуманоида. Если игрок выразит интерес к этому, предупредите его, что принятие проклятия превратит его текущего персонажа в злодейского НИП, требуя создания нового персонажа.
+
+# C12. Город Валлаки
+
+## C12a. Врата Валлаки
+
+Дорога продолжается к **Городу Валлаки**, в целом как описано в <span class="citation">Подход к городу (стр. 95)</span>. Однако удалите первое предложение описательного текста и добавьте следующий текст в конце первого абзаца:
+
+<div class="description"><p>Более дюжины ветхих шатров разбито у частокольной стены. Среди них десятки оборванных, изможённых людей бродят или сидят у едва тлеющих костров и подстилок, их пустые взгляды молча следят за вашим приближением.</p></div>
+
+Если игроки выехали из Тсер-Пула тем утром, они прибывают в Валлаки в сумерках.
+
+Если [[Non-Player Characters#Ireena Kolyana|Ирина]] заметно путешествует с отрядом, добавьте:
+
+<div class="description"><p>Некоторые из них смотрят на Ирину с тусклым узнаванием, но никто не поднимает руки в приветствии и не делает никаких жестов теплоты.</p></div>
+
+Эта область, Утренние Врата, в целом описана в <span class="citation">Городские врата (стр. 95)</span>. Шатры — это лагерь баровийских беженцев, приютивший тех, кто выжил в пути из деревни Баровия после осады Страда.
+
+### Лагерь беженцев
+
+Если она с отрядом, [[Non-Player Characters#Ireena Kolyana|Ирина]] убита горем и разгневана при виде лагеря беженцев. Она предлагает встретиться с беженцами, пока игроки ищут жильё в городе, и обещает присоединиться к ним позже. Игроки могут отговорить её успешной проверкой Харизмы (Убеждение) Сл 10. В противном случае Ирина подходит к одному из костров, одна или — если игроки настояли на присоединении — в компании.
+
+Обитатели лагеря беженцев, среди которых Эмерик, меланхоличный пожилой мужчина, и Магда, убитая горем молодая женщина, могут поделиться следующей информацией:
+
+- Баровийские беженцы прибыли к вратам Валлаки несколько недель назад, но им запретили входить. Когда они попытались прорваться силой, стражники позвали человека по имени Айзек, у которого была искривлённая дьявольская рука, и он призвал огонь, чтобы отогнать беженцев.
+- С тех пор беженцы разбили лагерь у стен города, собравшись вместе для защиты и тепла. Им удалось добыть некоторые необходимые вещи, например шатры, подкупив стражников у ворот, но они не смогли убедить их впустить их или хотя бы пригласить городского Барона обсудить их положение.
+- Рои летучих мышей и стаи волков преследуют лагерь каждую ночь с момента их прибытия. К счастью, пока никто не погиб, но несколько беженцев ранены.
+- Из-за потерь, понесённых в пути, и угрозы Дьявола в Замке Равенлофт беженцы не желают рисковать, возвращаясь домой, вместо этого надеясь дождаться, пока Барон образумится и позволит им войти в стены.
+- Примерно четверть беженцев стала зависимой от «пирожков со снами», еды, которую продаёт торговка Морганта. Эти беженцы ищут побега от нищеты и отчаяния своего положения. Те, кто съедает пирожок со снами, впадают в транс, как описано в <span class="citation">Пирожки со снами (стр. 125)</span>.
+
+Беженцы погружены в отчаяние. Некоторые помнят суеверие, что рыжеволосые баровийские женщины приносят несчастье, и предполагают, что сама Ирина навлекла проклятие на их народ. Мало кто желает иметь с ней дело.
+
+После общения с беженцами Ирина разгневана бессердечием Барона и клянётся приложить все усилия, чтобы добиться допуска беженцев в Валлаки.
+
+### Стражники у ворот
+
+Стражники у ворот в целом действуют, как описано в <span class="citation">Городские врата (стр. 95)</span>. У одного посеребрённое копьё, у другого — колчан с дюжиной арбалетных болтов, половина из которых посеребрена.
+
+Стражники требуют, чтобы каждый сначала представился. После этого каждый игрок должен показать зубы («Чтобы доказать, что вы не вампиры») и ненадолго подвергнуться воздействию ожерелья с головками чеснока («Чтобы доказать, что вы не оборотни»). (Барон неверно сообщил своим стражникам, что оборотни страдают сильной аллергией на чеснок.)
+
+Затем стражники требуют, чтобы каждый игрок заплатил 1 золотую монету в качестве пошлины за вход в деревню. Стражники отказываются принимать плату за беженцев, которым Барон специально запретил входить, ссылаясь на опасения «болезней, непокорности и злонамеренного несчастья».
+
+Если игроки платят пошлину, стражники также настаивают, чтобы каждый входящий открыл кошелёк (или эквивалент) и сдал все серебряные монеты, что у него есть. (Если игроки жалуются, стражники заверяют их, что серебро нужно для производства посеребрённого оружия, необходимого для защиты города от оборотней.) В обмен на любые сданные серебряные монеты игроки получают количество медных монет равной стоимости — минус десятипроцентный налог.
+
+Если спросят о жилье, стражники могут поделиться информацией о Таверне «Синяя Вода», как описано в <span class="citation">Знания Валлаки (стр. 96)</span>. Стражники также готовы дать указания к другим достопримечательностям города в обмен на взятку в 1 золотую монету.
+
+Каждый раз, когда игроки проходят через ворота, включая первый, стражники кивают им и произносят любимую фразу Барона: «Всё будет хорошо».
+
+> [!abstract]+ **Судьба Гертруды**
+> Если игроки спрашивают о судьбе Гертруды и дают описание, стражники правдиво отвечают, что не видели никого, похожего на неё.
+
+### Вход в город
+
+Когда игроки проходят по главной улице Валлаки, зачитайте:
+
+<div class="description"><p>Вы переходите с земляной дороги на мощёные улицы, грязь пачкает ваши сапоги и низ штанов. Позади вас ворота захлопываются с грохотом, и вы видите, как стражники возвращаются на посты за ними. Вдалеке видны ещё две фигуры с пиками, патрулирующие стены и глядящие на искривлённый лес за ними.</p>
+<p>С карнизов зданий свисают старые знамёна и потрёпанные ткани, хлопающие и извивающиеся на холодном ветру. На знамёнах нарисованы выцветшие слова и иллюстрации, но время лишило их и читаемости, и красоты, что могла когда-то быть.</p>
+<p>Мерцающий свет свечей виднеется за закрытыми ставнями городских домов, и гуманоидные тени движутся за задёрнутыми занавесками. Длинные тени таятся в переулках, где трава растёт высокой и спутанной под запятнанным и провисшим деревом зданий наверху.</p>
+<p>Улицы пусты, хотя вы видите одинокую фигуру в плаще, удаляющуюся от вас по центральной дороге. Вдалеке за стенами воет одинокий волк, и холодный порыв ветра прорезает ночь, как нож.</p></div>
+
+Фигура в плаще — Виллемина Рикалова, как описано в <span class="citation">Церковь Святого Андраля (стр. 97)</span>. Она идёт в церковь молиться за освобождение своего сына, Удо Люковича.
+
+Пока персонажи проходят по улицам, их замечает Эрнст Ларнак, который внимательно наблюдает за ними — хотя не следует за ними — как описано в <span class="citation">Желание леди Вахтер (стр. 124)</span>. (Эрнст пока не передаёт приглашение на ужин к леди Вахтер, хотя возвращается в <span class="citation">N4. Вахтерхаус (стр. 110)</span>, чтобы доложить леди Вахтер, когда игроки скроются из виду.)
+
+## C12b. Таверна «Синяя Вода»
+
+<span class="citation"><em>Эта сцена происходит в Главе 5: Область N2.</em></span>
+
+Эта область в целом описана в <span class="citation">N2. Таверна «Синяя Вода» (стр. 98)</span>. Если Мюриэль присутствует, она прощается с игроками мягкой, сентиментальной трелью, затем улетает к другим воронам, отдыхающим на крыше. (Если игроки позже вернутся в таверну, чтобы найти её, её там нет.)
+
+Когда игроки впервые прибывают, в таверне находятся следующие значимые НИП:
+
+- Даника Доракова, которая разливает напитки и обслуживает посетителей в **N2c. Общий зал**;
+- Урвин Мартиков, который печёт хлеб и варит свекольный суп в **N2e. Кухня**;
+- Бром и Брей Мартиковы, которые играют с игрушками в **N20. Спальня мальчиков**; и
+- Риктавио, который рассказывает истории посетителям в **N2c. Общий зал**, включая Николая и Карла Вахтеров.
 
 ![[Vallaki_Martikovs.png]]
 
-<span class="credit">"The Martikovs of the Blue Water Inn" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Мартиковы из Таверны „Синяя Вода"» работы Калеба Кливленда. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Urwin Martikov**
+> [!profile]+ **Профиль: Урвин Мартиков**
 >
-> **Roleplaying Information** > **_Resonance._** Urwin should inspire amusement with his bad puns and jokes, gratitude for his fatherly counsel and support, and comfort from his compassion and sincerity.
+> **Информация для отыгрыша** > **_Резонанс._** Урвин должен вызывать веселье своими плохими каламбурами и шутками, благодарность за его отеческие советы и поддержку, и комфорт от его сострадания и искренности.
 >
-> **_Emotions._** Urwin most often feels amused, satisfied, cheerful, thoughtful, concerned, and hopeful.
+> **_Эмоции._** Урвин чаще всего чувствует себя весёлым, удовлетворённым, бодрым, задумчивым, обеспокоенным и полным надежды.
 >
-> **_Motivations._** Urwin wants to raise his children well, serve guests with hospitality and skill, and see the people of Barovia freed from Strahd’s tyranny.
+> **_Мотивации._** Урвин хочет хорошо воспитать своих детей, обслуживать гостей с гостеприимством и мастерством и видеть людей Баровии освобождёнными от тирании Страда.
 >
-> **_Inspirations._** When playing Urwin, channel Vander (Arcane), Greg Universe (Steven Universe), and Linda Belcher (Bob's Burgers).
+> **_Вдохновение._** При отыгрыше Урвина вдохновляйтесь Вандером (Аркейн), Грегом Юнивёрсом (Вселенная Стивена) и Линдой Белчер (Закусочная Боба).
 >
-> **Character Information** > **_Persona._** To the world, Urwin is a kind fatherly figure, family man, and welcoming host with an ever-present twinkle in his eye. To those he trusts, Urwin is a cunning spymaster and tactician with fierce hope for the future of Barovia. Deep down, Urwin fears for his sons’ futures in a realm ruled by Strahd.
+> **Информация о персонаже** > **_Образ._** Для мира Урвин — добрый отцовский персонаж, семейный человек и гостеприимный хозяин с неизменной искоркой в глазах. Для тех, кому доверяет, Урвин — хитрый шпион и тактик с яростной надеждой на будущее Баровии. В глубине души Урвин боится за будущее своих сыновей в царстве под властью Страда.
 >
-> **_Morale._** In a fight, Urwin would immediately attempt to defuse the situation, and attempt to flee if unsuccessful—though not before escorting anyone else out of harm's way.
+> **_Мораль._** В бою Урвин немедленно попытается разрядить ситуацию и попытается бежать, если не удастся — но не раньше, чем выведет всех из-под удара.
 >
-> **_Relationships._** Urwin is the father of Brom and Bray Martikov and the husband of Danika Dorakova. He is also the exiled son of Davian Martikov, and the beloved older brother of Adrian, Elvir, and Stefania Martikov. In addition to co-owning the Blue Water Inn, Urwin is the spymaster of the [[Lore of Barovia#Keepers of the Feather|Keepers of the Feather]].
+> **_Отношения._** Урвин — отец Брома и Брея Мартиковых и муж Даники Дораковой. Он также изгнанный сын Давиана Мартикова и любимый старший брат Адриана, Эльвира и Стефании Мартиковых. Помимо совладения Таверной «Синяя Вода», Урвин — глава разведки [[Lore of Barovia#Keepers of the Feather|Хранителей Перьев]].
 
-> [!profile]+ **Profile: Danika Dorakova**
+> [!profile]+ **Профиль: Даника Доракова**
 >
-> **Roleplaying Information** > **_Resonance._** Danika should inspire amusement with her “straight-man,” good-natured banter with Urwin, gratitude for her hospitality and motherly care, and comfort from her practical, down-to-earth nature and her fierce dedication to her family, home, and guests.
+> **Информация для отыгрыша** > **_Резонанс._** Даника должна вызывать веселье своей добродушной пикировкой с Урвином в роли «прямого человека», благодарность за её гостеприимство и материнскую заботу, и комфорт от её практичной, приземлённой натуры и яростной преданности семье, дому и гостям.
 >
-> **_Emotions._** Danika most often feels fond, satisfied, congenial, determined, defiant, and affectionate.
+> **_Эмоции._** Даника чаще всего чувствует нежность, удовлетворение, радушие, решимость, непокорность и привязанность.
 >
-> **_Motivations._** Danika wants to keep her family safe, run a successful business, and ensure that her children one day see sunlight over Barovia.
+> **_Мотивации._** Даника хочет защитить свою семью, вести успешный бизнес и убедиться, что её дети однажды увидят солнечный свет над Баровией.
 >
-> **_Inspirations._** When playing Danika, channel Tenzin (Avatar: The Legend of Korra), Bob Belcher (Bob's Burgers), and Garnet (Steven Universe).
+> **_Вдохновение._** При отыгрыше Даники вдохновляйтесь Тензином (Аватар: Легенда о Корре), Бобом Белчером (Закусочная Боба) и Гранат (Вселенная Стивена).
 >
-> **Character Information** > **_Persona._** To the world, Danika is a practical, no-nonsense businesswoman with a heart of gold. To those she trusts, Danika is a fierce mother with a deep dedication to the Martikov clan. Deep down, Danika is grimly prepared to defend those she loves—at any cost necessary.
+> **Информация о персонаже** > **_Образ._** Для мира Даника — практичная, деловая женщина с золотым сердцем. Для тех, кому доверяет, Даника — яростная мать с глубокой преданностью клану Мартиковых. В глубине души Даника мрачно готова защищать тех, кого любит — любой ценой.
 >
-> **_Morale._** In a fight, Danika would swiftly attempt to de-escalate, but would fight to the death to defend her family or her guests.
+> **_Мораль._** В бою Даника быстро попытается деэскалировать ситуацию, но будет сражаться до смерти, защищая свою семью или гостей.
 >
-> **_Relationships._** Danika is the mother of Brom and Bray Martikov and the wife of Urwin Martikov. In addition to co-owning the Blue Water Inn, Danika is a high-ranking member of the [[Lore of Barovia#Factions#Keepers of the Feather|Keepers of the Feather]].
+> **_Отношения._** Даника — мать Брома и Брея Мартиковых и жена Урвина Мартикова. Помимо совладения Таверной «Синяя Вода», Даника — высокопоставленный член [[Lore of Barovia#Factions#Keepers of the Feather|Хранителей Перьев]].
 
-### Entering the Inn
+### Вход в таверну
 
-The taproom is as described in <span class="citation">N2c. Taproom (p. 100)</span>. However, add the following text to the end of this area's description:
+Общий зал описан в <span class="citation">N2c. Общий зал (стр. 100)</span>. Однако добавьте следующий текст в конец описания этой области:
 
 <div class="description">
-<p>Nearly a dozen Vallakians sit scattered across the various tables, nursing mugs of wine or bowls of hearty stew. Along the staircase, a colorfully dressed man wearing a feathered, wide-brimmed hat gestures wildly at the head of a long table, holding the rapt attention of the several patrons sitting there. You hear a wave of laughter ripple through the group, followed by a smattering of light applause.</p>
+<p>Почти дюжина валлакийцев сидят за разными столами, потягивая кружки вина или миски сытного рагу. Вдоль лестницы красочно одетый мужчина в широкополой шляпе с пером дико жестикулирует во главе длинного стола, держа в напряжённом внимании нескольких сидящих там посетителей. Вы слышите волну смеха, прокатившуюся по группе, за которой следуют редкие аплодисменты.</p>
 </div>
 
-The man is the ringmaster Rictavio, who is largely as described in <span class="citation">Rictavio (p. 238)</span> and <span class="citation">N2c. Taproom (p. 100)</span>. Two of the five listeners at his table are Nikolai and Karl Wachter, who are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+Мужчина — распорядитель цирка Риктавио, который в целом описан в <span class="citation">Риктавио (стр. 238)</span> и <span class="citation">N2c. Общий зал (стр. 100)</span>. Двое из пяти слушателей за его столом — Николай и Карл Вахтеры, которые описаны в <span class="citation">N2c. Общий зал (стр. 100)</span>.
 ![[Rictavio.png]]
-<span class="credit">"Rictavio" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">«Риктавио» работы Калеба Кливленда. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-When the players first enter the inn, [[Non-Player Characters#Danika Dorakova|Danika]], who is waiting tables, greets them and asks them to wait at the bar while she tends to other patrons.
+Когда игроки впервые входят в таверну, [[Non-Player Characters#Danika Dorakova|Даника]], которая обслуживает столы, приветствует их и просит подождать у стойки, пока она обслуживает других посетителей.
 
-If the characters approach the bar, [[Non-Player Characters#Urwin Martikov|Urwin]] exits the kitchen carrying a tray of fresh-baked bread, hot beet stew, and wolf steaks, which he sets down on the bar. (The food smells mouthwateringly delicious.) Szoldar Szoldarovich and Yevgeni Krushkin are also seated at the bar, and are as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+Если персонажи подходят к стойке, [[Non-Player Characters#Urwin Martikov|Урвин]] выходит из кухни с подносом свежеиспечённого хлеба, горячего свекольного рагу и волчьих стейков, который ставит на стойку. (Еда пахнет невероятно аппетитно.) Шольдар Шольдарович и Евгений Крушкин тоже сидят у стойки, и описаны в <span class="citation">N2c. Общий зал (стр. 100)</span>.
 
-Urwin greets the players warmly and welcomes them to the Blue Water Inn. If the players don't direct the conversation elsewhere, he notes that they look like travelers and asks if they need rooms for the night.
+Урвин тепло приветствует игроков и добро пожаловать в Таверну «Синяя Вода». Если игроки не направляют разговор в другое русло, он замечает, что они выглядят путешественниками, и спрашивает, нужны ли им комнаты на ночь.
 
-Before Urwin can reply to the players, Danika returns and apologizes to the players for her delay. Assuming the players do not interrupt, the conversation then proceeds as follows:
+Прежде чем Урвин успевает ответить игрокам, возвращается Даника и извиняется перед игроками за задержку. Если игроки не перебивают, разговор продолжается следующим образом:
 
-- Danika lightheartedly accuses Urwin of plotting to rent rooms to guests "for free" again, an allegation that Urwin cheerfully denies.
-- Danika tells the players that Urwin has already allowed one other guest to stay free and would "bankrupt the inn" with generosity if she weren't there to keep the books. (Urwin graciously concedes the point.)
-- "After all," Urwin says cheekily, "why else did I marry you?" With a smile, Danika replies, "A rare instance of common sense, I imagine."
-- Danika pecks Urwin's cheek with a kiss and says, "The table by the window is getting hungry." Urwin winks at the players, picks up the tray again, and exits the bar to deliver the food.
+- Даника шутливо обвиняет Урвина в планировании сдавать комнаты гостям «бесплатно» снова, обвинение, которое Урвин весело отрицает.
+- Даника говорит игрокам, что Урвин уже позволил одному гостю остаться бесплатно и «разорил бы таверну» своей щедростью, если бы её не было рядом вести книги. (Урвин любезно соглашается.)
+- «В конце концов», — говорит Урвин игриво, — «зачем ещё я на тебе женился?» С улыбкой Даника отвечает: «Редкий случай здравого смысла, полагаю».
+- Даника чмокает Урвина в щёку и говорит: «Стол у окна проголодался». Урвин подмигивает игрокам, снова берёт поднос и выходит из-за стойки, чтобы доставить еду.
 
-Danika then tells the players the rates for room and board, as listed in <span class="citation">N2. Blue Water Inn (p. 98)</span>. (Both the large guest room, <span class="citation">N2m. Guest Room (p. 102)</span>, as well as the two small guest rooms, <span class="citation">N2l. Guest Rooms (p. 102)</span>, are available for rent.) When Urwin returns, he offers to take the players' orders for dinner, assuming they're hungry.
+Затем Даника сообщает игрокам расценки на комнату и питание, как указано в <span class="citation">N2. Таверна «Синяя Вода» (стр. 98)</span>. (Как большая гостевая комната, <span class="citation">N2m. Гостевая комната (стр. 102)</span>, так и две маленькие гостевые комнаты, <span class="citation">N2l. Гостевые комнаты (стр. 102)</span>, доступны для аренды.) Когда Урвин возвращается, он предлагает принять заказы игроков на ужин, если они голодны.
 
-The players then have a few minutes to talk with Urwin and Danika or amongst themselves. During this conversation, Urwin and Danika can provide the players with information about Rictavio, the Festival of the Blazing Sun (which will take place in five days at noon), and the nearby Vistani camp, as described in <span class="citation">Vallaki Lore (p. 96)</span>.
+У игроков есть несколько минут, чтобы поговорить с Урвином и Даникой или между собой. Во время этого разговора Урвин и Даника могут предоставить игрокам информацию о Риктавио, Фестивале Пылающего Солнца (который состоится через пять дней в полдень) и близлежащем лагере Вистани, как описано в <span class="citation">Знания Валлаки (стр. 96)</span>.
 
-Both Urwin and Danika can provide directions to any major landmark inside of Vallaki, including **N1. St. Andral's Church**, **N5. Arasek Stockyard**, and **N8. Town Square**. If the players ask about the inn's other guest, Urwin and Danika can also share information about Rictavio, which is largely as described in <span class="citation">N2c. Taproom (p. 100)</span>, except that Rictavio first arrived that same morning.
+Как Урвин, так и Даника могут указать направление к любой крупной достопримечательности внутри Валлаки, включая **N1. Церковь Святого Андраля**, **N5. Склад Арасеков** и **N8. Городская площадь**. Если игроки спрашивают о другом госте таверны, Урвин и Даника также могут поделиться информацией о Риктавио, которая в целом описана в <span class="citation">N2c. Общий зал (стр. 100)</span>, за исключением того, что Риктавио прибыл только этим утром.
 
-The inn's most recent shipment of wine is slightly late, but has not been sufficiently delayed as to make Urwin alarmed. As such, he does not ask the players to investigate the Wizard of Wines at this point. (This quest will not become available until the players reach level 5. See [[Arc J - The Stolen Gem]] for more information.)
+Последняя поставка вина в таверну немного задержалась, но недостаточно, чтобы встревожить Урвина. Поэтому он пока не просит игроков расследовать ситуацию на Винодельне Волшебника Вин. (Это задание станет доступно только когда игроки достигнут 5-го уровня. См. [[Arc J - The Stolen Gem]] для дополнительной информации.)
 
-If the players order food or wine in the taproom, [[Non-Player Characters#Danika Dorakova|Danika]] offers to seat them at the long table at the south end of the taproom and promises that they'll be served shortly. (See **Map 5.2: Blue Water Inn**.)
+Если игроки заказывают еду или вино в общем зале, [[Non-Player Characters#Danika Dorakova|Даника]] предлагает усадить их за длинный стол в южной части общего зала и обещает, что их скоро обслужат. (См. **Карта 5.2: Таверна «Синяя Вода»**.)
 
-### The Ringmaster's Tale
+### Рассказ распорядителя
 
-If any of the players approach Rictavio's table, Nikolai and Karl Wachter urge them to have a seat. "He's about to tell a story," Nikolai whispers loudly. (Szoldar Szoldarovich, the wolf hunter, has turned his chair away from the bar to listen in.)
+Если кто-либо из игроков подходит к столу Риктавио, Николай и Карл Вахтеры призывают их присесть. «Он собирается рассказать историю», — громко шепчет Николай. (Шольдар Шольдарович, охотник на волков, отвернул свой стул от стойки, чтобы послушать.)
 
-> [!profile]+ **Profile: Rictavio**
+> [!profile]+ **Профиль: Риктавио**
 >
-> **Roleplaying Information** > **_Resonance._** Rictavio should inspire amusement for his flamboyant dress, his ringmaster’s extravagance, and his colorful manner of speech, which most often includes referring to himself in the third person.
+> **Информация для отыгрыша** > **_Резонанс._** Риктавио должен вызывать веселье своей яркой одеждой, экстравагантностью распорядителя и колоритной манерой речи, которая чаще всего включает упоминание себя в третьем лице.
 >
-> **_Emotions._** To onlookers, Rictavio most often appears to feel amused, delighted, or satisfied.
+> **_Эмоции._** Для наблюдателей Риктавио чаще всего кажется весёлым, восхищённым или удовлетворённым.
 >
-> **_Motivations._** Rictavio wants to maintain his reputation as an amusing, though somewhat outrageous carnival ringmaster.
+> **_Мотивации._** Риктавио хочет поддерживать свою репутацию забавного, хотя и несколько эксцентричного циркового распорядителя.
 >
-> **_Inspirations._** When planning Rictavio, channel Varrick (Avatar: The Legend of Korra) or a stereotypical carnival barker.
+> **_Вдохновение._** При планировании Риктавио вдохновляйтесь Варриком (Аватар: Легенда о Корре) или стереотипным ярмарочным зазывалой.
 >
-> **Character Information** > **_Persona._** To the world, Rictavio appears as a flamboyant, irreverent, and occasionally narcissistic carnival ringmaster.
+> **Информация о персонаже** > **_Образ._** Для мира Риктавио выглядит яркой, непочтительной и иногда нарциссической фигурой циркового распорядителя.
 >
-> **_Morale._** In a fight, Rictavio would attempt to fast-talk his way out of trouble, fleeing from battle if hostilities seem unavoidable. (He might, however, step in to defend an innocent from harm at the hands of the supernatural—though doing his best to preserve his secret identity.)
+> **_Мораль._** В бою Риктавио попытается отговориться от неприятностей, бежав от битвы, если враждебности кажутся неизбежными. (Однако он может вмешаться, чтобы защитить невинного от вреда со стороны сверхъестественного — хотя и стараясь сохранить свою тайную личность.)
 >
-> **_Relationships._** Rictavio is secretly Dr. Rudolph van Richten, the famed vampire hunter.
+> **_Отношения._** Риктавио на самом деле — доктор Рудольф ван Рихтен, знаменитый охотник на вампиров.
 
-After clearing his throat, Rictavio shares the following story:
+Прокашлявшись, Риктавио рассказывает следующую историю:
 
 <div class="description">
-<p>The vampire Count Belasco kept his coffin, not in a crypt or keep, but in the cellar of an old, decrepit inn, which was managed by his servant, Igoron.</p>
-<p>Poor Count Belasco had a terrible secret: In his ancient age, his scalp was beginning to rot, his hair falling out in great clumps and knots. In embarrassment, he commanded Igoron to purchase a beautiful raven-black wig, hoping to preserve the handsome, younger man he had once been.</p>
-<p>"A handsome man indeed," agreed one of his guests—an elderly, near-blind widow named Olivenka—one particular moonlit night. Dear Olivenka kept to herself, spending her days sorting and re-sorting her late husband's rock collection, which she kept lovingly in her purse. Despite the Count's odd behavior and pale skin, she suspected nothing, her old vision too blurry to make out the fangs that poked down amidst his teeth.</p>
-<p>As always, the Count felt an urge to feed upon her—and though her flattering words quelled his interest, he felt the thirst in his fangs all the same. "Igoron!" he boomed. "Fetch my coat—I'm going hunting."</p>
-<p>"Yes, sire," Igoron wheezed. As he returned, he whimpered, "Best be back before dawn, milord. I'm cleaning the curtains tonight. Want you nice and safe in your coffin before sunrise."</p>
-<p>Count Belasco scoffed. "Fear not, simple Igoron," he boasted. "I know well the hour of my enemy. Not a thing could stir my spirit to linger beneath its dreadful rays."</p>
-<p>And so the Count departed. He lurked in alleyways and prowled across rooftops—yet he found not a single morsel to sate his thirst. It was with surprise, that the hungry, defeated Count finally looked up to the velvet skies and saw the periwinkle-grey of approaching morning.</p>
-<p>With panic, he flew through the streets. Four blocks away. A streak of orange began to slice across the sky. Three blocks. Two—</p>
-<p>—the door to the inn slammed shut behind him.</p>
-<p>"Goodness," Olivenka said, yawning atop the staircase. "Have you been out all night?"</p>
-<p>In an eyeblink, the Count's great silhouette towered far above her. "Yes," he growled. "But I've only just found what I've been looking for. Olivenka—<i>I want to suck your blood!</i>"</p>
-<p>Ordinarily, one of Count Belasco's victims would scream, flee, or faint—yet he had made one, terrible mistake.</p>
-<p>He had forgotten that Olivenka's cataract-ridden eyes couldn't quite see his fangs.</p>
-<p>"You disgusting man!" Olivenka screeched, and whirled eighteen years' worth of rare rocks and minerals directly toward his head. There was a terrible thud—and a terrible splintering of wood—and Count Belasco went tumbling down to the floor below. When he opened his eyes, he saw Olivenka staring in horror, not at him, but at his <i>head</i>—his <i>bare</i> head.</p>
-<p>There, just beneath the eastern window, lay his beloved wig. He dove for it, claws outstretched—and a sliver of sunlight grazed across his skin.</p> 
-<p>There was a sizzle, a hiss, and a burst of smoke and flame. Olivenka, purse clutched to her chest, watched in awe as Count Belasco succumbed to the morning light, until all that remained was a smoldering heap of ash and a charred, smoking wig.</p>
+<p>Граф-вампир Беласко держал свой гроб не в склепе или крепости, а в подвале старой, ветхой таверны, которой управлял его слуга Игорон.</p>
+<p>У бедного графа Беласко был ужасный секрет: в его древнем возрасте скальп начал гнить, волосы выпадали большими клоками и колтунами. От смущения он приказал Игорону купить прекрасный иссиня-чёрный парик, надеясь сохранить образ красивого молодого человека, каким он когда-то был.</p>
+<p>«Красивый мужчина, воистину», — согласилась одна из его гостей — пожилая, почти слепая вдова по имени Оливенка — одной лунной ночью. Милая Оливенка держалась особняком, проводя дни, сортируя и пересортируя коллекцию камней покойного мужа, которую она с любовью хранила в сумочке. Несмотря на странное поведение графа и бледную кожу, она ничего не подозревала, её старое зрение было слишком размытым, чтобы разглядеть клыки, торчащие меж его зубов.</p>
+<p>Как всегда, граф чувствовал желание напиться её крови — и хотя её лестные слова угасили его интерес, он всё равно ощущал жажду в клыках. «Игорон!» — прогремел он. «Принеси моё пальто — я иду на охоту».</p>
+<p>«Да, господин», — прохрипел Игорон. Возвращаясь, он проскулил: «Лучше вернитесь до рассвета, милорд. Я чищу шторы этой ночью. Хочу, чтобы вы были в своём гробу в безопасности до восхода солнца».</p>
+<p>Граф Беласко фыркнул. «Не бойся, простак Игорон», — хвастливо сказал он. «Я хорошо знаю час моего врага. Ничто не заставит мой дух задержаться под его ужасными лучами».</p>
+<p>И граф отправился. Он таился в переулках и рыскал по крышам — но не нашёл ни единой добычи, чтобы утолить жажду. С удивлением голодный, побеждённый граф наконец поднял взгляд к бархатным небесам и увидел барвинково-серый цвет приближающегося утра.</p>
+<p>В панике он полетел по улицам. Четыре квартала. Оранжевая полоса начала прорезаться по небу. Три квартала. Два—</p>
+<p>—дверь таверны захлопнулась за ним.</p>
+<p>«Боже мой», — сказала Оливенка, зевая на лестнице. «Вы были снаружи всю ночь?»</p>
+<p>В мгновение ока великая тень графа нависла над ней. «Да», — прорычал он. «Но я только что нашёл то, что искал. Оливенка — <i>я хочу высосать твою кровь!</i>»</p>
+<p>Обычно одна из жертв графа Беласко закричала бы, убежала или упала в обморок — но он совершил одну ужасную ошибку.</p>
+<p>Он забыл, что поражённые катарактой глаза Оливенки не совсем видели его клыки.</p>
+<p>«Отвратительный мужлан!» — завизжала Оливенка и швырнула восемнадцатилетнюю коллекцию редких камней и минералов прямо ему в голову. Раздался ужасный удар — и ужасный треск дерева — и граф Беласко полетел на пол внизу. Когда он открыл глаза, то увидел, как Оливенка в ужасе смотрит не на него, а на его <i>голову</i> — его <i>голую</i> голову.</p>
+<p>Там, прямо под восточным окном, лежал его любимый парик. Он бросился к нему, вытянув когти — и лучик солнечного света скользнул по его коже.</p>
+<p>Раздалось шипение, треск и вспышка дыма и пламени. Оливенка, прижав сумочку к груди, с благоговением наблюдала, как граф Беласко поддался утреннему свету, пока от него не осталась лишь тлеющая куча пепла и обугленный, дымящийся парик.</p>
 </div>
 
-"Poor Olivenka never quite got over it," Rictavio concludes, his eyes twinkling. "After all—it was quite the 'hair-raising' experience!" As his listeners boo, guffaw, and applaud, he bows, then waves to Danika for another round of drinks. As she approaches, Brom and Bray run past her into the kitchen, giggling.
+«Бедная Оливенка так и не оправилась от этого», — заключает Риктавио, его глаза искрятся. «В конце концов — это был поистине „волосоподъёмный" опыт!» Пока его слушатели освистывают, хохочут и аплодируют, он кланяется, затем машет Данике за новой порцией напитков. Пока она подходит, Бром и Брей пробегают мимо неё на кухню, хихикая.
 
-If spoken with, Rictavio is willing to share the following information over drinks:
+Если с ним заговорят, Риктавио готов поделиться следующей информацией за напитками:
 
-- He is Rictavio, a half-elf carnival ringmaster having traveled long and far in search of new acts for his circus. He's not entirely sure how he wound up in Barovia, but he's working to make the most of it. (This is a lie. A DC 16 Wisdom (Insight) check reveals that Rictavio's words sound a bit too smooth and practiced.)
-- He recently arrived that morning, and took up residence in the Blue Water Inn's private suite. "The good innkeepers have generously let me stay in exchange for tales and good humor," he notes, smiling.
+- Он — Риктавио, полуэльфийский распорядитель цирка, много и далеко путешествовавший в поисках новых артистов для своего цирка. Он не совсем уверен, как оказался в Баровии, но старается извлечь из этого максимум пользы. (Это ложь. Проверка Мудрости (Проницательность) Сл 16 показывает, что слова Риктавио звучат слишком гладко и отрепетированно.)
+- Он недавно прибыл этим утром и поселился в отдельном номере Таверны «Синяя Вода». «Добрые трактирщики любезно позволили мне остаться в обмен на истории и хорошее настроение», — отмечает он с улыбкой.
 
-During the conversation, Rictavio subtly attempts to learn more information than he reveals, hoping to glean the players' identities, capabilities, relationships, and histories in and beyond Barovia. If asked why he seems to be so curious, he bombastically insists that he's always in search of new tales to add to his repertoire.
+Во время разговора Риктавио тонко пытается узнать больше информации, чем раскрывает, надеясь выяснить личности, способности, отношения и истории игроков внутри и за пределами Баровии. Если спросят, почему он кажется таким любопытным, он напыщенно настаивает, что всегда в поиске новых историй для своего репертуара.
 
-When he's finished his drink, Rictavio takes another flourishing bow and excuses himself. As he does, Nikolai and Karl boo and urge Rictavio to tell another story. "We've heard one about a stupid Count," Nikolai says. "What about a stupid Baron?"
+Когда он допивает свой напиток, Риктавио делает ещё один размашистый поклон и откланивается. При этом Николай и Карл освистывают его и призывают Риктавио рассказать ещё одну историю. «Мы слышали про глупого графа», — говорит Николай. «А как насчёт глупого барона?»
 
-If the players don't intervene, the following sequence of events then occurs:
+Если игроки не вмешиваются, следует следующая последовательность событий:
 
-- The table and nearby taproom go silent, with many patrons eyeing Nikolai and Rictavio nervously.
-- From his place at the bar, Szoldar rumbles, "Best not, boy." (Behind him, Yevgeni grunts, then echoes, "Best not.")
-- Karl scoffs. "Cowards, the lot of you," he says, glancing about him. "Not a funny bone in your bodies."
-- Rictavio clears his throat. "Alas, my friends," he says, "but the day has been long, and I must retire. Another day, perhaps." As Nikolai and Karl groan and turn back to their drinks, Rictavio bows with a flourish, then ascends the stairs to <span class="citation">N2n Private Guest Room (p. 102)</span>.
+- Стол и ближайший зал затихают, многие посетители нервно посматривают на Николая и Риктавио.
+- Со своего места у стойки Шольдар рокочет: «Лучше не надо, парень». (За ним Евгений хмыкает, затем повторяет: «Лучше не надо».)
+- Карл фыркает. «Трусы, все вы», — говорит он, оглядываясь. «Ни капли юмора».
+- Риктавио откашливается. «Увы, друзья мои», — говорит он, — «но день был долгим, и мне пора удалиться. В другой раз, возможно». Пока Николай и Карл стонут и возвращаются к своим напиткам, Риктавио кланяется с размахом, затем поднимается по лестнице в <span class="citation">N2n Отдельный номер (стр. 102)</span>.
 
-Any player who watches as Rictavio makes his way along **N2j. Great Balcony** sees him pass Brom and Bray, who are crouched along the balcony in front of **N2o. Boys' Bedroom**. (The boys are dangling the stuffed bat described in <span class="citation">N2o. Boys' Bedroom (p. 102)</span> over the bar below, giggling while Nikolai and Karl drunkenly swat at it. The boys used the <span class="citation">N2i. Secret Stairs and Hall (p. 101)</span> to scamper quietly from the kitchen to the balcony while the players were drinking, unseen by the inn's patrons.)
+Любой игрок, наблюдающий, как Риктавио проходит по **N2j. Большому балкону**, видит, что он проходит мимо Брома и Брея, которые пригнулись на балконе перед **N2o. Спальней мальчиков**. (Мальчики свесили чучело летучей мыши, описанное в <span class="citation">N2o. Спальня мальчиков (стр. 102)</span> над баром внизу, хихикая, пока Николай и Карл пьяно отмахиваются от него. Мальчики использовали <span class="citation">N2i. Тайную лестницу и коридор (стр. 101)</span>, чтобы тихо пробраться из кухни на балкон, пока игроки пили, незамеченные посетителями таверны.)
 
-### The Brothers Wachter
+### Братья Вахтеры
 
-If the players linger at Rictavio's table, the Wachter brothers are happy (if prodded) to rant about:
+Если игроки задерживаются у стола Риктавио, братья Вахтеры рады (если их подтолкнуть) поворчать о:
 
-- the Festival of the Blazing Sun,
-- Vallaki's recent history of festivals,
-- the Baron's response to those who speak ill of the festivals, and
-- the flashes of purple light that have been seen from the attic of **N3. Burgomaster's Mansion**
+- Фестивале Пылающего Солнца,
+- недавней истории фестивалей Валлаки,
+- строгих правилах Барона относительно его фестивалей — и судьбе тех, кто плохо о них отзывается,
+- вспышках пурпурного света, которые видели из чердака **N3. Особняк Бургомистра**
 
-(See <span class="citation">Vallaki Lore (p. 96)</span>). Once the players have won the brothers' trust, the conversation proceeds as described in <span class="citation">N2c. Taproom (p. 100)</span>.
+(См. <span class="citation">Знания Валлаки (стр. 96)</span>). Когда игроки завоюют доверие братьев, разговор продолжается, как описано в <span class="citation">N2c. Общий зал (стр. 100)</span>.
 
-Through conversation, it becomes evident that the brothers have a deep, personal enmity toward Izek Strazni and the Vallakovich family. However, neither brother will reveal the underlying reason—Stella Wachter's illness (see [[Arc H - The Lost Soul]])—unless the players ask and succeed on a DC 20 Charisma (Persuasion) check.
+Из разговора становится очевидным, что братья питают глубокую, личную вражду к Айзеку Стражни и семье Валлаковичей. Однако ни один из братьев не раскроет истинную причину — болезнь Стеллы Вахтер (см. [[Arc H - The Lost Soul]]) — если игроки не спросят и не преуспеют в проверке Харизмы (Убеждение) Сл 20.
 
-At some point during the conversation, Danika approaches the table to clear away empty plates. As she does, Nikolai cheerfully demands more wine. If the players don't intervene, the conversation proceeds as follows:
+В какой-то момент во время разговора Даника подходит к столу, чтобы убрать пустые тарелки. При этом Николай весело требует ещё вина. Если игроки не вмешиваются, разговор продолжается следующим образом:
 
-- [[Non-Player Characters#Danika Dorakova|Danika]] greets Karl and Nikolai by name, and asks, "Haven't you already had too much to drink, boys?"
-- Nikolai waves away her words and says, "Nonsense—we've only begun! Two pints of wine to start, and keep them coming."
-- Danika replies, "Can I start you with some Purple Grapemash No. 3?" Nikolai scoffs and says, "What do you take us for—tasteless peasants? Red Dragon Crush, and don't be stingy."
-- As she pours their wine, Danika says idly, "Does your mother know what you're up to this evening?" Karl waits until he receives his pint, then grunts, "Mother's far too busy these days. And what she doesn't know can't hurt her." ("Or us," Nikolai charms in, elbowing his brother. The two chuckle, then return to their drinks.)
+- [[Non-Player Characters#Danika Dorakova|Даника]] приветствует Карла и Николая по имени и спрашивает: «Вы разве уже не выпили слишком много, мальчики?»
+- Николай отмахивается от её слов и говорит: «Чепуха — мы только начали! Две пинты вина для начала, и не останавливайтесь».
+- Даника отвечает: «Может, начнём с Пурпурного Виноградного Жмыха № 3?» Николай фыркает и говорит: «За кого вы нас принимаете — безвкусных крестьян? Красный Драконий Урожай, и не скупитесь».
+- Наливая им вино, Даника небрежно говорит: «Ваша мать знает, чем вы заняты сегодня вечером?» Карл ждёт, пока получит свою пинту, затем бурчит: «Мать слишком занята в последнее время. А чего она не знает, не повредит ей». («Или нам», — вставляет Николай, толкая брата локтем. Оба хихикают, затем возвращаются к напиткам.)
 
-If the players ask Urwin or Danika about the Wachter brothers, Urwin can tell them the information listed in <span class="citation">N2c. Taproom (p. 100)</span>. If the players ask about their mother, or about their words about a "stupid Baron," Urwin becomes visibly uneasy, and promises to speak with the players further in the morning.
+Если игроки спрашивают Урвина или Данику о братьях Вахтерах, Урвин может рассказать информацию, указанную в <span class="citation">N2c. Общий зал (стр. 100)</span>. Если игроки спрашивают об их матери или о словах про «глупого Барона», Урвин заметно напрягается и обещает поговорить с игроками подробнее утром.
 
-### Eating Dinner
+### Ужин
 
-Shortly after Rictavio's story concludes, if the players ordered dinner, [[Non-Player Characters#Danika Dorakova|Danika]] approaches their table with a tray of food. As she serves them, she is suddenly jostled from behind, sending one of the bowls of soup tumbling from her grasp. The two players sitting at the northernmost end of the table must make DC 10 Dexterity saving throws, catching the bowl on a success. (If both players succeed, the player with the higher result catches the bowl first. If neither player succeeds, the bowl topples onto the floor, spilling the soup.)
+Вскоре после окончания истории Риктавио, если игроки заказали ужин, [[Non-Player Characters#Danika Dorakova|Даника]] подходит к их столу с подносом еды. Подавая им, её внезапно толкают сзади, отчего одна из мисок с супом падает с подноса. Два игрока, сидящие у северного конца стола, должны совершить спасброски Ловкости Сл 10, ловя миску при успехе. (Если оба игрока преуспеют, игрок с более высоким результатом ловит миску первым. Если ни один игрок не преуспеет, миска падает на пол, проливая суп.)
 
-Danika turns, revealing the culprit: a red-cheeked Brom Martikov wearing one of the painted wooden clown masks as described in <span class="citation">N2o. Boy' Bedroom (p. 102)</span>. (Bray Martikov, wearing the other mask of the pair, is cowering behind one of the chairs of the nearest table.)
+Даника оборачивается, обнаруживая виновника: раскрасневшегося Брома Мартикова в одной из раскрашенных деревянных масок клоуна, описанных в <span class="citation">N2o. Спальня мальчиков (стр. 102)</span>. (Брей Мартиков, в другой маске из пары, съёжился за одним из стульев ближайшего стола.)
 
-If the players do not interrupt, Danika scolds the boys as follows:
+Если игроки не перебивают, Даника отчитывает мальчиков следующим образом:
 
-- Danika sharply (though not unkindly) addresses Brom and Bray by their full names. Both children snap to attention.
-- Danika asks the boys, "What did your father tell you about wearing those masks in the taproom?" Both boys remove their masks, flushed, and Brom says, sheepishly, "We're not supposed to do it."
-- Danika then asks the boys, "And what did I tell you about running in the taproom?" The two are quiet, then Bray pipes up, " . . . we're not s'posed to do it?" Danika replies, "Exactly."
+- Даника резко (хотя и не грубо) обращается к Брому и Брею по полным именам. Оба ребёнка вытягиваются по струнке.
+- Даника спрашивает мальчиков: «Что ваш отец говорил вам о ношении этих масок в общем зале?» Оба мальчика снимают маски, покраснев, и Бром смущённо говорит: «Нам нельзя это делать».
+- Затем Даника спрашивает мальчиков: «А что я вам говорила о беготне в общем зале?» Оба молчат, затем Брей подаёт голос: «...нам нельзя это делать?» Даника отвечает: «Именно».
 
-If the soup was spilled, Danika directs Bray to fetch a pail of water from **N2a. Well** outside, and Brom to fetch a mop from the kitchen to clean up the mess. If the soup wasn't spilled, Danika reminds the boys that they're supposed to be helping their father cook dinner, and shoos them into the kitchen.
+Если суп был пролит, Даника велит Брею принести ведро воды из **N2a. Колодец** снаружи, а Брому — принести швабру из кухни, чтобы убрать беспорядок. Если суп не был пролит, Даника напоминает мальчикам, что они должны помогать отцу готовить ужин, и гонит их на кухню.
 
-In either case, Danika apologizes to the players and offers them free meals the following evening. If the players ask about Brom and Bray, Danika smiles fondly and says, "They can be a handful sometimes, but they're good boys."
+В любом случае Даника извиняется перед игроками и предлагает им бесплатную еду на следующий вечер. Если игроки спрашивают о Броме и Брее, Даника нежно улыбается и говорит: «Иногда с ними бывает непросто, но они хорошие мальчики».
 
-If the players ask about the children's masks, Danika tells them that Urwin bought them from the local toymaker, Gadof Blinsky, who works at <span class="citation">N7. Blinsky Toys (p.118)</span>.
+Если игроки спрашивают о масках детей, Даника говорит, что Урвин купил их у местного игрушечника, Гадофа Блинского, который работает в <span class="citation">N7. Игрушки Блинского (стр. 118)</span>.
 
-The taproom slowly clears out over the following two hours. Nikolai and Karl Wachter stumble outside and collapse in the inn's shed, too drunk to make their way home.
+Общий зал постепенно пустеет в течение следующих двух часов. Николай и Карл Вахтеры выползают наружу и падают в сарае таверны, слишком пьяные, чтобы добраться домой.
 
-If the players rented rooms for the night, [[Non-Player Characters#Danika Dorakova|Danika]] eventually approaches their table and offers to show them to their rooms. (See **N2l. Guest Rooms** and <span class="citation">N2m. Guest Room (p. 102)</span>). During the tour, Danika lets them know that they're free to request fresh linens or a tub of hot water (for a bath) be brought up to their rooms. "Breakfast is served at first light," she says warmly, and adds, "Feel free to let us know if you need anything else."
+Если игроки сняли комнаты на ночь, [[Non-Player Characters#Danika Dorakova|Даника]] в конце концов подходит к их столу и предлагает проводить их в комнаты. (См. **N2l. Гостевые комнаты** и <span class="citation">N2m. Гостевая комната (стр. 102)</span>). Во время экскурсии Даника сообщает им, что они могут попросить принести в комнаты свежее бельё или лохань с горячей водой (для ванны). «Завтрак подаётся с первыми лучами солнца», — тепло говорит она и добавляет: «Дайте нам знать, если вам что-нибудь понадобится».
 
-**_Milestone._** When the players take their first long rest in Vallaki, award each player 1,000 XP. (This should bring the players to 4th level.) If the players successfully escorted Ireena to Vallaki, they earn an additional 250 XP. (The players don't need to bring Ireena to St. Andral's church to receive this XP.)
+**_Веха._** Когда игроки впервые берут продолжительный отдых в Валлаки, наградите каждого игрока 1000 опыта. (Это должно поднять игроков до 4-го уровня.) Если игроки успешно сопроводили Ирину в Валлаки, они получают дополнительно 250 опыта. (Игрокам не нужно приводить Ирину в церковь Святого Андраля, чтобы получить этот опыт.)
 
-## C12c. Morning in Vallaki
+## C12c. Утро в Валлаки
 
-### Urwin's Advice
+### Совет Урвина
 
-When the players first emerge from their rooms onto <span class="citation">N2k. Guest Balcony</span> the following morning, [[Non-Player Characters#Urwin Martikov|Urwin]]—who is taking down the chairs from the taproom tables—asks them to come downstairs to the bar to speak.
+Когда игроки впервые выходят из своих комнат на <span class="citation">N2k. Гостевой балкон</span> следующим утром, [[Non-Player Characters#Urwin Martikov|Урвин]] — который снимает стулья со столов в общем зале — просит их спуститься к стойке поговорить.
 
-Lowering his voice, Urwin warns the players that they must be cautious in Vallaki—both due to the town's harsh system of law enforcement and recent political tensions. Urwin can share the following additional information, as described in <span class="citation">Vallaki Lore (p. 96)</span>:
+Понизив голос, Урвин предупреждает игроков, что они должны быть осторожны в Валлаки — как из-за суровой системы правопорядка города, так и из-за недавней политической напряжённости. Урвин может поделиться следующей дополнительной информацией, как описано в <span class="citation">Знания Валлаки (стр. 96)</span>:
 
-- The date of the Festival of the Blazing Sun, which will take place from dawn to noon of the players' fifth full day in Vallaki,
-- Vallaki's recent history of festivals,
-- The Baron's strict rules regarding his festivals—and the fates of those who speak ill of them,
-- The brutish nature and terrible strength of Izek Strazni, the baron's henchman. ("Many have tried to test his strength," Urwin notes grimly. "All have failed.")
+- Дата Фестиваля Пылающего Солнца, который пройдёт с рассвета до полудня на пятый полный день игроков в Валлаки,
+- Недавняя история фестивалей Валлаки,
+- Строгие правила Барона относительно его фестивалей — и судьбы тех, кто плохо о них отзывается,
+- Грубая натура и ужасная сила Айзека Стражни, приспешника барона. («Многие пытались испытать его силу», — мрачно отмечает Урвин. «Все потерпели неудачу».)
 
-Urwin quietly notes, however, that the Baron is known to be highly susceptible to flattery—and that should the players ever need to win his favor, his ego may be a prime target.
+Однако Урвин тихо замечает, что Барон, как известно, весьма восприимчив к лести — и если игрокам когда-нибудь понадобится завоевать его расположение, его эго может стать главной целью.
 
-If the players ask whether the Baron has any enemies in Vallaki, Urwin can also share the information about Lady Fiona Wachter described in <span class="citation">Vallaki Lore (p. 96)</span>. However, instead of describing Lady Wachter's "mad daughter," Urwin shares only that Lady Fiona has a daughter, Stella Wachter, who Lady Wachter has recently kept cloistered on the grounds of Wachterhaus for unknown reasons.
+Если игроки спрашивают, есть ли у Барона враги в Валлаки, Урвин также может поделиться информацией о леди Фионе Вахтер, описанной в <span class="citation">Знания Валлаки (стр. 96)</span>. Однако вместо описания «безумной дочери» леди Вахтер, Урвин сообщает лишь, что у леди Фионы есть дочь, Стелла Вахтер, которую леди Вахтер недавно держит взаперти на территории Вахтерхауса по неизвестным причинам.
 
-As Urwin's conversation draws to a close, Rictavio descends the stairs from <span class="citation">N2n. Private Guest Room</span> and approaches the bar, greeting the players with a nod. Urwin bids him good morning and removes a small parcel from beneath the counter, which Rictavio accepts and tucks into his cloak.
+Когда разговор Урвина подходит к концу, Риктавио спускается по лестнице из <span class="citation">N2n. Отдельный номер</span> и подходит к стойке, приветствуя игроков кивком. Урвин желает ему доброго утра и достаёт небольшой свёрток из-под стойки, который Риктавио принимает и прячет под плащ.
 
-> [!abstract]+ **What's In the Parcel?**
-> If asked, Urwin can inform the players that the parcel merely contains food—a few apples, some loaves of bread, and a wheel of cheese.
+> [!abstract]+ **Что в свёртке?**
+> Если спросят, Урвин может сообщить игрокам, что свёрток содержит просто еду — несколько яблок, буханки хлеба и головку сыра.
 
-### Following the Ringmaster
+### Слежка за распорядителем
 
-If one or more players follow Rictavio out of the Blue Water Inn, they can follow him to <span class="citation">N2f. Stable (p. 101)</span> without difficulty.
+Если один или несколько игроков следуют за Риктавио из Таверны «Синяя Вода», они могут без труда проследить за ним до <span class="citation">N2f. Конюшня (стр. 101)</span>.
 
-Once inside, Rictavio removes the parcel from his coat, withdraws two apples, and proceeds to feed them to his horse, Drusilla. Once Drusilla has finished eating, Rictavio checks his surroundings, forcing any hidden players to succeed on a DC 18 group Dexterity (Stealth) check or be detected.
+Оказавшись внутри, Риктавио достаёт свёрток из-под плаща, вынимает два яблока и кормит ими свою лошадь Друзиллу. Когда Друзилла заканчивает есть, Риктавио осматривает окрестности, заставляя спрятавшихся игроков преуспеть в групповой проверке Ловкости (Скрытность) Сл 18, чтобы остаться незамеченными.
 
-> [!info]+ **Group Checks**
-> See <span class="citation">Group Checks (<em>Player's Handbook</em>, p. 175)</span> for more information on how to use group ability checks.
+> [!info]+ **Групповые проверки**
+> См. <span class="citation">Групповые проверки (<em>Книга игрока</em>, стр. 175)</span> для получения дополнительной информации об использовании групповых проверок характеристик.
 
-> [!abstract]+ **Detecting Magic**
-> If a player casts _detect magic_ while in Rictavio's presence, they can immediately notice:
+> [!abstract]+ **Обнаружение магии**
+> Если игрок применяет _обнаружение магии_ в присутствии Риктавио, он сразу замечает:
 >
-> - the aura of illusion magic surrounding his _hat of disguise_,
-> - the aura of enchantment magic surrounding his _ring of mind shielding_, and
-> - the aura of abjuration magic surrounding his _amulet of proof against detection and location_, which he wears hidden beneath his shirt.
+> - ауру магии иллюзий вокруг его _шляпы маскировки_,
+> - ауру магии очарования вокруг его _кольца защиты разума_, и
+> - ауру магии ограждения вокруг его _амулета защиты от обнаружения и определения местоположения_, который он носит спрятанным под рубашкой.
 
-If he detects any players, Rictavio calls out to them and notes, amusedly, that it's impolite to lurk in dark places. He then lightheartedly interrogates them, doing his best to uncover their purpose in following him while avoiding revealing his true identity.
+Если он обнаруживает игроков, Риктавио окликает их и весело замечает, что таиться в тёмных местах невежливо. Затем он беззаботно расспрашивает их, стараясь выяснить их цель в слежке за ним, при этом избегая раскрытия своей истинной личности.
 
-If asked who the food is for, Rictavio insists that it is for "my friend, the destitute toymaker." (He is referring to Gadof Blinsky, described further in <span class="citation">N7. Blinsky Toys (p. 118)</span>.)
+Если спросят, для кого еда, Риктавио настаивает, что она для «моего друга, нуждающегося игрушечника». (Он имеет в виду Гадофа Блинского, подробнее описанного в <span class="citation">N7. Игрушки Блинского (стр. 118)</span>.)
 
-If confronted regarding his magic items or true identity, Rictavio directs the players to check their surroundings for spies, then demands that they prove themselves not to be spies of Strahd. If the players respond persuasively, he then insists that they swear themselves to secrecy. If they do, his story changes as follows:
+Если его спросят о магических предметах или истинной личности, Риктавио велит игрокам проверить окрестности на шпионов, затем требует, чтобы они доказали, что сами не шпионы Страда. Если игроки отвечают убедительно, он затем настаивает, чтобы они поклялись хранить тайну. Если они это делают, его история меняется следующим образом:
 
-- If the players do not suspect his true identity, Rictavio "reveals" that he is a secret agent of the Keepers of the Feather, a secret society dedicated to resisting Strahd. (His true name, he claims, is classified, for fear that it may lead Strahd to pursue his loved ones.)
-- If the players do suspect his true identity, Rictavio "reveals" that he is Arthur Sedgwick, a former student of Van Richten from a land beyond the Mists, who followed Dr. Van Richten to Barovia when he heard the vampire hunter had gone missing.
+- Если игроки не подозревают его истинную личность, Риктавио «раскрывает», что он тайный агент Хранителей Перьев, тайного общества, посвящённого сопротивлению Страду. (Его настоящее имя, утверждает он, засекречено, из страха, что это может навести Страда на его близких.)
+- Если игроки подозревают его истинную личность, Риктавио «раскрывает», что он Артур Седжвик, бывший ученик Ван Рихтена из земли за Туманами, который последовал за доктором Ван Рихтеном в Баровию, когда услышал, что охотник на вампиров пропал.
 
-These are lies. A DC 18 Wisdom (Insight) check indicates that Rictavio's eyes flicker upwards for a moment before he gives the Keepers' name or Arthur's. If further confronted, Rictavio denies any additional allegations. "Believe what you will," he concedes, shrugging. "What you think is no concern of mine."
+Это ложь. Проверка Мудрости (Проницательность) Сл 18 показывает, что глаза Риктавио на мгновение скользят вверх, прежде чем он произносит имя Хранителей или Артура. Если его дополнительно припереть к стене, Риктавио отрицает любые дополнительные обвинения. «Верьте чему хотите», — соглашается он, пожимая плечами. «Что вы думаете — меня не касается».
 
-Rictavio declines to share further information for fear that Strahd's agents might steal it from them.
+Риктавио отказывается делиться дополнительной информацией из страха, что агенты Страда могут украсть её у них.
 
-If he fails to detect the players, Rictavio uses his _hat of disguise_ to assume the form of a random Vallakian commoner, then slips out of the stable onto the street. He then proceeds to weave through the streets and alleys of Vallaki in a paranoid attempt to lose any followers. A player attempting to follow him must succeed on a DC 18 Wisdom (Perception) check or lose him in the crowd.
+Если ему не удаётся обнаружить игроков, Риктавио использует свою _шляпу маскировки_, чтобы принять облик случайного валлакийского простолюдина, затем выскальзывает из конюшни на улицу. Затем он начинает петлять по улицам и переулкам Валлаки в параноидальной попытке сбросить преследователей. Игрок, пытающийся следовать за ним, должен преуспеть в проверке Мудрости (Восприятие) Сл 18, иначе потеряет его в толпе.
 
-> [!abstract]+ **Following Rictavio**
-> Once he departs the Blue Water Inn's stable, Rictavio proceeds to Arasek Stockyard, where he slips the parcel of food through the slats of the rear door of his wagon. He then provides Arabelle a brief update on the town's activities as she eats, kneeling before the wagon as described in [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
+> [!abstract]+ **Слежка за Риктавио**
+> Покинув конюшню Таверны «Синяя Вода», Риктавио направляется на Склад Арасеков, где просовывает свёрток с едой через щели задней двери своего фургона. Затем он кратко сообщает Арабэлль о событиях в городе, пока она ест, стоя на коленях перед фургоном, как описано в [[Arc E - The Missing Vistana#E8b. Following Rictavio|Arc E - The Missing Vistana]].
 
-### Exiting the Inn
+### Выход из таверны
 
-As the players depart the Blue Water Inn on their first morning in Vallaki, they find the street full of townsfolk. Assuming the players do not interfere, the following scene then unfolds:
+Когда игроки впервые покидают Таверну «Синяя Вода» утром в Валлаки, они обнаруживают улицу, полную горожан. Если игроки не вмешиваются, следующая сцена разворачивается:
 
-- The players hear the sound of a whinnying horse from down the street—and the townsfolk freeze and fall silent. A small procession lies to the south: Baron Vargas Vallakovich (as described in <span class="citation">Roleplaying the Vallakovich Family, p. 105</span>) riding upon his chestnut horse, flanked by his two **mastiffs** named Claw and Fang, and followed by three **guards**. Izek Strazni leads the procession.
-- The players can see that an old, frightened-looking woman wearing threadbare commoner’s clothes has just stumbled away from the horse and fallen into a puddle of mud a few feet away from the horse. The horse has come to an abrupt halt, and the procession has stopped along with it. Izek’s devilish arm is outstretched, suggesting that he has just pushed—or flung—the old woman into the mud. (The woman is Willemina Rikalova, the mother of the imprisoned shoemaker Udo Lukovich.)
-- The Baron angrily scolds the woman for getting mud on his cloak with her “filthy peasant’s hands.” The old woman, her voice quavering, apologizes and pleads with the Baron to release her son, Udo, claiming that he meant no harm with his “foolish joke.”
-- The Baron insists that Udo needs “rehabilitation” for his “malicious unhappiness,” and suggests that the woman does as well. He commands Izek to seize her and lock her in the stocks, suggesting that “a few days in the stocks ought to tighten her tongue.” Izek steps forward, flexing his devilish arm with a cruel glint in his eye.
-- Izek grabs the woman, hauls her to her feet, and thrusts her rudely into the guards’ waiting arms. Two of the guards pull the old woman’s arms behind her back and begin to pull her south as she struggles, weeps, and pleads for her son’s freedom. No townsfolk dare to help her.
-- As the old woman is hauled away, the Baron turns to the townsfolk surrounding him and announces: “Let that be a lesson as to the dangers of malicious unhappiness! The Devil’s hand is long, but our joy shall overcome his shadow.”
+- Игроки слышат ржание лошади со стороны улицы — и горожане замирают и затихают. На юге виднеется небольшая процессия: Барон Варгас Валлакович (как описано в <span class="citation">Отыгрыш семьи Валлаковичей, стр. 105</span>) верхом на каштановой лошади, в сопровождении двух **мастифов** по имени Коготь и Клык, и трёх **стражников**. Процессию возглавляет Айзек Стражни.
+- Игроки видят, что пожилая, испуганная на вид женщина в потрёпанной одежде простолюдина только что отшатнулась от лошади и упала в лужу грязи в нескольких футах от неё. Лошадь резко остановилась, и процессия остановилась вместе с ней. Дьявольская рука Айзека вытянута, что говорит о том, что он только что толкнул — или швырнул — старуху в грязь. (Женщина — Виллемина Рикалова, мать заключённого сапожника Удо Люковича.)
+- Барон сердито отчитывает женщину за то, что она запачкала его плащ грязью своими «грязными крестьянскими руками». Старуха, дрожащим голосом извиняется и умоляет Барона освободить её сына Удо, утверждая, что он не хотел зла своей «глупой шуткой».
+- Барон настаивает, что Удо нуждается в «реабилитации» из-за его «злонамеренного несчастья», и предполагает, что женщина тоже. Он приказывает Айзеку схватить её и заковать в колодки, предполагая, что «несколько дней в колодках должны развязать ей язык». Айзек выступает вперёд, разминая дьявольскую руку со злобным блеском в глазах.
+- Айзек хватает женщину, ставит её на ноги и грубо толкает в ожидающие руки стражников. Двое стражников заламывают руки старухи за спину и начинают тащить её на юг, пока она борется, плачет и умоляет об освобождении сына. Никто из горожан не смеет помочь ей.
+- Пока старуху уволакивают, Барон поворачивается к окружающим его горожанам и объявляет: «Пусть это послужит уроком об опасностях злонамеренного несчастья! Рука Дьявола длинна, но наша радость преодолеет его тень».
   ![[Izek Strazni.png]]
-  <span class="credit">"Izek Strazni" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+  <span class="credit">«Айзек Стражни» работы Калеба Кливленда. Поддержите его на <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
 
-> [!profile]+ **Profile: Baron Vargas Vallakovich**
+> [!profile]+ **Профиль: Барон Варгас Валлакович**
 >
-> **Roleplaying Information** > **_Resonance._** Vargas should inspire frustration with his obstinance, disgust for his narcissistic arrogance, and mild amusement for his utter and ridiculous self-assurance.
+> **Информация для отыгрыша** > **_Резонанс._** Варгас должен вызывать раздражение своим упрямством, отвращение к его нарциссической надменности и лёгкое веселье от его абсолютной и смехотворной самоуверенности.
 >
-> **_Emotions._** Vargas most often feels annoyed, offended, satisfied, outraged, impatient, or smug.
+> **_Эмоции._** Варгас чаще всего чувствует раздражение, оскорблённость, удовлетворение, возмущение, нетерпение или самодовольство.
 >
-> **_Motivations._** Vargas wants to secure his power free from Strahd's influence and lead Vallaki to escape the Mists by forcing everyone in the town to be happy.
+> **_Мотивации._** Варгас хочет укрепить свою власть без влияния Страда и вывести Валлаки из Туманов, заставляя всех в городе быть счастливыми.
 >
-> **_Inspirations._** When playing Vargas, channel Lord Farquaad (Shrek), Joffrey Baratheon (Game of Thrones), and Governor Ratcliffe (Pocahontas).
+> **_Вдохновение._** При отыгрыше Варгаса вдохновляйтесь лордом Фаркуадом (Шрек), Джоффри Баратеоном (Игра престолов) и губернатором Рэтклиффом (Покахонтас).
 >
-> **Character Information** > **_Persona._** To the world, Vargas is an entitled, narcissistic, blue-blooded noble with a bad temper, delusions of salvation, and a love for praise and adoration.
+> **Информация о персонаже** > **_Образ._** Для мира Варгас — заносчивый, нарциссический голубокровный дворянин со скверным характером, манией спасения и любовью к похвале и обожанию.
 >
-> **_Morale._** In a fight, Vargas would command his dogs, Claw and Fang, as well as Izek Strazni and any present guards to seize any who oppose him. If deprived of his defenders, Vargas would either attempt to flee, or—if flight were obstructed—grovel pathetically at the feet of his attacker, begging for mercy.
+> **_Мораль._** В бою Варгас прикажет своим собакам, Когтю и Клыку, а также Айзеку Стражни и присутствующим стражникам схватить любого, кто ему противостоит. Если его лишить защитников, Варгас попытается бежать или — если побег невозможен — жалко упадёт к ногам нападающего, умоляя о пощаде.
 >
-> **_Relationships._** Vargas, the burgomaster of Vallaki, is the father of Victor Vallakovich, the husband of Baroness Lydia Petrovna, the brother-in-law of Father Lucian Petrovich, and the son of the late Baron Valentin Vallakovich. He is also the employer and adoptive "father" of Izek Strazni, his captain of the guard and chief enforcer.
+> **_Отношения._** Варгас, бургомистр Валлаки, — отец Виктора Валлаковича, муж баронессы Лидии Петровны, зять отца Лукьяна Петровича и сын покойного барона Валентина Валлаковича. Он также работодатель и приёмный «отец» Айзека Стражни, его капитана стражи и главного палача.
 
-> [!profile]+ **Profile: Izek Strazni**
+> [!profile]+ **Профиль: Айзек Стражни**
 >
-> **Roleplaying Information** > **_Resonance._** Izek should inspire disgust with his cruelty and indifference to human life, and discomfort with his unnerving interest in Ireena Kolyana.
+> **Информация для отыгрыша** > **_Резонанс._** Айзек должен вызывать отвращение своей жестокостью и безразличием к человеческой жизни, и дискомфорт от его тревожного интереса к Ирине Коляне.
 >
-> **_Emotions._** Izek most often feels irritated, enraged, impatient, sadistic, obsessed, or bored.
+> **_Эмоции._** Айзек чаще всего чувствует раздражение, ярость, нетерпение, садистское удовольствие, одержимость или скуку.
 >
-> **_Motivations._** Izek wants to serve the Baron faithfully—and, far more importantly, find and possess the woman he's been dreaming of.
+> **_Мотивации._** Айзек хочет верно служить Барону — и, что гораздо важнее, найти и завладеть женщиной, которую он видит во снах.
 >
-> **_Inspirations._** When playing Izek, channel Ser Gregor Clegane (Game of Thrones), Fenrir Greyback (Harry Potter), and Kratos (God of War).
+> **_Вдохновение._** При отыгрыше Айзека вдохновляйтесь сиром Грегором Клиганом (Игра престолов), Фенриром Сивым (Гарри Поттер) и Кратосом (God of War).
 >
-> **Character Information** > **_Persona._** To the world, Izek is a cruel and brutish enforcer with a love for fire and blood.
+> **Информация о персонаже** > **_Образ._** Для мира Айзек — жестокий и грубый палач с любовью к огню и крови.
 >
-> **_Morale._** In a fight, Izek would gladly draw his silvered battleaxe and fight to the death.
+> **_Мораль._** В бою Айзек с радостью достанет свой посеребрённый боевой топор и будет сражаться до смерти.
 >
-> **_Relationships._** Izek is the adoptive "son" of Baron Vargas Vallakovich, the captain of Vallaki's town guard, a frequent customer of the toymaker Gadof Blinsky, and (unbeknownst to either of them) the biological brother of Ireena Kolyana.
+> **_Отношения._** Айзек — приёмный «сын» барона Варгаса Валлаковича, капитан городской стражи Валлаки, частый клиент игрушечника Гадофа Блинского и (без ведома обоих) родной брат Ирины Коляны.
 
-If the players interrupt Willemina’s arrest, the Baron greets them as outsiders and asks, with amusement, whether they seek to claim responsibility for the “old fool’s” rehabilitation themselves.
+Если игроки прерывают арест Виллемины, Барон приветствует их как чужаков и спрашивает с насмешкой, не хотят ли они взять на себя ответственность за «реабилитацию» «старой дуры».
 
-**_Diplomacy._** If the players make a successful DC 10 Charisma (Persuasion) check or make an argument that sufficiently flatters the Baron’s ego, he directs the guards to release her into their custody. He welcomes them to Vallaki and pompously commands them to ensure that they educate themselves as to the town’s rules and traditions.
+**_Дипломатия._** Если игроки преуспеют в проверке Харизмы (Убеждение) Сл 10 или приведут аргумент, который достаточно польстит эго Барона, он велит стражникам отпустить её под их опеку. Он приветствует их в Валлаки и напыщенно приказывает им изучить правила и традиции города.
 
-**_Hostility._** If the players indicate a willingness to start a fight, the Baron’s eyes narrow and his mastiffs begin to growl. Meanwhile, Izek’s arm burns with a crimson flame, his grip tightening around the haft of his silvered battleaxe.
+**_Враждебность._** Если игроки демонстрируют готовность начать драку, глаза Барона сужаются, а его мастифы начинают рычать. Тем временем рука Айзека вспыхивает багровым пламенем, его хватка на рукояти посеребрённого боевого топора крепнет.
 
-The Baron first demands to know whether the players are “spies of the Devil Strahd.” The players can attempt to calm the situation and secure Willemina’s arrest peacefully, but any subsequent Charisma checks made to sway the Baron are made with disadvantage.
+Барон сначала требует узнать, не «шпионы ли игроки Дьявола Страда». Игроки могут попытаться успокоить ситуацию и мирно добиться освобождения Виллемины, но любые последующие проверки Харизмы, сделанные для убеждения Барона, совершаются с помехой.
 
-If it appears that combat is imminent, [[Non-Player Characters#Father Lucian Petrovich|Father Lucian Petrovich]] (as described in <span class="citation">N1. St. Andral's Church, p. 97</span>) steps forth from the crowd and urges peace. The Baron greets him warmly by name, and Father Petrovich apologizes for Willemina’s behavior, noting that she has been troubled in recent days at his congregations. He promises to escort her to St. Andral’s Church and see that her troubled mind is eased—a proposition that the Baron reluctantly accepts.
+Если бой кажется неизбежным, [[Non-Player Characters#Father Lucian Petrovich|отец Лукьян Петрович]] (как описано в <span class="citation">N1. Церковь Святого Андраля, стр. 97</span>) выступает из толпы и призывает к миру. Барон тепло приветствует его по имени, и отец Петрович извиняется за поведение Виллемины, отмечая, что она была в смятении в последние дни на его службах. Он обещает сопроводить её в Церковь Святого Андраля и успокоить её встревоженный разум — предложение, которое Барон неохотно принимает.
 
-> [!lore]+ **What's Lucian Doing Here?**
-> After discovering [[Act I - Into the Mists/Arc C - Into the Valley|St. Andral's missing bones]] and sending Yeska to recruit Henrik to leave materials to repair the crypt, Father Petrovich sought out Baron Vallakovich in the hopes of obtaining his help in finding the bones. He decided against it, however, after observing the Baron's mood and behavior in the streets. (Lucian doesn't share this unless he's already told the players about the missing bones in [[Arc D - St. Andral's Feast]]. He will, however, share that he was hoping to ask the Baron about something, but decided against it after seeing the man's current mood.)
+> [!lore]+ **Что здесь делает Лукьян?**
+> Обнаружив [[Act I - Into the Mists/Arc C - Into the Valley|пропавшие кости Святого Андраля]] и послав Йеску пригласить Хенрика принести материалы для ремонта склепа, отец Петрович искал барона Валлаковича в надежде получить его помощь в поиске костей. Однако он передумал после наблюдения за настроением и поведением Барона на улицах. (Лукьян не делится этим, если он ещё не рассказал игрокам о пропавших костях в [[Arc D - St. Andral's Feast]]. Однако он скажет, что хотел спросить Барона кое о чём, но передумал после наблюдения за его настроением.)
 
-The Baron also wonders aloud whether he should punish the players for their insolence. Father Petrovich assures the Baron that they are merely outsiders, untaught in Vallaki’s ways, and that he shall see to it that they are properly educated.
+Барон также вслух задаётся вопросом, не следует ли наказать игроков за их дерзость. Отец Петрович заверяет Барона, что они просто чужаки, не знающие обычаев Валлаки, и что он позаботится об их надлежащем обучении.
 
-The Baron imperiously orders that he see to it, then informs the players that they have caught him “in a good mood,” and that they should be grateful for “the Morninglord’s mercy.” He warns them, however, that future lawbreaking shall be met with harsh punishments.
+Барон высокомерно приказывает ему позаботиться об этом, затем сообщает игрокам, что они застали его «в хорошем настроении» и должны быть благодарны за «милость Утреннего Владыки». Однако он предупреждает их, что будущее нарушение закона будет встречено суровыми наказаниями.
 
-**_Departure._** As the Baron departs the scene, he announces to the crowd: “I shall expect to see you all at the Festival of the Blazing Sun four days hence. All will be well!”
+**_Отбытие._** Покидая сцену, Барон объявляет толпе: «Я ожидаю видеть вас всех на Фестивале Пылающего Солнца через четыре дня. Всё будет хорошо!»
 
-The townsfolk, bearing smiles that better resemble grimaces, grimly intone, “All will be well.” The Baron nods, evidently satisfied, and continues riding north, followed by Izek, his mastiffs, and any remaining guards. The activity of the street resumes shortly thereafter.
+Горожане с улыбками, больше похожими на гримасы, мрачно произносят: «Всё будет хорошо». Барон кивает, явно удовлетворённый, и продолжает двигаться на север, за ним следуют Айзек, его мастифы и оставшиеся стражники. Активность на улице вскоре возобновляется.
 
-If Ireena is with the party, she has drawn up the hood of her cloak upon exiting the inn. Nonetheless, unless the party has taken specific action to prevent Izek from noticing her, he catches Ireena’s eye and holds her gaze for a long, lingering moment before ultimately departing, leaving Ireena feeling uncomfortable and cold. [[Arc G - The Strazni Siblings]] then begins.
+Если Ирина с отрядом, она накинула капюшон плаща при выходе из таверны. Тем не менее, если отряд не предпринял специальных мер, чтобы Айзек её не заметил, он ловит взгляд Ирины и долго, пристально смотрит на неё, прежде чем наконец уйти, оставляя Ирину в неловком ощущении холода. Затем начинается [[Arc G - The Strazni Siblings]].
 
-If asked, Ireena notes with uncertainty that something about Izek seemed almost familiar, though she can’t remember why.
+Если спросят, Ирина неуверенно замечает, что что-то в Айзеке показалось ей почти знакомым, хотя она не может вспомнить почему.
 
-If the players defied Vargas or Izek in any way, or otherwise assisted Willemina, Ernst Larnak reports their actions to Lady Fiona Wachter at Wachterhaus. [[Arc F - Lady Wachter's Wish]] then begins.
+Если игроки каким-либо образом противостояли Варгасу или Айзеку, или иначе помогли Виллемине, Эрнст Ларнак докладывает об их действиях леди Фионе Вахтер в Вахтерхаусе. Затем начинается [[Arc F - Lady Wachter's Wish]].
 
-**_End of an Act._** When the players set off from the Blue Water Inn for their first full day in Vallaki, **Act I** ends and **Act II** begins.
+**_Конец Акта._** Когда игроки отправляются из Таверны «Синяя Вода» на свой первый полный день в Валлаки, **Акт I** заканчивается и начинается **Акт II**.
 
-# Design Notes: Into the Valley
+# Заметки дизайнера: Вглубь долины
 
-## Journey to Vallaki
+## Путешествие в Валлаки
 
-**_The Lansten Family._** The encounters with the Barovian scouts and the undead Lansten family have been added to underscore the tragedy of Strahd's siege on the village of Barovia, to introduce Strahd's undead forces, and to foreshadow Strahd's ultimate plan to turn the Barovians into undead to forge his new army upon escaping the Mists.
+**_Семья Ланстен._** Столкновения с баровийскими разведчиками и нежитью семьи Ланстен были добавлены, чтобы подчеркнуть трагедию осады Страдом деревни Баровия, представить силы нежити Страда и предвосхитить его конечный план по превращению баровийцев в нежить для формирования новой армии при побеге из Туманов.
 
-**_Encounter with Strahd._** Many community encounters with Strahd create situations in which, in order to drive home Strahd's power and cruelty, the players inevitably "lose." Such encounters are likely to frustrate players and engender apathy or despair instead of a tense, yet enjoyable gameplay experience. However, it is equally important that Strahd not be allowed to "lose" his initial encounter with the players, even by proxy (e.g., combat with his minions). To allow Strahd's power to be questioned at this stage would fundamentally undermine his capacity as a villain.
+**_Встреча со Страдом._** Многие сообщества создают встречи со Страдом, в которых, чтобы подчеркнуть его силу и жестокость, игроки неизбежно «проигрывают». Такие встречи могут разочаровать игроков и вызвать апатию или отчаяние вместо напряжённого, но приятного игрового опыта. Однако не менее важно не позволить Страду «проиграть» в первой встрече с игроками, даже косвенно (например, в бою с его приспешниками). Позволить поставить под сомнение силу Страда на этом этапе фундаментально подорвало бы его эффективность как злодея.
 
-As such, this encounter intentionally creates a circumstance in which both Strahd and the players can "win" by the end—the players, by convincing Strahd to let them and Ireena go, and Strahd, by gleaning useful information from the players' arguments and by clearly signalling that he is merely humoring their efforts.
+Поэтому эта встреча намеренно создаёт ситуацию, в которой и Страд, и игроки могут «выиграть» к концу — игроки, убедив Страда отпустить их и Ирину, а Страд, получив полезную информацию из аргументов игроков и чётко дав понять, что он лишь потакает их усилиям.
 
-While running this scene, recall the wise words of Tywin Lannister: "Any man who must say 'I am the king' is no true king." So too for Strahd: allowing the players to successfully irritate, annoy, or otherwise drive him to "punish them" functionally allows the players to gain a certain measure of control over the conversation, reducing Strahd's appearance of real and apparent control, and indicating that Strahd is a petty noble who cares about his own ego. Always remember that, especially at this stage, the players _cannot hurt_ Strahd in any meaningful way—and, as such, he feels no need to hurt _them_ in any meaningful way.
+При проведении этой сцены помните мудрые слова Тайвина Ланнистера: «Любой человек, который должен говорить „Я — король", не настоящий король». То же касается и Страда: позволить игрокам успешно раздражать, злить или иначе провоцировать его на «наказание» фактически даёт игрокам определённую меру контроля над разговором, уменьшая видимость реального и явного контроля Страда и указывая на то, что Страд — мелочный дворянин, заботящийся о своём эго. Всегда помните, что, особенно на этом этапе, игроки _не могут навредить_ Страду сколько-нибудь значимым образом — и поэтому он не чувствует необходимости причинять _им_ значимый вред.
 
-Altogether, the intended effect of this encounter is to introduce the players to Strahd, make the players hate and fear him, put the players on notice of Strahd's minions and servants, to reassure the players that Strahd will be an inevitable antagonist, and to make the players appreciate Strahd's Lawful Evil alignment—that, while inhabiting his Gentleman, he will do them no harm until and unless they give him reason to do so.
+В целом, предполагаемый эффект этой встречи — познакомить игроков со Страдом, заставить их ненавидеть и бояться его, предупредить игроков о приспешниках и слугах Страда, заверить игроков, что Страд будет неизбежным антагонистом, и заставить игроков оценить законно-злое мировоззрение Страда — то, что, находясь в образе Джентльмена, он не причинит им вреда, пока они не дадут ему повода для этого.
 
-**_The Strix._** The greater and lesser strix have been introduced to provide Baba Lysaga and the druids of Yester Hill with a meaningful way of combating the wereravens of the Keepers of the Feather. Muriel has also been added here to foreshadow the Keepers of the Feather, to foreshadow Strahd's prophecy (which the players will have an opportunity to learn after defeating the druids at Yester Hill), and to continue setting up Muriel's existence before her formal introduction at the beginning of the winery quest.
+**_Стриксы._** Большие и малые стриксы были введены, чтобы дать Бабе Лысаге и друидам Холма Вчерашнего Дня значимый способ борьбы с вороворонами из Хранителей Перьев. Мюриэль также была добавлена здесь, чтобы предвосхитить Хранителей Перьев, предвосхитить пророчество Страда (о котором игроки смогут узнать после победы над друидами на Холме Вчерашнего Дня) и продолжить подготовку к появлению Мюриэль до её формального представления в начале квеста на винодельне.
 
-**_Changes to Lycanthropy._** Due to the game-breaking impact that a lycanthrope player character can have on your game, it has been intentionally made as difficult as possible to achieve the full benefits of the curse. This version creates clear-cut rules to delineate lycanthropes who have "embraced" their curse and those that have not, and ensures that these rules rely on character-driven storytelling, rather than arbitrary game mechanics.
+**_Изменения в ликантропии._** Из-за разрушительного влияния, которое персонаж-ликантроп может оказать на вашу игру, было намеренно сделано как можно более сложным получение полных преимуществ проклятия. Эта версия создаёт чёткие правила для разграничения ликантропов, которые «приняли» своё проклятие, и тех, кто этого не сделал, и обеспечивает, что эти правила опираются на персонажно-ориентированное повествование, а не на произвольные игровые механики.
 
-Lycanthropic immunity has been changed to silver-based regeneration in order to ensure that lycanthropes resonate with common understandings of lycanthropy and to ensure that all classes can meaningfully contribute to a lycanthrope's defeat, with or without magic weapons or spell. Lycanthropes have also been made weak to necrotic damage (in addition to damage from silvered weapons) in order to provide creative players with an alternate means of halting their regeneration and (more importantly) to explain how Strahd, who owns no silver weapons, is able to keep the werewolves in line.
+Иммунитет ликантропа был заменён регенерацией, основанной на серебре, чтобы обеспечить соответствие ликантропов общим представлениям о ликантропии и гарантировать, что все классы могут значимо участвовать в победе над ликантропом, с магическим оружием или заклинаниями или без них. Ликантропы также стали уязвимы к некротическому урону (в дополнение к урону от посеребрённого оружия), чтобы дать творческим игрокам альтернативный способ остановить их регенерацию и (что важнее) объяснить, как Страд, у которого нет серебряного оружия, способен держать оборотней в узде.
 
-**_The Tarokka Reading._** Madam Eva's warnings at the beginning of the reading have been added to increase the tension of the reading, to ensure that players treat it with the weight and care that it deserves, and to introduce a minor element of dramatic intrigue in the scenes that follow.
+**_Чтение Тарокка._** Предупреждения Мадам Евы в начале чтения были добавлены, чтобы повысить напряжение чтения, убедиться, что игроки отнесутся к нему с должным весом и вниманием, и ввести незначительный элемент драматической интриги в последующие сцены.
 
-**_Arturi Radanavich._** Arturi Radanavich is a creation of the _Advanced Dungeons & Dragons_ sourcebook _Van Richten's Guide to the Vistani._ His tale (and his character) have largely been transplanted directly into this guide in order to further introduce Van Richten's legend (and tragedy), to provide an explanation for Van Richten's transformation into a more sympathetic character, to introduce Ezmerelda d'Avenir, and to create player investment in Van Richten's history upon uncovering his burned journal in Van Richten's Tower.
+**_Артури Раданавич._** Артури Раданавич — персонаж из сборника _Advanced Dungeons & Dragons_ «Справочник Ван Рихтена по Вистани». Его история (и его персонаж) были в основном перенесены напрямую в это руководство, чтобы дополнительно представить легенду (и трагедию) Ван Рихтена, объяснить превращение Ван Рихтена в более симпатичного персонажа, представить Эсмеральду Д'Авенир и создать у игроков интерес к истории Ван Рихтена при обнаружении его сгоревшего дневника в Башне Ван Рихтена.
 
-**_The Dancing Fire._** The Game of Stories has been introduced to provide the players with an opportunity to decompress in a relatively safe location while engaging with and exploring one anothers' histories and interests. The Game itself—along with its wagers—introduces an aspect of dramatic tension to the encounter, ensuring that players remain invested and engaged with each story told.
+**_Танцующий огонь._** Игра историй была введена, чтобы дать игрокам возможность расслабиться в относительно безопасном месте, взаимодействуя и исследуя истории и интересы друг друга. Сама игра — вместе с её ставками — вводит элемент драматического напряжения во встречу, обеспечивая заинтересованность и вовлечённость игроков в каждую рассказанную историю.
 
-Stanimir's tale indicates the relationship between Strahd and the Vistani, thereby foreshadowing Arrigal's loyalty to him. Eliza's tale introduces the _Holy Symbol of Ravenkind_ and the sympathetic nature of ravens, as well as Baba Zelenna's interference with the Forest Fane at Yester Hill (i.e., by using it to summon Chernovog). Arturi's tale colorfully introduces the tragedy of Dr. Rudolph van Richten, building the suspense for a character that the players will soon have an opportunity to meet. Finally, Ireena's tale foreshadows her relationship to Izek Strazni and her true origins in Vallaki.
+История Станимира указывает на отношения между Страдом и Вистани, тем самым предвосхищая верность Арригала ему. История Элизы знакомит со _Святым Символом Равенкинд_ и симпатичной природой воронов, а также с вмешательством Бабы Зеленны в Лесной Фан на Холме Вчерашнего Дня (т.е. с использованием его для призыва Черновога). История Артури красочно представляет трагедию доктора Рудольфа ван Рихтена, нагнетая ожидание персонажа, которого игроки вскоре смогут встретить. Наконец, история Ирины предвосхищает её отношения с Айзеком Стражни и её истинное происхождение в Валлаки.
 
-**_A Gift for Arabelle._** Madam Eva's request has been added to create a hook to Blinsky Toys in Vallaki (allowing the players to observe Izek's commissioned Ireena-shaped doll) and to the Vistani encampment outside of Vallaki (allowing the players to begin the quest to find the missing Arabelle).
+**_Подарок для Арабэлль._** Просьба Мадам Евы была добавлена, чтобы создать зацепку к Игрушкам Блинского в Валлаки (позволяя игрокам увидеть заказанную Айзеком куклу в виде Ирины) и к лагерю Вистани у Валлаки (позволяя игрокам начать квест по поиску пропавшей Арабэлль).
 
-**_The Skeletal Rider._** The encounter with the skeletal rider is a short, but evocative scene that aims to resonate with the themes of undeath, loneliness, and mystery that infuse this arc.
+**_Скелетный всадник._** Встреча со скелетным всадником — короткая, но выразительная сцена, которая призвана резонировать с темами нежити, одиночества и тайны, пронизывающими эту арку.
 
-**_The Watchtower._** This short landmark serves to foreshadow the tragedy of the Barovian refugees, the fate of the Order of the Silver Dragon, and the bloodstained history of the valley.
+**_Сторожевая башня._** Этот короткий ориентир служит для предвосхищения трагедии баровийских беженцев, судьбы Ордена Серебряного Дракона и кровавой истории долины.
 
-**_Tser Falls._** The encounter with the revenant has been added to provide the players with a clear, though non-urgent hook to Argynvostholt. The revenant's responses are intentionally kept terse in order to ensure that the players learn little of the Order of the Silver Dragon until their meeting with Sir Godfrey Gwilym.
+**_Водопад Тсер._** Встреча с ревенантом была добавлена, чтобы дать игрокам чёткую, хотя и не срочную зацепку к Аргинвостхольту. Ответы ревенанта намеренно кратки, чтобы игроки мало узнали об Ордене Серебряного Дракона до встречи с сэром Годфри Гвили.
 
-**_Meeting Morgantha._** This scene has been intentionally structured to discourage the players from uncovering Morgantha's true identity, attacking the night hags, or entering Old Bonegrinder. (They will have a full opportunity to do so later in [[Arc H - The Lost Soul]].) Instead, this scene merely introduces Morgantha as a character, foreshadows her domain over dreams, and informs the players that she lives in the old windmill with her two daughters (i.e., her coven).
+**_Встреча с Моргантой._** Эта сцена намеренно построена так, чтобы отговорить игроков от раскрытия истинной личности Морганты, нападения на ночных карг или входа на Старую Мельницу. (У них будет полная возможность сделать это позже в [[Arc H - The Lost Soul]].) Вместо этого эта сцена лишь представляет Морганту как персонажа, предвосхищает её власть над снами и сообщает игрокам, что она живёт на старой мельнице с двумя дочерьми (т.е. со своим ковеном).
 
-**_The Deep Woods._** The swarms of ravens have been added to ensure that the players view ravens (and, by extension, wereravens) as friends and allies. Ireena's reaction to Lake Zarovich has been added to further foreshadow her relationship to Izek and her origins in Vallaki.
+**_Глубокий лес._** Рои воронов были добавлены, чтобы игроки воспринимали воронов (и, соответственно, вороворонов) как друзей и союзников. Реакция Ирины на Озеро Зарович была добавлена, чтобы дополнительно предвосхитить её отношения с Айзеком и её происхождение в Валлаки.
 
-**_The Werewolf's Hunt._** This brief combat encounter introduces werewolves and provides the swarms of ravens (and Muriel) with an opportunity to assist and defend the players. The wolves' **_Maul_** action option has been added to create a more tense and dynamic combat scenario.
+**_Охота оборотней._** Эта краткая боевая встреча знакомит с оборотнями и даёт роям воронов (и Мюриэль) возможность помочь и защитить игроков. Действие **_Терзание_** волков было добавлено для создания более напряжённого и динамичного боевого сценария.
 
-## Welcome to Vallaki
+## Добро пожаловать в Валлаки
 
-**_The Refugee Camp._** The Barovian refugee camp has been placed here to provide the players with an additional reason to hate Baron Vallakovich and Izek, and to provide Morgantha with a natural constituency for her dream pastries. By rejecting Ireena's efforts to help them, the refugees progress her character arc by allowing her to realize that she cannot help her people so long as Strahd survives, which fuels her ultimate decision to join the party in their fight.
+**_Лагерь беженцев._** Лагерь баровийских беженцев был размещён здесь, чтобы дать игрокам дополнительную причину ненавидеть барона Валлаковича и Айзека, а также обеспечить Морганте естественный электорат для её пирожков со снами. Отвергая попытки Ирины помочь им, беженцы продвигают её арку персонажа, позволяя ей осознать, что она не может помочь своему народу, пока Страд жив, что подпитывает её конечное решение присоединиться к отряду в их борьбе.
 
-**_The Tax._** The guards' tax gives the players an additional reason to hate Baron Vallakovich. The silver tariff also indicates to the players the wealth of silvered weapons and ammunition that the Baron has hoarded.
+**_Налог._** Налог стражников даёт игрокам дополнительную причину ненавидеть барона Валлаковича. Конфискация серебра также указывает игрокам на богатство посеребрённого оружия и боеприпасов, которые Барон накопил.
 
-**_The Blue Water Inn._** This sequence has been intentionally structured to slowly and manageably introduce the players to several of the key players in Vallaki: the Martikovs, the Wachters, the wolf-hunters, and the ringmaster Rictavio. Rictavio's tale has been written to be as comedic as reasonably possible in order to discourage the players from taking him seriously until the reveal of his identity in [[Arc E - The Missing Vistana]].
+**_Таверна «Синяя Вода»._** Эта последовательность намеренно построена так, чтобы медленно и управляемо познакомить игроков с несколькими ключевыми фигурами Валлаки: Мартиковыми, Вахтерами, охотниками на волков и распорядителем Риктавио. История Риктавио была написана максимально комично, чтобы игроки не воспринимали его всерьёз до раскрытия его личности в [[Arc E - The Missing Vistana]].
 
-**_Exiting the Inn._** The players' encounter with Baron Vallakovich and Izek on the roads of Vallaki has been added to provide the players with an immediate reason to dislike them, to introduce the players to Father Lucian Petrovich, to set up the core dramatic tension of the Baron's tyrannical rule over Vallaki, to kick off Izek's pursuit of Ireena, and to provide Lady Fiona Wachter with an actionable reason to invite the players into her machinations. **It is essential that the players do _not_ fight Izek here, and all reasonable precautions have been taken to ensure this.**
+**_Выход из таверны._** Встреча игроков с бароном Валлаковичем и Айзеком на улицах Валлаки была добавлена, чтобы дать игрокам немедленную причину невзлюбить их, познакомить игроков с отцом Лукьяном Петровичем, установить центральное драматическое напряжение тиранического правления Барона над Валлаки, запустить преследование Ирины Айзеком и дать леди Фионе Вахтер действенную причину пригласить игроков в свои махинации. **Крайне важно, чтобы игроки НЕ сражались с Айзеком здесь, и все разумные меры предосторожности были приняты для обеспечения этого.**
